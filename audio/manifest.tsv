@@ -1,0 +1,195 @@
+section	id	korean_spoken	korean	romanization	english
+hangul	read-01	엄마	엄마	eom-ma	mom
+hangul	read-02	아빠	아빠	a-ppa	dad
+hangul	read-03	커피	커피	keo-pi	coffee
+hangul	read-04	바나나	바나나	ba-na-na	banana
+hangul	read-05	김치	김치	gim-chi	kimchi
+hangul	read-06	사랑	사랑	sa-rang	love
+hangul	read-07	한국	한국	han-guk	Korea
+hangul	read-08	교회	교회	gyo-hoe	church
+hangul	write-01	안녕하세요	안녕하세요	an-nyeong-ha-se-yo	Hello
+hangul	write-02	감사합니다	감사합니다	gam-sa-ham-ni-da	Thank you
+hangul	write-03	사랑해요	사랑해요	sa-rang-hae-yo	I love you
+hangul	write-04	친구	친구	chin-gu	friend
+hangul	write-05	교회	교회	gyo-hoe	church
+hangul	write-06	하나님	하나님	ha-na-nim	God
+hangul	write-07	예수님	예수님	ye-su-nim	Jesus
+hangul	write-08	맛있어요	맛있어요	ma-si-sseo-yo	It's delicious
+hangul	write-09	한국어	한국어	han-gu-geo	the Korean language
+hangul	write-10	또 만나요	또 만나요	tto man-na-yo	See you again
+u1	words-01	안녕하세요	안녕하세요	an-nyeong-ha-se-yo	Hello
+u1	words-02	감사합니다	감사합니다	gam-sa-ham-ni-da	Thank you
+u1	words-03	네	네	ne	Yes
+u1	words-04	아니요	아니요	a-ni-yo	No
+u1	words-05	이름	이름	i-reum	name
+u1	words-06	친구	친구	chin-gu	friend
+u1	words-07	죄송합니다	죄송합니다	joe-song-ham-ni-da	I'm sorry
+u1	words-08	괜찮아요	괜찮아요	gwaen-cha-na-yo	It's okay
+u1	say-01	안녕하세요!	안녕하세요!	an-nyeong-ha-se-yo	Hello!
+u1	say-02	저는 선교사예요.	저는 ___예요/이에요.	jeo-neun ___-ye-yo / ___-i-e-yo	I'm ___.
+u1	say-03	이름이 뭐예요?	이름이 뭐예요?	i-reu-mi mwo-ye-yo	What's your name?
+u1	say-04	만나서 반가워요.	만나서 반가워요.	man-na-seo ban-ga-wo-yo	Nice to meet you.
+u1	say-05	안녕히 가세요.	안녕히 가세요.	an-nyeong-hi ga-se-yo	Goodbye! (to someone leaving)
+u1	say-06	안녕히 계세요.	안녕히 계세요.	an-nyeong-hi gye-se-yo	Goodbye! (to someone staying)
+u1	talk-01	안녕하세요! 저는 지우예요.	안녕하세요! 저는 지우예요.	an-nyeong-ha-se-yo! jeo-neun ji-u-ye-yo	Hello! I'm Jiwoo.
+u1	talk-02	안녕하세요! 저는 선교사예요.	안녕하세요! 저는 ___예요/이에요.	an-nyeong-ha-se-yo! jeo-neun ___-ye-yo / ___-i-e-yo	Hello! I'm ___.
+u1	talk-03	만나서 반가워요!	만나서 반가워요!	man-na-seo ban-ga-wo-yo	Nice to meet you!
+u1	talk-04	저도 반가워요. 감사합니다!	저도 반가워요. 감사합니다!	jeo-do ban-ga-wo-yo. gam-sa-ham-ni-da	Nice to meet you too. Thank you!
+u2	words-01	밥	밥	bap	rice / a meal
+u2	words-02	물	물	mul	water
+u2	words-03	김치	김치	gim-chi	kimchi
+u2	words-04	김밥	김밥	gim-bap	gimbap (rice roll)
+u2	words-05	떡볶이	떡볶이	tteok-bo-kki	spicy rice cakes
+u2	words-06	불고기	불고기	bul-go-gi	Korean BBQ beef
+u2	words-07	맛있어요	맛있어요	ma-si-sseo-yo	It's delicious
+u2	words-08	매워요	매워요	mae-wo-yo	It's spicy
+u2	say-01	잘 먹겠습니다!	잘 먹겠습니다!	jal meok-get-seum-ni-da	Thank you for the food! (before eating)
+u2	say-02	잘 먹었습니다!	잘 먹었습니다!	jal meo-geot-seum-ni-da	Thank you, I enjoyed it! (after eating)
+u2	say-03	정말 맛있어요!	정말 맛있어요!	jeong-mal ma-si-sseo-yo	It's really delicious!
+u2	say-04	조금 매워요.	조금 매워요.	jo-geum mae-wo-yo	It's a little spicy.
+u2	say-05	물 주세요.	물 주세요.	mul ju-se-yo	Water, please.
+u2	say-06	배불러요!	배불러요!	bae-bul-leo-yo	I'm full!
+u2	talk-01	많이 드세요!	많이 드세요!	ma-ni deu-se-yo	Please eat a lot! (Enjoy!)
+u2	talk-02	잘 먹겠습니다!	잘 먹겠습니다!	jal meok-get-seum-ni-da	Thank you for the food!
+u2	talk-03	맛있어요?	맛있어요?	ma-si-sseo-yo	Is it good?
+u2	talk-04	네, 정말 맛있어요! 조금 매워요.	네, 정말 맛있어요! 조금 매워요.	ne, jeong-mal ma-si-sseo-yo! jo-geum mae-wo-yo	Yes, really good! A little spicy.
+u3	words-01	가위	가위	ga-wi	scissors
+u3	words-02	바위	바위	ba-wi	rock
+u3	words-03	보	보	bo	paper
+u3	words-04	놀이	놀이	no-ri	game, play
+u3	words-05	하나, 둘, 셋	하나, 둘, 셋	ha-na, dul, set	one, two, three
+u3	words-06	내 차례	내 차례	nae cha-rye	my turn
+u3	words-07	이겼다!	이겼다!	i-gyeot-da	I won!
+u3	words-08	졌다!	졌다!	jyeot-da	I lost!
+u3	say-01	가위, 바위, 보!	가위, 바위, 보!	ga-wi, ba-wi, bo	Rock, paper, scissors!
+u3	say-02	같이 해요!	같이 해요!	ga-chi hae-yo	Let's do it together!
+u3	say-03	내 차례예요.	내 차례예요.	nae cha-rye-ye-yo	It's my turn.
+u3	say-04	잘했어요!	잘했어요!	jal-hae-sseo-yo	Good job!
+u3	say-05	화이팅!	화이팅!	hwa-i-ting	You can do it! / Go, go!
+u3	say-06	한 번 더!	한 번 더!	han beon deo	One more time!
+u3	talk-01	같이 놀아요!	같이 놀아요!	ga-chi no-ra-yo	Let's play together!
+u3	talk-02	좋아요! 가위, 바위, 보!	좋아요! 가위, 바위, 보!	jo-a-yo! ga-wi, ba-wi, bo	Okay! Rock, paper, scissors!
+u3	talk-03	와, 이겼다! 내 차례예요.	와, 이겼다! 내 차례예요.	wa, i-gyeot-da! nae cha-rye-ye-yo	Wow, I won! It's my turn.
+u3	talk-04	잘했어요! 화이팅!	잘했어요! 화이팅!	jal-hae-sseo-yo! hwa-i-ting	Good job! Go, go!
+u4	words-01	이거	이거	i-geo	this
+u4	words-02	저거	저거	jeo-geo	that
+u4	words-03	화장실	화장실	hwa-jang-sil	restroom
+u4	words-04	어디	어디	eo-di	where
+u4	words-05	얼마	얼마	eol-ma	how much
+u4	words-06	사진	사진	sa-jin	photo
+u4	words-07	커피	커피	keo-pi	coffee
+u4	words-08	카드	카드	ka-deu	card
+u4	say-01	이거 뭐예요?	이거 뭐예요?	i-geo mwo-ye-yo	What is this?
+u4	say-02	이거 얼마예요?	이거 얼마예요?	i-geo eol-ma-ye-yo	How much is this?
+u4	say-03	이거 주세요.	이거 주세요.	i-geo ju-se-yo	This one, please.
+u4	say-04	화장실 어디예요?	화장실 어디예요?	hwa-jang-sil eo-di-ye-yo	Where is the restroom?
+u4	say-05	사진 찍어도 돼요?	사진 찍어도 돼요?	sa-jin jji-geo-do dwae-yo	May I take a photo?
+u4	say-06	천천히 말해 주세요.	천천히 말해 주세요.	cheon-cheon-hi mal-hae ju-se-yo	Please speak slowly.
+u4	talk-01	안녕하세요! 이거 얼마예요?	안녕하세요! 이거 얼마예요?	an-nyeong-ha-se-yo! i-geo eol-ma-ye-yo	Hello! How much is this?
+u4	talk-02	호떡이에요. 이천 원이에요.	호떡이에요. 이천 원이에요.	ho-tteo-gi-e-yo. i-cheon wo-ni-e-yo	It's hotteok (sweet pancake). It's 2,000 won.
+u4	talk-03	이거 주세요. 감사합니다!	이거 주세요. 감사합니다!	i-geo ju-se-yo. gam-sa-ham-ni-da	This one, please. Thank you!
+u4	talk-04	맛있게 드세요!	맛있게 드세요!	ma-sit-ge deu-se-yo	Enjoy!
+u5	words-01	하나님	하나님	ha-na-nim	God
+u5	words-02	예수님	예수님	ye-su-nim	Jesus
+u5	words-03	교회	교회	gyo-hoe	church
+u5	words-04	기도	기도	gi-do	prayer
+u5	words-05	찬양	찬양	cha-nyang	worship song
+u5	words-06	사랑	사랑	sa-rang	love
+u5	words-07	아멘	아멘	a-men	Amen
+u5	words-08	할렐루야	할렐루야	hal-lel-lu-ya	Hallelujah
+u5	say-01	하나님은 당신을 사랑하세요.	하나님은 당신을 사랑하세요.	ha-na-ni-meun dang-si-neul sa-rang-ha-se-yo	God loves you.
+u5	say-02	예수님 사랑해요!	예수님 사랑해요!	ye-su-nim sa-rang-hae-yo	I love Jesus!
+u5	say-03	축복합니다!	축복합니다!	chuk-bo-kam-ni-da	God bless you!
+u5	say-04	기도할게요.	기도할게요.	gi-do-hal-ge-yo	I will pray for you.
+u5	say-05	같이 기도해요.	같이 기도해요.	ga-chi gi-do-hae-yo	Let's pray together.
+u5	say-06	은혜 받았어요!	은혜 받았어요!	eun-hye ba-da-sseo-yo	I was blessed! (It touched my heart.)
+u5	talk-01	오늘 찬양 정말 좋았어요!	오늘 찬양 정말 좋았어요!	o-neul cha-nyang jeong-mal jo-a-sseo-yo	The worship today was so good!
+u5	talk-02	네! 은혜 받았어요!	네! 은혜 받았어요!	ne! eun-hye ba-da-sseo-yo	Yes! I was blessed!
+u5	talk-03	기도 제목 있어요?	기도 제목 있어요?	gi-do je-mok i-sseo-yo	Do you have a prayer request?
+u5	talk-04	네, 기도할게요. 축복합니다!	네, 기도할게요. 축복합니다!	ne, gi-do-hal-ge-yo. chuk-bo-kam-ni-da	Yes — I will pray for you. God bless you!
+u6	words-01	좋아요	좋아요	jo-a-yo	good / I like it
+u6	words-02	기뻐요	기뻐요	gi-ppeo-yo	I'm glad
+u6	words-03	행복해요	행복해요	haeng-bo-kae-yo	I'm happy
+u6	words-04	재밌어요	재밌어요	jae-mi-sseo-yo	It's fun
+u6	words-05	피곤해요	피곤해요	pi-gon-hae-yo	I'm tired
+u6	words-06	추워요	추워요	chu-wo-yo	I'm cold
+u6	words-07	배고파요	배고파요	bae-go-pa-yo	I'm hungry
+u6	words-08	최고예요!	최고예요!	choe-go-ye-yo	You're the best!
+u6	say-01	기분이 어때요?	기분이 어때요?	gi-bu-ni eo-ttae-yo	How are you feeling?
+u6	say-02	너무 행복해요!	너무 행복해요!	neo-mu haeng-bo-kae-yo	I'm so happy!
+u6	say-03	정말 재밌어요!	정말 재밌어요!	jeong-mal jae-mi-sseo-yo	This is so fun!
+u6	say-04	우리는 친구예요.	우리는 친구예요.	u-ri-neun chin-gu-ye-yo	We are friends.
+u6	say-05	사랑해요!	사랑해요!	sa-rang-hae-yo	I love you!
+u6	say-06	최고예요!	최고예요!	choe-go-ye-yo	You're the best!
+u6	talk-01	기분이 어때요?	기분이 어때요?	gi-bu-ni eo-ttae-yo	How are you feeling?
+u6	talk-02	조금 피곤해요. 그런데 너무 행복해요!	조금 피곤해요. 그런데 너무 행복해요!	jo-geum pi-gon-hae-yo. geu-reon-de neo-mu haeng-bo-kae-yo	A little tired. But I'm so happy!
+u6	talk-03	우리는 친구예요!	우리는 친구예요!	u-ri-neun chin-gu-ye-yo	We are friends!
+u6	talk-04	네! 최고예요! 사랑해요!	네! 최고예요! 사랑해요!	ne! choe-go-ye-yo! sa-rang-hae-yo	Yes! You're the best! Love you!
+u7	words-01	고마워요	고마워요	go-ma-wo-yo	Thanks
+u7	words-02	또	또	tto	again
+u7	words-03	만나요	만나요	man-na-yo	let's meet
+u7	words-04	보고 싶어요	보고 싶어요	bo-go si-peo-yo	I miss you
+u7	words-05	기억	기억	gi-eok	memory
+u7	words-06	한국	한국	han-guk	Korea
+u7	words-07	미국	미국	mi-guk	America
+u7	words-08	축복	축복	chuk-bok	blessing
+u7	say-01	정말 고마워요!	정말 고마워요!	jeong-mal go-ma-wo-yo	Thank you so much!
+u7	say-02	보고 싶을 거예요.	보고 싶을 거예요.	bo-go si-peul geo-ye-yo	I will miss you.
+u7	say-03	잊지 않을게요.	잊지 않을게요.	it-ji a-neul-ge-yo	I won't forget you.
+u7	say-04	또 만나요!	또 만나요!	tto man-na-yo	See you again!
+u7	say-05	건강하세요.	건강하세요.	geon-gang-ha-se-yo	Stay healthy. (Take care.)
+u7	say-06	하나님이 축복하실 거예요.	하나님이 축복하실 거예요.	ha-na-ni-mi chuk-bo-ka-sil geo-ye-yo	God will bless you.
+u7	talk-01	벌써 가요? 보고 싶을 거예요.	벌써 가요? 보고 싶을 거예요.	beol-sseo ga-yo? bo-go si-peul geo-ye-yo	Leaving already? I will miss you.
+u7	talk-02	저도요. 정말 고마워요!	저도요. 정말 고마워요!	jeo-do-yo. jeong-mal go-ma-wo-yo	Me too. Thank you so much!
+u7	talk-03	건강하세요. 또 만나요!	건강하세요. 또 만나요!	geon-gang-ha-se-yo. tto man-na-yo	Take care. See you again!
+u7	talk-04	잊지 않을게요. 축복합니다!	잊지 않을게요. 축복합니다!	it-ji a-neul-ge-yo. chuk-bo-kam-ni-da	I won't forget you. God bless you!
+talk	d1-01	안녕하세요! 이름이 뭐예요?	안녕하세요! 이름이 뭐예요?	an-nyeong-ha-se-yo! i-reu-mi mwo-ye-yo	Hello! What's your name?
+talk	d1-02	저는 선교사예요. 만나서 반가워요.	저는 ___예요/이에요. 만나서 반가워요.	jeo-neun ___-ye-yo / ___-i-e-yo. man-na-seo ban-ga-wo-yo	I'm ___. Nice to meet you.
+talk	d1-03	저도 반가워요. 오늘 찬양 정말 좋았어요!	저도 반가워요. 오늘 찬양 정말 좋았어요!	jeo-do ban-ga-wo-yo. o-neul cha-nyang jeong-mal jo-a-sseo-yo	Nice to meet you too. The worship today was so good!
+talk	d1-04	네! 은혜 받았어요!	네! 은혜 받았어요!	ne! eun-hye ba-da-sseo-yo	Yes! I was blessed!
+talk	d1-05	기도 제목 있어요?	기도 제목 있어요?	gi-do je-mok i-sseo-yo	Do you have a prayer request?
+talk	d1-06	네, 가족을 위해 기도해 주세요. 저도 기도할게요!	네, 가족을 위해 기도해 주세요. 저도 기도할게요!	ne, ga-jo-geul wi-hae gi-do-hae ju-se-yo. jeo-do gi-do-hal-ge-yo	Yes, please pray for my family. I will pray for you too!
+talk	d2-01	어서 오세요!	어서 오세요!	eo-seo o-se-yo	Welcome! (come on in)
+talk	d2-02	초대해 주셔서 감사합니다!	초대해 주셔서 감사합니다!	cho-dae-hae ju-syeo-seo gam-sa-ham-ni-da	Thank you for inviting me!
+talk	d2-03	많이 드세요!	많이 드세요!	ma-ni deu-se-yo	Please eat a lot!
+talk	d2-04	잘 먹겠습니다!	잘 먹겠습니다!	jal meok-get-seum-ni-da	Thank you for the food!
+talk	d2-05	맛있어요?	맛있어요?	ma-si-sseo-yo	Is it good?
+talk	d2-06	네, 정말 맛있어요! 조금 매워요.	네, 정말 맛있어요! 조금 매워요.	ne, jeong-mal ma-si-sseo-yo! jo-geum mae-wo-yo	Yes, really good! A little spicy.
+talk	d2-07	물 여기 있어요.	물 여기 있어요.	mul yeo-gi i-sseo-yo	Here's some water.
+talk	d2-08	고마워요! 배불러요. 잘 먹었습니다!	고마워요! 배불러요. 잘 먹었습니다!	go-ma-wo-yo! bae-bul-leo-yo. jal meo-geot-seum-ni-da	Thanks! I'm full. Thank you, I enjoyed it!
+talk	d3-01	안녕하세요! 커피 두 잔 주세요.	안녕하세요! 커피 두 잔 주세요.	an-nyeong-ha-se-yo! keo-pi du jan ju-se-yo	Hello! Two coffees, please.
+talk	d3-02	드시고 가세요? 포장이세요?	드시고 가세요? 포장이세요?	deu-si-go ga-se-yo? po-jang-i-se-yo	For here or to go?
+talk	d3-03	포장해 주세요. 카드 돼요?	포장해 주세요. 카드 돼요?	po-jang-hae ju-se-yo. ka-deu dwae-yo	To go, please. Can I pay by card?
+talk	d3-04	네, 돼요. 맛있게 드세요!	네, 돼요. 맛있게 드세요!	ne, dwae-yo. ma-sit-ge deu-se-yo	Yes, you can. Enjoy!
+talk	d3-05	감사합니다! 지하철역이 어디예요?	감사합니다! 지하철역이 어디예요?	gam-sa-ham-ni-da! ji-ha-cheol-lyeo-gi eo-di-ye-yo	Thank you! Where is the subway station?
+talk	d3-06	저기예요.	저기예요.	jeo-gi-ye-yo	It's over there.
+talk	d4-01	벌써 가요? 보고 싶을 거예요.	벌써 가요? 보고 싶을 거예요.	beol-sseo ga-yo? bo-go si-peul geo-ye-yo	Leaving already? I will miss you.
+talk	d4-02	저도 보고 싶을 거예요. 정말 고마워요!	저도 보고 싶을 거예요. 정말 고마워요!	jeo-do bo-go si-peul geo-ye-yo. jeong-mal go-ma-wo-yo	I will miss you too. Thank you so much!
+talk	d4-03	미국에서도 건강하세요.	미국에서도 건강하세요.	mi-gu-ge-seo-do geon-gang-ha-se-yo	Stay healthy in America too.
+talk	d4-04	네, 카톡 해요! 기도할게요.	네, 카톡 해요! 기도할게요.	ne, ka-tok hae-yo! gi-do-hal-ge-yo	Yes, let's keep in touch on KakaoTalk! I will pray for you.
+talk	d4-05	우리도 기도할게요. 또 만나요!	우리도 기도할게요. 또 만나요!	u-ri-do gi-do-hal-ge-yo. tto man-na-yo	We will pray for you too. See you again!
+talk	d4-06	잊지 않을게요. 축복합니다!	잊지 않을게요. 축복합니다!	it-ji a-neul-ge-yo. chuk-bo-kam-ni-da	I won't forget you. God bless you!
+verses	verse-01	우리가 사랑함은 그가 먼저 우리를 사랑하셨음이라	우리가 사랑함은 그가 먼저 우리를 사랑하셨음이라	u-ri-ga sa-rang-ha-meun geu-ga meon-jeo u-ri-reul sa-rang-ha-syeo-sseu-mi-ra	1 John 4:19 — “We love him, because he first loved us.”
+verses	verse-02	여호와는 나의 목자시니 내가 부족함이 없으리로다	여호와는 나의 목자시니 내가 부족함이 없으리로다	yeo-ho-wa-neun na-e mok-ja-si-ni nae-ga bu-jo-ka-mi eop-seu-ri-ro-da	Psalm 23:1 — “The LORD is my shepherd; I shall not want.”
+verses	verse-03	내게 능력 주시는 자 안에서 내가 모든 것을 할 수 있느니라	내게 능력 주시는 자 안에서 내가 모든 것을 할 수 있느니라	nae-ge neung-nyeok ju-si-neun ja a-ne-seo nae-ga mo-deun geo-seul hal su in-neu-ni-ra	Philippians 4:13 — “I can do all things through Christ which strengtheneth me.”
+verses	verse-04	수고하고 무거운 짐진 자들아 다 내게로 오라 내가 너희를 쉬게 하리라	수고하고 무거운 짐진 자들아 다 내게로 오라 내가 너희를 쉬게 하리라	su-go-ha-go mu-geo-un jim-jin ja-deu-ra da nae-ge-ro o-ra nae-ga neo-hi-reul swi-ge ha-ri-ra	Matthew 11:28 — “Come unto me, all ye that labour and are heavy laden, and I will give you rest.”
+verses	verse-05	하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 저를 믿는 자마다 멸망치 않고 영생을 얻게 하려 하심이니라	하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 저를 믿는 자마다 멸망치 않고 영생을 얻게 하려 하심이니라	ha-na-ni-mi se-sang-eul i-cheo-reom sa-rang-ha-sa dok-saeng-ja-reul ju-syeo-sseu-ni i-neun jeo-reul min-neun ja-ma-da myeol-mang-chi an-ko yeong-saeng-eul eot-ge ha-ryeo ha-si-mi-ni-ra	John 3:16 — “For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”
+verses	verse-06	너는 마음을 다하여 여호와를 의뢰하고 네 명철을 의지하지 말라	너는 마음을 다하여 여호와를 의뢰하고 네 명철을 의지하지 말라	neo-neun ma-eu-meul da-ha-yeo yeo-ho-wa-reul ui-roe-ha-go ne myeong-cheo-reul ui-ji-ha-ji mal-la	Proverbs 3:5 — “Trust in the LORD with all thine heart; and lean not unto thine own understanding.”
+verses	verse-07	우리가 알거니와 하나님을 사랑하는 자 곧 그 뜻대로 부르심을 입은 자들에게는 모든 것이 합력하여 선을 이루느니라	우리가 알거니와 하나님을 사랑하는 자 곧 그 뜻대로 부르심을 입은 자들에게는 모든 것이 합력하여 선을 이루느니라	u-ri-ga al-geo-ni-wa ha-na-ni-meul sa-rang-ha-neun ja got geu tteut-dae-ro bu-reu-si-meul i-beun ja-deu-re-ge-neun mo-deun geo-si ham-nyeo-ka-yeo seo-neul i-ru-neu-ni-ra	Romans 8:28 — “And we know that all things work together for good to them that love God, to them who are the called according to his purpose.”
+verses	verse-08	나 여호와가 말하노라 너희를 향한 나의 생각은 내가 아나니 재앙이 아니라 곧 평안이요 너희 장래에 소망을 주려하는 생각이라	나 여호와가 말하노라 너희를 향한 나의 생각은 내가 아나니 재앙이 아니라 곧 평안이요 너희 장래에 소망을 주려하는 생각이라	na yeo-ho-wa-ga mal-ha-no-ra neo-hi-reul hyang-han na-e saeng-ga-geun nae-ga a-na-ni jae-ang-i a-ni-ra got pyeong-a-ni-yo neo-hi jang-nae-e so-mang-eul ju-ryeo-ha-neun saeng-ga-gi-ra	Jeremiah 29:11 — “For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.”
+verses	verse-09	두려워 말라 내가 너와 함께 함이니라 놀라지 말라 나는 네 하나님이 됨이니라 내가 너를 굳세게 하리라 참으로 너를 도와 주리라 참으로 나의 의로운 오른손으로 너를 붙들리라	두려워 말라 내가 너와 함께 함이니라 놀라지 말라 나는 네 하나님이 됨이니라 내가 너를 굳세게 하리라 참으로 너를 도와 주리라 참으로 나의 의로운 오른손으로 너를 붙들리라	du-ryeo-wo mal-la nae-ga neo-wa ham-kke ha-mi-ni-ra nol-la-ji mal-la na-neun ne ha-na-ni-mi doe-mi-ni-ra nae-ga neo-reul gut-se-ge ha-ri-ra cha-meu-ro neo-reul do-wa ju-ri-ra cha-meu-ro na-e ui-ro-un o-reun-so-neu-ro neo-reul but-deul-li-ra	Isaiah 41:10 — “Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.”
+verses	verse-10	내가 네게 명한 것이 아니냐 마음을 강하게 하고 담대히 하라 두려워 말며 놀라지 말라 네가 어디로 가든지 네 하나님 여호와가 너와 함께 하느니라 하시니라	내가 네게 명한 것이 아니냐 마음을 강하게 하고 담대히 하라 두려워 말며 놀라지 말라 네가 어디로 가든지 네 하나님 여호와가 너와 함께 하느니라 하시니라	nae-ga ne-ge myeong-han geo-si a-ni-nya ma-eu-meul gang-ha-ge ha-go dam-dae-hi ha-ra du-ryeo-wo mal-myeo nol-la-ji mal-la ne-ga eo-di-ro ga-deun-ji ne ha-na-nim yeo-ho-wa-ga neo-wa ham-kke ha-neu-ni-ra ha-si-ni-ra	Joshua 1:9 — “Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.”
+ourweeks	nov15-01	처음 뵙겠습니다. 미국에서 왔어요.	처음 뵙겠습니다. 미국에서 왔어요.	cheo-eum boep-get-seum-ni-da. mi-gu-ge-seo wa-sseo-yo	Nice to meet you. I came from America.
+ourweeks	nov15-02	함께 예배드릴 수 있어서 감사해요.	함께 예배드릴 수 있어서 감사해요.	ham-kke ye-bae-deu-ril su i-sseo-seo gam-sa-hae-yo	I'm thankful we could worship together.
+ourweeks	nov16-01	영어 캠프에 온 걸 환영해요!	영어 캠프에 온 걸 환영해요!	yeong-eo kaem-peu-e on geol hwa-nyeong-hae-yo	Welcome to English Camp!
+ourweeks	nov16-02	잘했어요! 한 번 더 해 볼까요?	잘했어요! 한 번 더 해 볼까요?	jal-hae-sseo-yo! han beon deo hae bol-kka-yo	Well done! Shall we try one more time?
+ourweeks	nov21-01	무궁화 꽃이 피었습니다!	무궁화 꽃이 피었습니다!	mu-gung-hwa kko-chi pi-eot-seum-ni-da	“The rose of Sharon has bloomed!” (the Korean “Red Light, Green Light”)
+ourweeks	nov21-02	달고나 성공했어요!	달고나 성공했어요!	dal-go-na seong-gong-hae-sseo-yo	I did it — my dalgona shape didn't break!
+ourweeks	nov22-01	새생명축제에 오신 것을 환영합니다!	새생명축제에 오신 것을 환영합니다!	sae-saeng-myeong-chuk-je-e o-sin geo-seul hwa-nyeong-ham-ni-da	Welcome to the New Life Festival!
+ourweeks	nov22-02	오늘 와 주셔서 정말 감사해요.	오늘 와 주셔서 정말 감사해요.	o-neul wa ju-syeo-seo jeong-mal gam-sa-hae-yo	Thank you so much for coming today.
+ourweeks	nov24-01	수료를 축하해요!	수료를 축하해요!	su-ryo-reul chu-ka-hae-yo	Congratulations on finishing the camp!
+ourweeks	nov24-02	같이 사진 찍어요!	같이 사진 찍어요!	ga-chi sa-jin jji-geo-yo	Let's take a picture together!
+ourweeks	nov25-01	예수님이 당신을 사랑하십니다.	예수님이 당신을 사랑하십니다.	ye-su-ni-mi dang-si-neul sa-rang-ha-sim-ni-da	Jesus loves you.
+ourweeks	nov25-02	함께 찬양해요.	함께 찬양해요.	ham-kke cha-nyang-hae-yo	Let's praise God together.
+ourweeks	nov28-01	그동안 정말 고마웠어요.	그동안 정말 고마웠어요.	geu-dong-an jeong-mal go-ma-wo-sseo-yo	Thank you so much for everything.
+ourweeks	nov28-02	서로 기도해요. 또 만나요!	서로 기도해요. 또 만나요!	seo-ro gi-do-hae-yo. tto man-na-yo	Let's pray for each other. See you again!
