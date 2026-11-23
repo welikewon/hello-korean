@@ -1,567 +1,567 @@
-section	id	korean_spoken	korean	romanization	english	speed
-hangul	read-01	엄마	엄마	eom-ma	mom	1.0
-hangul	read-02	아빠	아빠	a-ppa	dad	1.0
-hangul	read-03	커피	커피	keo-pi	coffee	1.0
-hangul	read-04	바나나	바나나	ba-na-na	banana	1.0
-hangul	read-05	김치	김치	gim-chi	kimchi	1.0
-hangul	read-06	사랑	사랑	sa-rang	love	1.0
-hangul	read-07	한국	한국	han-guk	Korea	1.0
-hangul	read-08	교회	교회	gyo-hoe	church	1.0
-hangul	write-01	안녕하세요	안녕하세요	an-nyeong-ha-se-yo	Hello	1.0
-hangul	write-02	감사합니다	감사합니다	gam-sa-ham-ni-da	Thank you	1.0
-hangul	write-03	사랑해요	사랑해요	sa-rang-hae-yo	I love you	1.0
-hangul	write-04	친구	친구	chin-gu	friend	1.0
-hangul	write-05	교회	교회	gyo-hoe	church	1.0
-hangul	write-06	하나님	하나님	ha-na-nim	God	1.0
-hangul	write-07	예수님	예수님	ye-su-nim	Jesus	1.0
-hangul	write-08	맛있어요	맛있어요	ma-si-sseo-yo	It's delicious	1.0
-hangul	write-09	한국어	한국어	han-gu-geo	the Korean language	1.0
-hangul	write-10	또 만나요	또 만나요	tto man-na-yo	See you again	1.0
-u1	words-01	안녕하세요	안녕하세요	an-nyeong-ha-se-yo	Hello	1.0
-u1	words-02	감사합니다	감사합니다	gam-sa-ham-ni-da	Thank you	1.0
-u1	words-03	네	네	ne	Yes	1.0
-u1	words-04	아니요	아니요	a-ni-yo	No	1.0
-u1	words-05	이름	이름	i-reum	name	1.0
-u1	words-06	친구	친구	chin-gu	friend	1.0
-u1	words-07	죄송합니다	죄송합니다	joe-song-ham-ni-da	I'm sorry	1.0
-u1	words-08	괜찮아요	괜찮아요	gwaen-cha-na-yo	It's okay	1.0
-u1	say-01	안녕하세요!	안녕하세요!	an-nyeong-ha-se-yo	Hello!	1.0
-u1	say-02	저는 선교사예요.	저는 ___예요/이에요.	jeo-neun ___-ye-yo / ___-i-e-yo	I'm ___.	1.0
-u1	say-03	이름이 뭐예요?	이름이 뭐예요?	i-reu-mi mwo-ye-yo	What's your name?	1.0
-u1	say-04	만나서 반가워요.	만나서 반가워요.	man-na-seo ban-ga-wo-yo	Nice to meet you.	1.0
-u1	say-05	안녕히 가세요.	안녕히 가세요.	an-nyeong-hi ga-se-yo	Goodbye! (to someone leaving)	1.0
-u1	say-06	안녕히 계세요.	안녕히 계세요.	an-nyeong-hi gye-se-yo	Goodbye! (to someone staying)	1.0
-u1	talk-01	안녕하세요! 저는 지우예요.	안녕하세요! 저는 지우예요.	an-nyeong-ha-se-yo! jeo-neun ji-u-ye-yo	Hello! I'm Jiwoo.	1.0
-u1	talk-02	안녕하세요! 저는 선교사예요.	안녕하세요! 저는 ___예요/이에요.	an-nyeong-ha-se-yo! jeo-neun ___-ye-yo / ___-i-e-yo	Hello! I'm ___.	1.0
-u1	talk-03	만나서 반가워요!	만나서 반가워요!	man-na-seo ban-ga-wo-yo	Nice to meet you!	1.0
-u1	talk-04	저도 반가워요. 감사합니다!	저도 반가워요. 감사합니다!	jeo-do ban-ga-wo-yo. gam-sa-ham-ni-da	Nice to meet you too. Thank you!	1.0
-u2	words-01	밥	밥	bap	rice / a meal	1.0
-u2	words-02	물	물	mul	water	1.0
-u2	words-03	김치	김치	gim-chi	kimchi	1.0
-u2	words-04	김밥	김밥	gim-bap	gimbap (rice roll)	1.0
-u2	words-05	떡볶이	떡볶이	tteok-bo-kki	spicy rice cakes	1.0
-u2	words-06	불고기	불고기	bul-go-gi	Korean BBQ beef	1.0
-u2	words-07	맛있어요	맛있어요	ma-si-sseo-yo	It's delicious	1.0
-u2	words-08	매워요	매워요	mae-wo-yo	It's spicy	1.0
-u2	say-01	잘 먹겠습니다!	잘 먹겠습니다!	jal meok-get-seum-ni-da	Thank you for the food! (before eating)	1.0
-u2	say-02	잘 먹었습니다!	잘 먹었습니다!	jal meo-geot-seum-ni-da	Thank you, I enjoyed it! (after eating)	1.0
-u2	say-03	정말 맛있어요!	정말 맛있어요!	jeong-mal ma-si-sseo-yo	It's really delicious!	1.0
-u2	say-04	조금 매워요.	조금 매워요.	jo-geum mae-wo-yo	It's a little spicy.	1.0
-u2	say-05	물 주세요.	물 주세요.	mul ju-se-yo	Water, please.	1.0
-u2	say-06	배불러요!	배불러요!	bae-bul-leo-yo	I'm full!	1.0
-u2	talk-01	많이 드세요!	많이 드세요!	ma-ni deu-se-yo	Please eat a lot! (Enjoy!)	1.0
-u2	talk-02	잘 먹겠습니다!	잘 먹겠습니다!	jal meok-get-seum-ni-da	Thank you for the food!	1.0
-u2	talk-03	맛있어요?	맛있어요?	ma-si-sseo-yo	Is it good?	1.0
-u2	talk-04	네, 정말 맛있어요! 조금 매워요.	네, 정말 맛있어요! 조금 매워요.	ne, jeong-mal ma-si-sseo-yo! jo-geum mae-wo-yo	Yes, really good! A little spicy.	1.0
-u3	words-01	가위	가위	ga-wi	scissors	1.0
-u3	words-02	바위	바위	ba-wi	rock	1.0
-u3	words-03	보	보	bo	paper	1.0
-u3	words-04	놀이	놀이	no-ri	game, play	1.0
-u3	words-05	하나, 둘, 셋	하나, 둘, 셋	ha-na, dul, set	one, two, three	1.0
-u3	words-06	내 차례	내 차례	nae cha-rye	my turn	1.0
-u3	words-07	이겼다!	이겼다!	i-gyeot-da	I won!	1.0
-u3	words-08f	졌다!	졌다!	jyeot-da	I lost!	0.9
-u3	say-01	가위, 바위, 보!	가위, 바위, 보!	ga-wi, ba-wi, bo	Rock, paper, scissors!	1.0
-u3	say-02	같이 해요!	같이 해요!	ga-chi hae-yo	Let's do it together!	1.0
-u3	say-03	내 차례예요.	내 차례예요.	nae cha-rye-ye-yo	It's my turn.	1.0
-u3	say-04	잘했어요!	잘했어요!	jal-hae-sseo-yo	Good job!	1.0
-u3	say-05	화이팅!	화이팅!	hwa-i-ting	You can do it! / Go, go!	1.0
-u3	say-06	한 번 더!	한 번 더!	han beon deo	One more time!	1.0
-u3	talk-01	같이 놀아요!	같이 놀아요!	ga-chi no-ra-yo	Let's play together!	1.0
-u3	talk-02	좋아요! 가위, 바위, 보!	좋아요! 가위, 바위, 보!	jo-a-yo! ga-wi, ba-wi, bo	Okay! Rock, paper, scissors!	1.0
-u3	talk-03	와, 이겼다! 내 차례예요.	와, 이겼다! 내 차례예요.	wa, i-gyeot-da! nae cha-rye-ye-yo	Wow, I won! It's my turn.	1.0
-u3	talk-04	잘했어요! 화이팅!	잘했어요! 화이팅!	jal-hae-sseo-yo! hwa-i-ting	Good job! Go, go!	1.0
-u4	words-01	이거	이거	i-geo	this	1.0
-u4	words-02	저거	저거	jeo-geo	that	1.0
-u4	words-03	화장실	화장실	hwa-jang-sil	restroom	1.0
-u4	words-04	어디	어디	eo-di	where	1.0
-u4	words-05	얼마	얼마	eol-ma	how much	1.0
-u4	words-06	사진	사진	sa-jin	photo	1.0
-u4	words-07	커피	커피	keo-pi	coffee	1.0
-u4	words-08	카드	카드	ka-deu	card	1.0
-u4	say-01	이거 뭐예요?	이거 뭐예요?	i-geo mwo-ye-yo	What is this?	1.0
-u4	say-02	이거 얼마예요?	이거 얼마예요?	i-geo eol-ma-ye-yo	How much is this?	1.0
-u4	say-03	이거 주세요.	이거 주세요.	i-geo ju-se-yo	This one, please.	1.0
-u4	say-04	화장실 어디예요?	화장실 어디예요?	hwa-jang-sil eo-di-ye-yo	Where is the restroom?	1.0
-u4	say-05	사진 찍어도 돼요?	사진 찍어도 돼요?	sa-jin jji-geo-do dwae-yo	May I take a photo?	1.0
-u4	say-06	천천히 말해 주세요.	천천히 말해 주세요.	cheon-cheon-hi mal-hae ju-se-yo	Please speak slowly.	1.0
-u4	talk-01	안녕하세요! 이거 얼마예요?	안녕하세요! 이거 얼마예요?	an-nyeong-ha-se-yo! i-geo eol-ma-ye-yo	Hello! How much is this?	1.0
-u4	talk-02	호떡이에요. 이천 원이에요.	호떡이에요. 이천 원이에요.	ho-tteo-gi-e-yo. i-cheon wo-ni-e-yo	It's hotteok (sweet pancake). It's 2,000 won.	1.0
-u4	talk-03	이거 주세요. 감사합니다!	이거 주세요. 감사합니다!	i-geo ju-se-yo. gam-sa-ham-ni-da	This one, please. Thank you!	1.0
-u4	talk-04	맛있게 드세요!	맛있게 드세요!	ma-sit-ge deu-se-yo	Enjoy!	1.0
-u5	words-01	하나님	하나님	ha-na-nim	God	1.0
-u5	words-02	예수님	예수님	ye-su-nim	Jesus	1.0
-u5	words-03	교회	교회	gyo-hoe	church	1.0
-u5	words-04	기도	기도	gi-do	prayer	1.0
-u5	words-05	찬양	찬양	cha-nyang	worship song	1.0
-u5	words-06	사랑	사랑	sa-rang	love	1.0
-u5	words-07	아멘	아멘	a-men	Amen	1.0
-u5	words-08	할렐루야	할렐루야	hal-lel-lu-ya	Hallelujah	1.0
-u5	say-01b	하나님은 당신을 사랑하십니다.	하나님은 당신을 사랑하십니다.	ha-na-ni-meun dang-si-neul sa-rang-ha-sim-ni-da	God loves you.	1.0
-u5	say-02	예수님 사랑해요!	예수님 사랑해요!	ye-su-nim sa-rang-hae-yo	I love Jesus!	1.0
-u5	say-03	축복합니다!	축복합니다!	chuk-bo-kam-ni-da	God bless you!	1.0
-u5	say-04	기도할게요.	기도할게요.	gi-do-hal-ge-yo	I will pray for you.	1.0
-u5	say-05	같이 기도해요.	같이 기도해요.	ga-chi gi-do-hae-yo	Let's pray together.	1.0
-u5	say-06	은혜 받았어요!	은혜 받았어요!	eun-hye ba-da-sseo-yo	I was blessed! (It touched my heart.)	1.0
-u5	talk-01	오늘 찬양 정말 좋았어요!	오늘 찬양 정말 좋았어요!	o-neul cha-nyang jeong-mal jo-a-sseo-yo	The worship today was so good!	1.0
-u5	talk-02	네! 은혜 받았어요!	네! 은혜 받았어요!	ne! eun-hye ba-da-sseo-yo	Yes! I was blessed!	1.0
-u5	talk-03b	같이 기도해요!	같이 기도해요!	ga-chi gi-do-hae-yo	Let's pray together!	1.0
-u5	talk-04	네, 기도할게요. 축복합니다!	네, 기도할게요. 축복합니다!	ne, gi-do-hal-ge-yo. chuk-bo-kam-ni-da	Yes, let's pray. God bless you!	1.0
-u6	words-01	좋아요	좋아요	jo-a-yo	good / I like it	1.0
-u6	words-02	기뻐요	기뻐요	gi-ppeo-yo	I'm glad	1.0
-u6	words-03	행복해요	행복해요	haeng-bo-kae-yo	I'm happy	1.0
-u6	words-04	재밌어요	재밌어요	jae-mi-sseo-yo	It's fun	1.0
-u6	words-05	피곤해요	피곤해요	pi-gon-hae-yo	I'm tired	1.0
-u6	words-06	추워요	추워요	chu-wo-yo	I'm cold	1.0
-u6	words-07	배고파요	배고파요	bae-go-pa-yo	I'm hungry	1.0
-u6	words-08	최고예요!	최고예요!	choe-go-ye-yo	You're the best!	1.0
-u6	say-01	기분이 어때요?	기분이 어때요?	gi-bu-ni eo-ttae-yo	How are you feeling?	1.0
-u6	say-02	너무 행복해요!	너무 행복해요!	neo-mu haeng-bo-kae-yo	I'm so happy!	1.0
-u6	say-03	정말 재밌어요!	정말 재밌어요!	jeong-mal jae-mi-sseo-yo	This is so fun!	1.0
-u6	say-04	우리는 친구예요.	우리는 친구예요.	u-ri-neun chin-gu-ye-yo	We are friends.	1.0
-u6	say-05	사랑해요!	사랑해요!	sa-rang-hae-yo	I love you!	1.0
-u6	say-06	최고예요!	최고예요!	choe-go-ye-yo	You're the best!	1.0
-u6	talk-01	기분이 어때요?	기분이 어때요?	gi-bu-ni eo-ttae-yo	How are you feeling?	1.0
-u6	talk-02	조금 피곤해요. 그런데 너무 행복해요!	조금 피곤해요. 그런데 너무 행복해요!	jo-geum pi-gon-hae-yo. geu-reon-de neo-mu haeng-bo-kae-yo	A little tired. But I'm so happy!	1.0
-u6	talk-03	우리는 친구예요!	우리는 친구예요!	u-ri-neun chin-gu-ye-yo	We are friends!	1.0
-u6	talk-04	네! 최고예요! 사랑해요!	네! 최고예요! 사랑해요!	ne! choe-go-ye-yo! sa-rang-hae-yo	Yes! You're the best! Love you!	1.0
-u7	words-01	고마워요	고마워요	go-ma-wo-yo	Thanks	1.0
-u7	words-02	또	또	tto	again	1.0
-u7	words-03	만나요	만나요	man-na-yo	let's meet	1.0
-u7	words-04	보고 싶어요	보고 싶어요	bo-go si-peo-yo	I miss you	1.0
-u7	words-05	기억	기억	gi-eok	memory	1.0
-u7	words-06	한국	한국	han-guk	Korea	1.0
-u7	words-07	미국	미국	mi-guk	America	1.0
-u7	words-08	축복	축복	chuk-bok	blessing	1.0
-u7	say-01	정말 고마워요!	정말 고마워요!	jeong-mal go-ma-wo-yo	Thank you so much!	1.0
-u7	say-02	보고 싶을 거예요.	보고 싶을 거예요.	bo-go si-peul geo-ye-yo	I will miss you.	1.0
-u7	say-03	잊지 않을게요.	잊지 않을게요.	it-ji a-neul-ge-yo	I won't forget you.	1.0
-u7	say-04	또 만나요!	또 만나요!	tto man-na-yo	See you again!	1.0
-u7	say-05	건강하세요.	건강하세요.	geon-gang-ha-se-yo	Stay healthy. (Take care.)	1.0
-u7	say-06	하나님이 축복하실 거예요.	하나님이 축복하실 거예요.	ha-na-ni-mi chuk-bo-ka-sil geo-ye-yo	God will bless you.	1.0
-u7	talk-01	벌써 가요? 보고 싶을 거예요.	벌써 가요? 보고 싶을 거예요.	beol-sseo ga-yo? bo-go si-peul geo-ye-yo	Leaving already? I will miss you.	1.0
-u7	talk-02	저도요. 정말 고마워요!	저도요. 정말 고마워요!	jeo-do-yo. jeong-mal go-ma-wo-yo	Me too. Thank you so much!	1.0
-u7	talk-03	건강하세요. 또 만나요!	건강하세요. 또 만나요!	geon-gang-ha-se-yo. tto man-na-yo	Take care. See you again!	1.0
-u7	talk-04	잊지 않을게요. 축복합니다!	잊지 않을게요. 축복합니다!	it-ji a-neul-ge-yo. chuk-bo-kam-ni-da	I won't forget you. God bless you!	1.0
-talk	d1-01	안녕하세요! 이름이 뭐예요?	안녕하세요! 이름이 뭐예요?	an-nyeong-ha-se-yo! i-reu-mi mwo-ye-yo	Hello! What's your name?	1.0
-talk	d1-02	저는 선교사예요. 만나서 반가워요.	저는 ___예요/이에요. 만나서 반가워요.	jeo-neun ___-ye-yo / ___-i-e-yo. man-na-seo ban-ga-wo-yo	I'm ___. Nice to meet you.	1.0
-talk	d1-03	저도 반가워요. 오늘 찬양 정말 좋았어요!	저도 반가워요. 오늘 찬양 정말 좋았어요!	jeo-do ban-ga-wo-yo. o-neul cha-nyang jeong-mal jo-a-sseo-yo	Nice to meet you too. The worship today was so good!	1.0
-talk	d1-04	네! 은혜 받았어요!	네! 은혜 받았어요!	ne! eun-hye ba-da-sseo-yo	Yes! I was blessed!	1.0
-talk	d1-05	기도 제목 있어요?	기도 제목 있어요?	gi-do je-mok i-sseo-yo	Do you have a prayer request?	1.0
-talk	d1-06	네, 가족을 위해 기도해 주세요. 저도 기도할게요!	네, 가족을 위해 기도해 주세요. 저도 기도할게요!	ne, ga-jo-geul wi-hae gi-do-hae ju-se-yo. jeo-do gi-do-hal-ge-yo	Yes, please pray for my family. I will pray for you too!	1.0
-talk	d2-01	어서 오세요!	어서 오세요!	eo-seo o-se-yo	Welcome! (come on in)	1.0
-talk	d2-02	초대해 주셔서 감사합니다!	초대해 주셔서 감사합니다!	cho-dae-hae ju-syeo-seo gam-sa-ham-ni-da	Thank you for inviting me!	1.0
-talk	d2-03	많이 드세요!	많이 드세요!	ma-ni deu-se-yo	Please eat a lot!	1.0
-talk	d2-04	잘 먹겠습니다!	잘 먹겠습니다!	jal meok-get-seum-ni-da	Thank you for the food!	1.0
-talk	d2-05	맛있어요?	맛있어요?	ma-si-sseo-yo	Is it good?	1.0
-talk	d2-06	네, 정말 맛있어요! 조금 매워요.	네, 정말 맛있어요! 조금 매워요.	ne, jeong-mal ma-si-sseo-yo! jo-geum mae-wo-yo	Yes, really good! A little spicy.	1.0
-talk	d2-07	물 여기 있어요.	물 여기 있어요.	mul yeo-gi i-sseo-yo	Here's some water.	1.0
-talk	d2-08	고마워요! 배불러요. 잘 먹었습니다!	고마워요! 배불러요. 잘 먹었습니다!	go-ma-wo-yo! bae-bul-leo-yo. jal meo-geot-seum-ni-da	Thanks! I'm full. Thank you, I enjoyed it!	1.0
-talk	d3-01	안녕하세요! 커피 두 잔 주세요.	안녕하세요! 커피 두 잔 주세요.	an-nyeong-ha-se-yo! keo-pi du jan ju-se-yo	Hello! Two coffees, please.	1.0
-talk	d3-02	드시고 가세요? 포장이세요?	드시고 가세요? 포장이세요?	deu-si-go ga-se-yo? po-jang-i-se-yo	For here or to go?	1.0
-talk	d3-03	포장해 주세요. 카드 돼요?	포장해 주세요. 카드 돼요?	po-jang-hae ju-se-yo. ka-deu dwae-yo	To go, please. Can I pay by card?	1.0
-talk	d3-04	네, 돼요. 맛있게 드세요!	네, 돼요. 맛있게 드세요!	ne, dwae-yo. ma-sit-ge deu-se-yo	Yes, you can. Enjoy!	1.0
-talk	d3-05	감사합니다! 지하철역이 어디예요?	감사합니다! 지하철역이 어디예요?	gam-sa-ham-ni-da! ji-ha-cheol-lyeo-gi eo-di-ye-yo	Thank you! Where is the subway station?	1.0
-talk	d3-06	저기예요.	저기예요.	jeo-gi-ye-yo	It's over there.	1.0
-talk	d4-01	벌써 가요? 보고 싶을 거예요.	벌써 가요? 보고 싶을 거예요.	beol-sseo ga-yo? bo-go si-peul geo-ye-yo	Leaving already? I will miss you.	1.0
-talk	d4-02	저도 보고 싶을 거예요. 정말 고마워요!	저도 보고 싶을 거예요. 정말 고마워요!	jeo-do bo-go si-peul geo-ye-yo. jeong-mal go-ma-wo-yo	I will miss you too. Thank you so much!	1.0
-talk	d4-03	미국에서도 건강하세요.	미국에서도 건강하세요.	mi-gu-ge-seo-do geon-gang-ha-se-yo	Stay healthy in America too.	1.0
-talk	d4-04	네, 카톡 해요! 기도할게요.	네, 카톡 해요! 기도할게요.	ne, ka-tok hae-yo! gi-do-hal-ge-yo	Yes, let's keep in touch on KakaoTalk! I will pray for you.	1.0
-talk	d4-05	우리도 기도할게요. 또 만나요!	우리도 기도할게요. 또 만나요!	u-ri-do gi-do-hal-ge-yo. tto man-na-yo	We will pray for you too. See you again!	1.0
-talk	d4-06	잊지 않을게요. 축복합니다!	잊지 않을게요. 축복합니다!	it-ji a-neul-ge-yo. chuk-bo-kam-ni-da	I won't forget you. God bless you!	1.0
-verses	verse-01f	우리가 사랑함은, 그가 먼저 우리를 사랑하셨음이라.	우리가 사랑함은 그가 먼저 우리를 사랑하셨음이라	u-ri-ga sa-rang-ha-meun geu-ga meon-jeo u-ri-reul sa-rang-ha-syeo-sseu-mi-ra	1 John 4:19 — “We love him, because he first loved us.”	0.9
-verses	verse-02	여호와는 나의 목자시니 내가 부족함이 없으리로다	여호와는 나의 목자시니 내가 부족함이 없으리로다	yeo-ho-wa-neun na-e mok-ja-si-ni nae-ga bu-jo-ka-mi eop-seu-ri-ro-da	Psalm 23:1 — “The LORD is my shepherd; I shall not want.”	1.0
-verses	verse-03	내게 능력 주시는 자 안에서 내가 모든 것을 할 수 있느니라	내게 능력 주시는 자 안에서 내가 모든 것을 할 수 있느니라	nae-ge neung-nyeok ju-si-neun ja a-ne-seo nae-ga mo-deun geo-seul hal su in-neu-ni-ra	Philippians 4:13 — “I can do all things through Christ which strengtheneth me.”	1.0
-verses	verse-04	수고하고 무거운 짐진 자들아 다 내게로 오라 내가 너희를 쉬게 하리라	수고하고 무거운 짐진 자들아 다 내게로 오라 내가 너희를 쉬게 하리라	su-go-ha-go mu-geo-un jim-jin ja-deu-ra da nae-ge-ro o-ra nae-ga neo-hi-reul swi-ge ha-ri-ra	Matthew 11:28 — “Come unto me, all ye that labour and are heavy laden, and I will give you rest.”	1.0
-verses	verse-05	하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 저를 믿는 자마다 멸망치 않고 영생을 얻게 하려 하심이니라	하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 저를 믿는 자마다 멸망치 않고 영생을 얻게 하려 하심이니라	ha-na-ni-mi se-sang-eul i-cheo-reom sa-rang-ha-sa dok-saeng-ja-reul ju-syeo-sseu-ni i-neun jeo-reul min-neun ja-ma-da myeol-mang-chi an-ko yeong-saeng-eul eot-ge ha-ryeo ha-si-mi-ni-ra	John 3:16 — “For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”	1.0
-verses	verse-06f	너는 마음을 다하여 여호와를 의뢰하고, 네 명철을 의지하지 말라.	너는 마음을 다하여 여호와를 의뢰하고 네 명철을 의지하지 말라	neo-neun ma-eu-meul da-ha-yeo yeo-ho-wa-reul ui-roe-ha-go ne myeong-cheo-reul ui-ji-ha-ji mal-la	Proverbs 3:5 — “Trust in the LORD with all thine heart; and lean not unto thine own understanding.”	1.0
-verses	verse-07	우리가 알거니와 하나님을 사랑하는 자 곧 그 뜻대로 부르심을 입은 자들에게는 모든 것이 합력하여 선을 이루느니라	우리가 알거니와 하나님을 사랑하는 자 곧 그 뜻대로 부르심을 입은 자들에게는 모든 것이 합력하여 선을 이루느니라	u-ri-ga al-geo-ni-wa ha-na-ni-meul sa-rang-ha-neun ja got geu tteut-dae-ro bu-reu-si-meul i-beun ja-deu-re-ge-neun mo-deun geo-si ham-nyeo-ka-yeo seo-neul i-ru-neu-ni-ra	Romans 8:28 — “And we know that all things work together for good to them that love God, to them who are the called according to his purpose.”	1.0
-verses	verse-08f	나 여호와가 말하노라 너희를 향한 나의 생각은 내가 아나니 재앙이 아니라 곧 평안이요 너희 장래에 소망을 주려하는 생각이라	나 여호와가 말하노라 너희를 향한 나의 생각은 내가 아나니 재앙이 아니라 곧 평안이요 너희 장래에 소망을 주려하는 생각이라	na yeo-ho-wa-ga mal-ha-no-ra neo-hi-reul hyang-han na-e saeng-ga-geun nae-ga a-na-ni jae-ang-i a-ni-ra got pyeong-a-ni-yo neo-hi jang-nae-e so-mang-eul ju-ryeo-ha-neun saeng-ga-gi-ra	Jeremiah 29:11 — “For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.”	0.9
-verses	verse-09	두려워 말라 내가 너와 함께 함이니라 놀라지 말라 나는 네 하나님이 됨이니라 내가 너를 굳세게 하리라 참으로 너를 도와 주리라 참으로 나의 의로운 오른손으로 너를 붙들리라	두려워 말라 내가 너와 함께 함이니라 놀라지 말라 나는 네 하나님이 됨이니라 내가 너를 굳세게 하리라 참으로 너를 도와 주리라 참으로 나의 의로운 오른손으로 너를 붙들리라	du-ryeo-wo mal-la nae-ga neo-wa ham-kke ha-mi-ni-ra nol-la-ji mal-la na-neun ne ha-na-ni-mi doe-mi-ni-ra nae-ga neo-reul gut-se-ge ha-ri-ra cha-meu-ro neo-reul do-wa ju-ri-ra cha-meu-ro na-e ui-ro-un o-reun-so-neu-ro neo-reul but-deul-li-ra	Isaiah 41:10 — “Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.”	1.0
-verses	verse-10	내가 네게 명한 것이 아니냐 마음을 강하게 하고 담대히 하라 두려워 말며 놀라지 말라 네가 어디로 가든지 네 하나님 여호와가 너와 함께 하느니라 하시니라	내가 네게 명한 것이 아니냐 마음을 강하게 하고 담대히 하라 두려워 말며 놀라지 말라 네가 어디로 가든지 네 하나님 여호와가 너와 함께 하느니라 하시니라	nae-ga ne-ge myeong-han geo-si a-ni-nya ma-eu-meul gang-ha-ge ha-go dam-dae-hi ha-ra du-ryeo-wo mal-myeo nol-la-ji mal-la ne-ga eo-di-ro ga-deun-ji ne ha-na-nim yeo-ho-wa-ga neo-wa ham-kke ha-neu-ni-ra ha-si-ni-ra	Joshua 1:9 — “Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.”	1.0
-ourweeks	nov15-01	처음 뵙겠습니다. 미국에서 왔어요.	처음 뵙겠습니다. 미국에서 왔어요.	cheo-eum boep-get-seum-ni-da. mi-gu-ge-seo wa-sseo-yo	Nice to meet you. I came from America.	1.0
-ourweeks	nov15-02	함께 예배드릴 수 있어서 감사해요.	함께 예배드릴 수 있어서 감사해요.	ham-kke ye-bae-deu-ril su i-sseo-seo gam-sa-hae-yo	I'm thankful we could worship together.	1.0
-ourweeks	nov16-01	영어 캠프에 온 걸 환영해요!	영어 캠프에 온 걸 환영해요!	yeong-eo kaem-peu-e on geol hwa-nyeong-hae-yo	Welcome to English Camp!	1.0
-ourweeks	nov16-02	잘했어요! 한 번 더 해 볼까요?	잘했어요! 한 번 더 해 볼까요?	jal-hae-sseo-yo! han beon deo hae bol-kka-yo	Well done! Shall we try one more time?	1.0
-ourweeks	nov21-01	무궁화 꽃이 피었습니다!	무궁화 꽃이 피었습니다!	mu-gung-hwa kko-chi pi-eot-seum-ni-da	“The rose of Sharon has bloomed!” (the Korean “Red Light, Green Light”)	1.0
-ourweeks	nov21-02	달고나 성공했어요!	달고나 성공했어요!	dal-go-na seong-gong-hae-sseo-yo	I did it — my dalgona shape didn't break!	1.0
-ourweeks	nov22-01	새생명축제에 오신 것을 환영합니다!	새생명축제에 오신 것을 환영합니다!	sae-saeng-myeong-chuk-je-e o-sin geo-seul hwa-nyeong-ham-ni-da	Welcome to the New Life Festival!	1.0
-ourweeks	nov22-02	오늘 와 주셔서 정말 감사해요.	오늘 와 주셔서 정말 감사해요.	o-neul wa ju-syeo-seo jeong-mal gam-sa-hae-yo	Thank you so much for coming today.	1.0
-ourweeks	nov24-01	수료를 축하해요!	수료를 축하해요!	su-ryo-reul chu-ka-hae-yo	Congratulations on finishing the camp!	1.0
-ourweeks	nov24-02	같이 사진 찍어요!	같이 사진 찍어요!	ga-chi sa-jin jji-geo-yo	Let's take a picture together!	1.0
-ourweeks	nov25-01	예수님이 당신을 사랑하십니다.	예수님이 당신을 사랑하십니다.	ye-su-ni-mi dang-si-neul sa-rang-ha-sim-ni-da	Jesus loves you.	1.0
-ourweeks	nov25-02	함께 찬양해요.	함께 찬양해요.	ham-kke cha-nyang-hae-yo	Let's praise God together.	1.0
-ourweeks	nov28-01	그동안 정말 고마웠어요.	그동안 정말 고마웠어요.	geu-dong-an jeong-mal go-ma-wo-sseo-yo	Thank you so much for everything.	1.0
-ourweeks	nov28-02	서로 기도해요. 또 만나요!	서로 기도해요. 또 만나요!	seo-ro gi-do-hae-yo. tto man-na-yo	Let's pray for each other. See you again!	1.0
-ourweeks	diary-01	저는 미국에서 한국에 왔어요.	저는 미국에서 한국에 왔어요.	jeo-neun mi-gu-ge-seo han-gu-ge wa-sseo-yo	I came to Korea from America.	1.0
-ourweeks	diary-02	세움교회에서 좋은 친구들을 많이 만났어요.	세움교회에서 좋은 친구들을 많이 만났어요.	se-um-gyo-hoe-e-seo jo-eun chin-gu-deu-reul ma-ni man-na-sseo-yo	At Seum Church I met many good friends.	1.0
-ourweeks	diary-03	주일에 같이 찬양하고 기도했어요.	주일에 같이 찬양하고 기도했어요.	ju-i-re ga-chi cha-nyang-ha-go gi-do-hae-sseo-yo	On Sunday we sang praise and prayed together.	1.0
-ourweeks	diary-04	영어 캠프에서 아이들과 같이 놀았어요.	영어 캠프에서 아이들과 같이 놀았어요.	yeong-eo kaem-peu-e-seo a-i-deul-gwa ga-chi no-ra-sseo-yo	At the English camp I played with the children.	1.0
-ourweeks	diary-05	가위바위보를 했어요. 정말 재밌었어요!	가위바위보를 했어요. 정말 재밌었어요!	ga-wi-ba-wi-bo-reul hae-sseo-yo. jeong-mal jae-mi-sseo-sseo-yo	We played rock-paper-scissors. It was really fun!	1.0
-ourweeks	diary-06	교인 집에서 불고기와 김치를 먹었어요.	교인 집에서 불고기와 김치를 먹었어요.	gyo-in ji-be-seo bul-go-gi-wa gim-chi-reul meo-geo-sseo-yo	At a church member's home I ate bulgogi and kimchi.	1.0
-ourweeks	diary-07	김치는 조금 매웠어요. 그래도 정말 맛있었어요!	김치는 조금 매웠어요. 그래도 정말 맛있었어요!	gim-chi-neun jo-geum mae-wo-sseo-yo. geu-rae-do jeong-mal ma-si-sseo-sseo-yo	The kimchi was a little spicy. But it was really good!	1.0
-ourweeks	diary-08b	마지막 날에 공항에서 “또 만나요!” 하고 인사했어요.	마지막 날에 공항에서 “또 만나요!” 하고 인사했어요.	ma-ji-mak na-re gong-hang-e-seo “tto man-na-yo!” ha-go in-sa-hae-sseo-yo	On the last day, at the airport, we said “See you again!”	1.0
-ourweeks	diary-09	한국 친구들이 정말 보고 싶을 거예요.	한국 친구들이 정말 보고 싶을 거예요.	han-guk chin-gu-deu-ri jeong-mal bo-go si-peul geo-ye-yo	I will really miss my Korean friends.	1.0
-ourweeks	diary-10	하나님, 감사합니다!	하나님, 감사합니다!	ha-na-nim, gam-sa-ham-ni-da	Thank you, God!	1.0
-sounds	vowel-01	아	아	a	ㅏ — as in “father”	1.0
-sounds	vowel-02	어	어	eo	ㅓ — as in “up”	1.0
-sounds	vowel-03	오	오	o	ㅗ — as in “go”	1.0
-sounds	vowel-04	우	우	u	ㅜ — as in “moon”	1.0
-sounds	vowel-05	으	으	eu	ㅡ — as in “good (lips flat)”	1.0
-sounds	vowel-06	이	이	i	ㅣ — as in “see”	1.0
-sounds	vowel-07	애	애	ae	ㅐ — as in “bed”	1.0
-sounds	vowel-08	에	에	e	ㅔ — as in “bed”	1.0
-sounds	vowel-09	야	야	ya	ㅑ — as in “yard”	1.0
-sounds	vowel-10	여	여	yeo	ㅕ — as in “young”	1.0
-sounds	vowel-11	요	요	yo	ㅛ — as in “yoga”	1.0
-sounds	vowel-12	유	유	yu	ㅠ — as in “you”	1.0
-sounds	cons-01	가	가	ga	ㄱ + ㅏ	1.0
-sounds	cons-02	나	나	na	ㄴ + ㅏ	1.0
-sounds	cons-03	다	다	da	ㄷ + ㅏ	1.0
-sounds	cons-04	라	라	ra	ㄹ + ㅏ	1.0
-sounds	cons-05	마	마	ma	ㅁ + ㅏ	1.0
-sounds	cons-06	바	바	ba	ㅂ + ㅏ	1.0
-sounds	cons-07	사	사	sa	ㅅ + ㅏ	1.0
-sounds	cons-08	아	아	a	ㅇ + ㅏ	1.0
-sounds	cons-09	자	자	ja	ㅈ + ㅏ	1.0
-sounds	cons-10	차	차	cha	ㅊ + ㅏ	1.0
-sounds	cons-11	카	카	ka	ㅋ + ㅏ	1.0
-sounds	cons-12	타	타	ta	ㅌ + ㅏ	1.0
-sounds	cons-13	파	파	pa	ㅍ + ㅏ	1.0
-sounds	cons-14	하	하	ha	ㅎ + ㅏ	1.0
-sounds	trio-01	기	기	gi	energy	1.0
-sounds	trio-02	키	키	ki	height	1.0
-sounds	trio-03	끼	끼	kki	a meal (한 끼)	1.0
-sounds	trio-04	달	달	dal	moon	1.0
-sounds	trio-05	탈	탈	tal	mask	1.0
-sounds	trio-06	딸	딸	ttal	daughter	1.0
-sounds	trio-07	불	불	bul	fire	1.0
-sounds	trio-08	풀	풀	pul	grass	1.0
-sounds	trio-09	뿔	뿔	ppul	horn	1.0
-sounds	trio-10	자다	자다	ja-da	to sleep	1.0
-sounds	trio-11	차다	차다	cha-da	to kick	1.0
-sounds	trio-12	짜다	짜다	jja-da	salty	1.0
-sounds	trio-13	사다	사다	sa-da	to buy	1.0
-sounds	trio-14	싸다	싸다	ssa-da	cheap	1.0
-sounds	final-01	책	책	chaek	book	1.0
-sounds	final-02	부엌	부엌	bu-eok	kitchen	1.0
-sounds	final-03	산	산	san	mountain	1.0
-sounds	final-04	옷	옷	ot	clothes	1.0
-sounds	final-05	꽃	꽃	kkot	flower	1.0
-sounds	final-06	낮	낮	nat	daytime	1.0
-sounds	final-07	물	물	mul	water	1.0
-sounds	final-08	밤	밤	bam	night	1.0
-sounds	final-09	밥	밥	bap	rice	1.0
-sounds	final-10	앞	앞	ap	front	1.0
-sounds	final-11	방	방	bang	room	1.0
-sounds	rules-01	음악	음악 → [으막]	eu-mak	music	1.0
-sounds	rules-02	한국어	한국어 → [한구거]	han-gu-geo	Korean language	1.0
-sounds	rules-03	맛있어요	맛있어요 → [마시써요]	ma-si-sseo-yo	It's delicious	1.0
-sounds	rules-04	감사합니다	감사합니다 → [감사함니다]	gam-sa-ham-ni-da	Thank you	1.0
-sounds	rules-05	한국말	한국말 → [한궁말]	han-gung-mal	Korean language	1.0
-sounds	rules-06	믿는	믿는 → [민는]	min-neun	believing	1.0
-sounds	rules-07	설날	설날 → [설랄]	seol-lal	Korean New Year	1.0
-sounds	rules-08	신라	신라 → [실라]	sil-la	Silla (old kingdom)	1.0
-sounds	more-01	행복해요	행복해요 → [행보캐요]	haeng-bo-kae-yo	I'm happy	1.0
-sounds	more-02	축하해요	축하해요 → [추카해요]	chu-ka-hae-yo	Congratulations	1.0
-sounds	more-03	괜찮아요	괜찮아요 → [괜차나요]	gwaen-cha-na-yo	It's okay	1.0
-sounds	more-04	좋아요	좋아요 → [조아요]	jo-a-yo	good / I like it	1.0
-sounds	more-05	같이	같이 → [가치]	ga-chi	together	1.0
-sounds	more-06	붙이면	붙이면 → [부치면]	bu-chi-myeon	if you add (it)	1.0
-sounds	more-07	지하철역	지하철역 → [지하철력]	ji-ha-cheol-lyeok	subway station	1.0
-sounds	more-08	서울역	서울역 → [서울력]	seo-ul-lyeok	Seoul Station	1.0
-sounds	more-09	학교	학교 → [학꾜]	hak-gyo	school	1.0
-sounds	more-10	떡볶이	떡볶이 → [떡뽀끼]	tteok-bo-kki	spicy rice cakes	1.0
-patterns	p01-01	저는 미국 사람이에요.	저는 미국 사람이에요.	jeo-neun mi-guk sa-ra-mi-e-yo	I'm American.	1.0
-patterns	p01-02	저는 학생이에요.	저는 학생이에요.	jeo-neun hak-saeng-i-e-yo	I'm a student.	1.0
-patterns	p01-03	저는 엠마예요.	저는 엠마예요.	jeo-neun em-ma-ye-yo	I'm Emma.	1.0
-patterns	p01-04	저는 선교사예요.	저는 선교사예요.	jeo-neun seon-gyo-sa-ye-yo	I'm a missionary.	1.0
-patterns	p02-01	질문이 있어요.	질문이 있어요.	jil-mu-ni i-sseo-yo	I have a question.	1.0
-patterns	p02-02	동생이 있어요.	동생이 있어요.	dong-saeng-i i-sseo-yo	I have a younger sibling.	1.0
-patterns	p02-03	시간이 있어요.	시간이 있어요.	si-ga-ni i-sseo-yo	I have time.	1.0
-patterns	p02-04	알레르기가 있어요.	알레르기가 있어요.	al-le-reu-gi-ga i-sseo-yo	I have an allergy.	1.0
-patterns	p03-01	물 있어요?	물 있어요?	mul i-sseo-yo	Do you have water?	1.0
-patterns	p03-02	와이파이 있어요?	와이파이 있어요?	wa-i-pa-i i-sseo-yo	Is there Wi-Fi?	1.0
-patterns	p03-03	근처에 편의점 있어요?	근처에 편의점 있어요?	geun-cheo-e pyeo-ni-jeom i-sseo-yo	Is there a convenience store nearby?	1.0
-patterns	p03-04	형제 있어요?	형제 있어요?	hyeong-je i-sseo-yo	Do you have brothers or sisters?	1.0
-patterns	p04-01	물 주세요.	물 주세요.	mul ju-se-yo	Water, please.	1.0
-patterns	p04-02	이거 하나 주세요.	이거 하나 주세요.	i-geo ha-na ju-se-yo	One of these, please.	1.0
-patterns	p04-03	김밥 두 줄 주세요.	김밥 두 줄 주세요.	gim-bap du jul ju-se-yo	Two rolls of gimbap, please.	1.0
-patterns	p04-04	영수증 주세요.	영수증 주세요.	yeong-su-jeung ju-se-yo	A receipt, please.	1.0
-patterns	p05-01f	도와 주세요.	도와주세요.	do-wa-ju-se-yo	Please help me.	1.0
-patterns	p05-02	천천히 말해 주세요.	천천히 말해 주세요.	cheon-cheon-hi mal-hae ju-se-yo	Please speak slowly.	1.0
-patterns	p05-03	사진 찍어 주세요.	사진 찍어 주세요.	sa-jin jji-geo ju-se-yo	Please take a photo (of me / of us).	1.0
-patterns	p05-04	여기 써 주세요.	여기 써 주세요.	yeo-gi sseo ju-se-yo	Please write it here.	1.0
-patterns	p06-01	한국어를 배우고 싶어요.	한국어를 배우고 싶어요.	han-gu-geo-reul bae-u-go si-peo-yo	I want to learn Korean.	1.0
-patterns	p06-02	김치찌개 먹고 싶어요.	김치찌개 먹고 싶어요.	gim-chi-jji-gae meok-go si-peo-yo	I want to eat kimchi stew.	1.0
-patterns	p06-03	좀 쉬고 싶어요.	좀 쉬고 싶어요.	jom swi-go si-peo-yo	I want to rest a little.	1.0
-patterns	p06-04	한국에 또 오고 싶어요.	한국에 또 오고 싶어요.	han-gu-ge tto o-go si-peo-yo	I want to come to Korea again.	1.0
-patterns	p07-01	도움이 필요해요.	도움이 필요해요.	do-u-mi pi-ryo-hae-yo	I need help.	1.0
-patterns	p07-02	시간이 필요해요.	시간이 필요해요.	si-ga-ni pi-ryo-hae-yo	I need time.	1.0
-patterns	p07-03	약이 필요해요.	약이 필요해요.	ya-gi pi-ryo-hae-yo	I need medicine.	1.0
-patterns	p07-04	충전기가 필요해요.	충전기가 필요해요.	chung-jeon-gi-ga pi-ryo-hae-yo	I need a charger.	1.0
-patterns	p08-01	한국 음식을 좋아해요.	한국 음식을 좋아해요.	han-guk eum-si-geul jo-a-hae-yo	I like Korean food.	1.0
-patterns	p08-02	노래를 좋아해요.	노래를 좋아해요.	no-rae-reul jo-a-hae-yo	I like singing.	1.0
-patterns	p08-03	커피를 좋아해요.	커피를 좋아해요.	keo-pi-reul jo-a-hae-yo	I like coffee.	1.0
-patterns	p08-04	아이들을 좋아해요.	아이들을 좋아해요.	a-i-deu-reul jo-a-hae-yo	I like children.	1.0
-patterns	p09-01	들어가도 돼요?	들어가도 돼요?	deu-reo-ga-do dwae-yo	May I come in?	1.0
-patterns	p09-02	여기 앉아도 돼요?	여기 앉아도 돼요?	yeo-gi an-ja-do dwae-yo	May I sit here?	1.0
-patterns	p09-03	사진 찍어도 돼요?	사진 찍어도 돼요?	sa-jin jji-geo-do dwae-yo	May I take a photo?	1.0
-patterns	p09-04	이거 먹어도 돼요?	이거 먹어도 돼요?	i-geo meo-geo-do dwae-yo	May I eat this?	1.0
-patterns	p10-01	도와줄 수 있어요?	도와줄 수 있어요?	do-wa-jul su i-sseo-yo	Can you help me?	1.0
-patterns	p10-02	사진 찍어 줄 수 있어요?	사진 찍어 줄 수 있어요?	sa-jin jji-geo jul su i-sseo-yo	Can you take a photo for me?	1.0
-patterns	p10-03	다시 말해 줄 수 있어요?	다시 말해 줄 수 있어요?	da-si mal-hae jul su i-sseo-yo	Can you say it again?	1.0
-patterns	p10-04	길 좀 알려 줄 수 있어요?	길 좀 알려 줄 수 있어요?	gil jom al-lyeo jul su i-sseo-yo	Can you show me the way?	1.0
-patterns	p11-01	한국어 조금 할 수 있어요.	한국어 조금 할 수 있어요.	han-gu-geo jo-geum hal su i-sseo-yo	I can speak a little Korean.	1.0
-patterns	p11-02	기타 칠 수 있어요.	기타 칠 수 있어요.	gi-ta chil su i-sseo-yo	I can play the guitar.	1.0
-patterns	p11-03	매운 거 먹을 수 있어요.	매운 거 먹을 수 있어요.	mae-un geo meo-geul su i-sseo-yo	I can eat spicy food.	1.0
-patterns	p11-04	내일 갈 수 있어요.	내일 갈 수 있어요.	nae-il gal su i-sseo-yo	I can go tomorrow.	1.0
-patterns	p12-01	매운 거 못 먹어요.	매운 거 못 먹어요.	mae-un geo mon meo-geo-yo	I can't eat spicy food.	1.0
-patterns	p12-02	수영 못 해요.	수영 못 해요.	su-yeong mo tae-yo	I can't swim.	1.0
-patterns	p12-03	한국어 잘 못해요.	한국어 잘 못해요.	han-gu-geo jal mo-tae-yo	I don't speak Korean well.	1.0
-patterns	p12-04	오늘은 못 가요.	오늘은 못 가요.	o-neu-reun mot ga-yo	I can't go today.	1.0
-patterns	p13-01	안 매워요.	안 매워요.	an mae-wo-yo	It's not spicy.	1.0
-patterns	p13-02	커피 안 마셔요.	커피 안 마셔요.	keo-pi an ma-syeo-yo	I don't drink coffee.	1.0
-patterns	p13-03	안 피곤해요.	안 피곤해요.	an pi-gon-hae-yo	I'm not tired.	1.0
-patterns	p13-04	괜찮아요, 안 추워요.	괜찮아요, 안 추워요.	gwaen-cha-na-yo, an chu-wo-yo	It's okay, I'm not cold.	1.0
-patterns	p14-01	이제 가야 해요.	이제 가야 해요.	i-je ga-ya hae-yo	I have to go now.	1.0
-patterns	p14-02	일찍 일어나야 해요.	일찍 일어나야 해요.	il-jjik i-reo-na-ya hae-yo	I have to get up early.	1.0
-patterns	p14-03	짐을 싸야 해요.	짐을 싸야 해요.	ji-meul ssa-ya hae-yo	I have to pack.	1.0
-patterns	p14-04	공항에 가야 해요.	공항에 가야 해요.	gong-hang-e ga-ya hae-yo	I have to go to the airport.	1.0
-patterns	p15-01	토요일에 떠날 거예요.	토요일에 떠날 거예요.	to-yo-i-re tteo-nal geo-ye-yo	I'm leaving on Saturday.	1.0
-patterns	p15-02	저녁에 비빔밥 먹을 거예요.	저녁에 비빔밥 먹을 거예요.	jeo-nyeo-ge bi-bim-bap meo-geul geo-ye-yo	I'm going to eat bibimbap tonight.	1.0
-patterns	p15-03	친구를 위해 기도할 거예요.	친구를 위해 기도할 거예요.	chin-gu-reul wi-hae gi-do-hal geo-ye-yo	I'm going to pray for my friend.	1.0
-patterns	p15-04	다시 올 거예요!	다시 올 거예요!	da-si ol geo-ye-yo	I'm going to come back!	1.0
-patterns	p16-01	한국어 공부하고 있어요.	한국어 공부하고 있어요.	han-gu-geo gong-bu-ha-go i-sseo-yo	I'm studying Korean.	1.0
-patterns	p16-02	지금 가고 있어요.	지금 가고 있어요.	ji-geum ga-go i-sseo-yo	I'm on my way.	1.0
-patterns	p16-03	밥 먹고 있어요.	밥 먹고 있어요.	bap meok-go i-sseo-yo	I'm eating.	1.0
-patterns	p16-04	기다리고 있어요.	기다리고 있어요.	gi-da-ri-go i-sseo-yo	I'm waiting.	1.0
-patterns	p17-01	맛있게 먹었어요.	맛있게 먹었어요.	ma-sit-ge meo-geo-sseo-yo	I enjoyed the meal.	1.0
-patterns	p17-02	정말 재밌었어요.	정말 재밌었어요.	jeong-mal jae-mi-sseo-sseo-yo	It was really fun.	1.0
-patterns	p17-03	어제 교회에 갔어요.	어제 교회에 갔어요.	eo-je gyo-hoe-e ga-sseo-yo	I went to church yesterday.	1.0
-patterns	p17-04	많이 배웠어요.	많이 배웠어요.	ma-ni bae-wo-sseo-yo	I learned a lot.	1.0
-patterns	p18-01	김치 먹어 봤어요?	김치 먹어 봤어요?	gim-chi meo-geo bwa-sseo-yo	Have you ever eaten kimchi?	1.0
-patterns	p18-02	미국에 가 봤어요?	미국에 가 봤어요?	mi-gu-ge ga bwa-sseo-yo	Have you ever been to America?	1.0
-patterns	p18-03	한복 입어 봤어요?	한복 입어 봤어요?	han-bok i-beo bwa-sseo-yo	Have you ever worn a hanbok?	1.0
-patterns	p18-04	네, 해 봤어요!	네, 해 봤어요!	ne, hae bwa-sseo-yo	Yes, I've tried it!	1.0
-patterns	p19-01	같이 먹어요.	같이 먹어요.	ga-chi meo-geo-yo	Let's eat together.	1.0
-patterns	p19-02	같이 가요.	같이 가요.	ga-chi ga-yo	Let's go together.	1.0
-patterns	p19-03	같이 사진 찍어요.	같이 사진 찍어요.	ga-chi sa-jin jji-geo-yo	Let's take a photo together.	1.0
-patterns	p19-04	같이 찬양해요.	같이 찬양해요.	ga-chi cha-nyang-hae-yo	Let's sing praise together.	1.0
-patterns	p20-01	화장실이 어디예요?	화장실이 어디예요?	hwa-jang-si-ri eo-di-ye-yo	Where is the restroom?	1.0
-patterns	p20-02	교회가 어디예요?	교회가 어디예요?	gyo-hoe-ga eo-di-ye-yo	Where is the church?	1.0
-patterns	p20-03	동춘역이 어디예요?	동춘역이 어디예요?	dong-chun-nyeo-gi eo-di-ye-yo	Where is Dongchun Station?	1.0
-patterns	p20-04	출구가 어디예요?	출구가 어디예요?	chul-gu-ga eo-di-ye-yo	Where is the exit?	1.0
-patterns	p21-01	이게 뭐예요?	이게 뭐예요?	i-ge mwo-ye-yo	What is this?	1.0
-patterns	p21-02	이름이 뭐예요?	이름이 뭐예요?	i-reu-mi mwo-ye-yo	What's your name?	1.0
-patterns	p21-03	취미가 뭐예요?	취미가 뭐예요?	chwi-mi-ga mwo-ye-yo	What's your hobby?	1.0
-patterns	p21-04	이거 한국어로 뭐예요?	이거 한국어로 뭐예요?	i-geo han-gu-geo-ro mwo-ye-yo	What is this in Korean?	1.0
-patterns	p22-01	언제 와요?	언제 와요?	eon-je wa-yo	When are you coming?	1.0
-patterns	p22-02	언제 떠나요?	언제 떠나요?	eon-je tteo-na-yo	When are you leaving?	1.0
-patterns	p22-03	예배가 언제예요?	예배가 언제예요?	ye-bae-ga eon-je-ye-yo	When is the worship service?	1.0
-patterns	p22-04	생일이 언제예요?	생일이 언제예요?	saeng-i-ri eon-je-ye-yo	When is your birthday?	1.0
-patterns	p23-01	이거 얼마예요?	이거 얼마예요?	i-geo eol-ma-ye-yo	How much is this?	1.0
-patterns	p23-02	전부 얼마예요?	전부 얼마예요?	jeon-bu eol-ma-ye-yo	How much is it altogether?	1.0
-patterns	p23-03	커피 한 잔에 얼마예요?	커피 한 잔에 얼마예요?	keo-pi han ja-ne eol-ma-ye-yo	How much is one coffee?	1.0
-patterns	p23-04	택시비 얼마예요?	택시비 얼마예요?	taek-si-bi eol-ma-ye-yo	What's the taxi fare?	1.0
-patterns	p24-01	한국 어때요?	한국 어때요?	han-guk eo-ttae-yo	How do you like Korea?	1.0
-patterns	p24-02	날씨 어때요?	날씨 어때요?	nal-ssi eo-ttae-yo	How's the weather?	1.0
-patterns	p24-03	이거 어때요?	이거 어때요?	i-geo eo-ttae-yo	How about this one?	1.0
-patterns	p24-04	내일 어때요?	내일 어때요?	nae-il eo-ttae-yo	How about tomorrow?	1.0
-patterns	p25-01	비가 올 것 같아요.	비가 올 것 같아요.	bi-ga ol geot ga-ta-yo	I think it will rain.	1.0
-patterns	p25-02	맛있을 것 같아요.	맛있을 것 같아요.	ma-si-sseul geot ga-ta-yo	It looks delicious.	1.0
-patterns	p25-03	좋은 것 같아요.	좋은 것 같아요.	jo-eun geot ga-ta-yo	I think it's good.	1.0
-patterns	p25-04	늦을 것 같아요.	늦을 것 같아요.	neu-jeul geot ga-ta-yo	I think I'll be late.	1.0
-patterns	p26-01	와 줘서 고마워요.	와 줘서 고마워요.	wa jwo-seo go-ma-wo-yo	Thank you for coming.	1.0
-patterns	p26-02	도와줘서 고마워요.	도와줘서 고마워요.	do-wa-jwo-seo go-ma-wo-yo	Thank you for helping me.	1.0
-patterns	p26-03	기도해 줘서 고마워요.	기도해 줘서 고마워요.	gi-do-hae jwo-seo go-ma-wo-yo	Thank you for praying for me.	1.0
-patterns	p26-04	초대해 줘서 고마워요.	초대해 줘서 고마워요.	cho-dae-hae jwo-seo go-ma-wo-yo	Thank you for inviting me.	1.0
-patterns	p27-01	늦어서 미안해요.	늦어서 미안해요.	neu-jeo-seo mi-an-hae-yo	Sorry I'm late.	1.0
-patterns	p27-02	기다리게 해서 미안해요.	기다리게 해서 미안해요.	gi-da-ri-ge hae-seo mi-an-hae-yo	Sorry to keep you waiting.	1.0
-patterns	p27-03	못 가서 미안해요.	못 가서 미안해요.	mot ga-seo mi-an-hae-yo	Sorry I couldn't go.	1.0
-patterns	p27-04	잊어버려서 미안해요.	잊어버려서 미안해요.	i-jeo-beo-ryeo-seo mi-an-hae-yo	Sorry I forgot.	1.0
-patterns	p28-01	걱정하지 마세요.	걱정하지 마세요.	geok-jeong-ha-ji ma-se-yo	Don't worry.	1.0
-patterns	p28-02	울지 마세요.	울지 마세요.	ul-ji ma-se-yo	Don't cry.	1.0
-patterns	p28-03	잊지 마세요.	잊지 마세요.	it-ji ma-se-yo	Don't forget.	1.0
-patterns	p28-04	뛰지 마세요.	뛰지 마세요.	ttwi-ji ma-se-yo	Don't run.	1.0
-patterns	p29-01	피곤해서 쉬고 싶어요.	피곤해서 쉬고 싶어요.	pi-gon-hae-seo swi-go si-peo-yo	I'm tired, so I want to rest.	1.0
-patterns	p29-02	배고파서 라면을 먹었어요.	배고파서 라면을 먹었어요.	bae-go-pa-seo ra-myeo-neul meo-geo-sseo-yo	I was hungry, so I ate ramyeon.	1.0
-patterns	p29-03	기뻐서 노래했어요.	기뻐서 노래했어요.	gi-ppeo-seo no-rae-hae-sseo-yo	I was happy, so I sang.	1.0
-patterns	p29-04	사랑해서 왔어요.	사랑해서 왔어요.	sa-rang-hae-seo wa-sseo-yo	I came because I love you.	1.0
-patterns	p30-01	시간이 있으면 같이 가요.	시간이 있으면 같이 가요.	si-ga-ni i-sseu-myeon ga-chi ga-yo	If you have time, let's go together.	1.0
-patterns	p30-02	비가 오면 안에서 놀아요.	비가 오면 안에서 놀아요.	bi-ga o-myeon a-ne-seo no-ra-yo	If it rains, let's play inside.	1.0
-patterns	p30-03	한국에 오면 연락하세요.	한국에 오면 연락하세요.	han-gu-ge o-myeon yeol-la-ka-se-yo	If you come to Korea, contact me.	1.0
-patterns	p30-04	한국에 다시 오면 세움교회에 꼭 들러요!	한국에 다시 오면 세움교회에 꼭 들러요!	han-gu-ge da-si o-myeon se-um-gyo-hoe-e kkok deul-leo-yo	If you come back to Korea, be sure to stop by Seum Church!	1.0
-reading	story-01	오늘 한국 친구를 만났어요.	오늘 한국 친구를 만났어요.	o-neul han-guk chin-gu-reul man-na-sseo-yo	Today I met a Korean friend.	1.0
-reading	story-02	우리는 같이 한국 식당에 갔어요.	우리는 같이 한국 식당에 갔어요.	u-ri-neun ga-chi han-guk sik-dang-e ga-sseo-yo	We went to a Korean restaurant together.	1.0
-reading	story-03	저는 불고기를 먹고, 친구는 떡볶이를 먹었어요.	저는 불고기를 먹고, 친구는 떡볶이를 먹었어요.	jeo-neun bul-go-gi-reul meok-go, chin-gu-neun tteok-bo-kki-reul meo-geo-sseo-yo	I ate bulgogi, and my friend ate tteokbokki.	1.0
-reading	story-04	떡볶이는 조금 매웠어요.	떡볶이는 조금 매웠어요.	tteok-bo-kki-neun jo-geum mae-wo-sseo-yo	The tteokbokki was a little spicy.	1.0
-reading	story-05	그래서 물을 많이 마셨어요.	그래서 물을 많이 마셨어요.	geu-rae-seo mu-reul ma-ni ma-syeo-sseo-yo	So we drank a lot of water.	1.0
-reading	story-06	그다음에 카페에서 커피를 마셨어요.	그다음에 카페에서 커피를 마셨어요.	geu-da-eu-me ka-pe-e-seo keo-pi-reul ma-syeo-sseo-yo	Then we had coffee at a café.	1.0
-reading	story-07	우리는 가위바위보도 했어요. 제가 이겼어요!	우리는 가위바위보도 했어요. 제가 이겼어요!	u-ri-neun ga-wi-ba-wi-bo-do hae-sseo-yo. je-ga i-gyeo-sseo-yo	We played rock-paper-scissors too. I won!	1.0
-reading	story-08	헤어질 때 “또 만나요!” 하고 인사했어요.	헤어질 때 “또 만나요!” 하고 인사했어요.	he-eo-jil ttae “tto man-na-yo!” ha-go in-sa-hae-sseo-yo	When we said goodbye, we said “See you again!”	1.0
-reading	story-09	집에서 친구를 위해 기도했어요.	집에서 친구를 위해 기도했어요.	ji-be-seo chin-gu-reul wi-hae gi-do-hae-sseo-yo	At home I prayed for my friend.	1.0
-reading	story-10	정말 행복한 하루였어요!	정말 행복한 하루였어요!	jeong-mal haeng-bo-kan ha-ru-yeo-sseo-yo	It was a really happy day!	1.0
-everyday	morning-01	좋은 아침이에요!	좋은 아침이에요!	jo-eun a-chi-mi-e-yo	Good morning!	1.0
-everyday	morning-02	안녕히 주무셨어요?	안녕히 주무셨어요?	an-nyeong-hi ju-mu-syeo-sseo-yo	Did you sleep well? (polite morning greeting)	1.0
-everyday	morning-03	잘 잤어요?	잘 잤어요?	jal ja-sseo-yo	Did you sleep well? (to a friend)	1.0
-everyday	morning-04	아침 먹었어요?	아침 먹었어요?	a-chim meo-geo-sseo-yo	Did you have breakfast?	1.0
-everyday	day-01	밥 먹었어요?	밥 먹었어요?	bap meo-geo-sseo-yo	Have you eaten? (a caring Korean “How are you?”)	1.0
-everyday	day-02	좋은 하루 보내세요!	좋은 하루 보내세요!	jo-eun ha-ru bo-nae-se-yo	Have a good day!	1.0
-everyday	day-03	오랜만이에요!	오랜만이에요!	o-raen-ma-ni-e-yo	Long time no see!	1.0
-everyday	day-04	잘 지냈어요?	잘 지냈어요?	jal ji-nae-sseo-yo	How have you been?	1.0
-everyday	evening-and-night-02	오늘 수고하셨습니다.	오늘 수고하셨습니다.	o-neul su-go-ha-syeot-seum-ni-da	Thank you for your hard work today.	1.0
-everyday	evening-and-night-03	안녕히 주무세요.	안녕히 주무세요.	an-nyeong-hi ju-mu-se-yo	Good night. (polite)	1.0
-everyday	evening-and-night-04	잘 자요!	잘 자요!	jal ja-yo	Sleep well! (to a friend)	1.0
-everyday	evening-and-night-05	좋은 꿈 꾸세요.	좋은 꿈 꾸세요.	jo-eun kkum kku-se-yo	Sweet dreams.	1.0
-everyday	coming-and-going-01	다녀오겠습니다.	다녀오겠습니다.	da-nyeo-o-get-seum-ni-da	I'm heading out (and I'll be back).	1.0
-everyday	coming-and-going-02	다녀왔습니다.	다녀왔습니다.	da-nyeo-wat-seum-ni-da	I'm back!	1.0
-everyday	coming-and-going-04	조심히 가세요.	조심히 가세요.	jo-sim-hi ga-se-yo	Get home safely.	1.0
-everyday	being-polite-01	저기요.	저기요.	jeo-gi-yo	Excuse me. (to get attention)	1.0
-everyday	being-polite-02	잠깐만요.	잠깐만요.	jam-kkan-man-yo	Just a moment, please.	1.0
-everyday	being-polite-03	실례합니다.	실례합니다.	sil-lye-ham-ni-da	Excuse me. (I'm sorry to bother you)	1.0
-everyday	being-polite-04	천만에요.	천만에요.	cheon-ma-ne-yo	You're welcome.	1.0
-everyday	being-polite-05	괜찮아요?	괜찮아요?	gwaen-cha-na-yo	Are you okay?	1.0
-everyday	being-polite-06	수고하셨습니다.	수고하셨습니다.	su-go-ha-syeot-seum-ni-da	Thank you for your hard work. (end of a job; safest with friends and co-workers)	1.0
-everyday	when-i-don-01	다시 한 번 말해 주세요.	다시 한 번 말해 주세요.	da-si han beon mal-hae ju-se-yo	Please say it one more time.	1.0
-everyday	when-i-don-02	한국어 조금 해요.	한국어 조금 해요.	han-gu-geo jo-geum hae-yo	I speak a little Korean.	1.0
-everyday	when-i-don-03	영어 할 수 있어요?	영어 할 수 있어요?	yeong-eo hal su i-sseo-yo	Can you speak English?	1.0
-everyday	when-i-don-04	알겠어요.	알겠어요.	al-ge-sseo-yo	I understand. / Got it.	1.0
-everyday	when-i-don-05	잘 모르겠어요.	잘 모르겠어요.	jal mo-reu-ge-sseo-yo	I'm not sure. / I don't know.	1.0
-everyday	when-i-don-06	이건 한국어로 뭐예요?	이건 한국어로 뭐예요?	i-geon han-gu-geo-ro mwo-ye-yo	How do you say this in Korean?	1.0
-everyday	with-friends-01	진짜요?	진짜요?	jin-jja-yo	Really?	1.0
-everyday	with-friends-02	대박!	대박!	dae-bak	Awesome! / No way!	1.0
-everyday	with-friends-03	좋아요!	좋아요!	jo-a-yo	Sounds good! / I like it!	1.0
-everyday	with-friends-04	같이 가요!	같이 가요!	ga-chi ga-yo	Let's go together!	1.0
-everyday	with-friends-05	사진 같이 찍어요!	사진 같이 찍어요!	sa-jin ga-chi jji-geo-yo	Let's take a photo together!	1.0
-travel	at-the-airport-01	인천공항	인천공항	in-cheon-gong-hang	Incheon Airport	1.0
-travel	at-the-airport-02	출국장이 어디예요?	출국장이 어디예요?	chul-guk-jang-i eo-di-ye-yo	Where is the departure area?	1.0
-travel	at-the-airport-03	이거 기내에 가지고 타도 돼요?	이거 기내에 가지고 타도 돼요?	i-geo gi-nae-e ga-ji-go ta-do dwae-yo	Can I take this on the plane?	1.0
-travel	at-the-airport-04	비행기가 몇 시예요?	비행기가 몇 시예요?	bi-haeng-gi-ga myeot si-ye-yo	What time is the flight?	1.0
-travel	in-a-taxi-01	여기로 가 주세요.	여기로 가 주세요.	yeo-gi-ro ga ju-se-yo	Please take me here. (show the address)	1.0
-travel	in-a-taxi-02	얼마나 걸려요?	얼마나 걸려요?	eol-ma-na geol-lyeo-yo	How long does it take?	1.0
-travel	in-a-taxi-03	여기서 세워 주세요.	여기서 세워 주세요.	yeo-gi-seo se-wo ju-se-yo	Please stop here.	1.0
-travel	in-a-taxi-04	카드 돼요?	카드 돼요?	ka-deu dwae-yo	Can I pay by card?	1.0
-travel	subway-and-bus-01	지하철역이 어디예요?	지하철역이 어디예요?	ji-ha-cheol-lyeo-gi eo-di-ye-yo	Where is the subway station?	1.0
-travel	subway-and-bus-02	이 버스 송도 가요?	이 버스 송도 가요?	i beo-seu song-do ga-yo	Does this bus go to Songdo?	1.0
-travel	subway-and-bus-03	어디서 내려요?	어디서 내려요?	eo-di-seo nae-ryeo-yo	Where do I get off?	1.0
-travel	subway-and-bus-04	몇 번 출구예요?	몇 번 출구예요?	myeot beon chul-gu-ye-yo	Which exit number is it?	1.0
-travel	directions-01	오른쪽 · 왼쪽 · 직진	오른쪽 · 왼쪽 · 직진	o-reun-jok · oen-jok · jik-jin	right · left · straight ahead	1.0
-travel	directions-02	여기 · 저기	여기 · 저기	yeo-gi · jeo-gi	here · over there	1.0
-travel	directions-03	가까워요? 멀어요?	가까워요? 멀어요?	ga-kka-wo-yo? meo-reo-yo	Is it near? Is it far?	1.0
-travel	directions-04	길을 잃었어요.	길을 잃었어요.	gi-reul i-reo-sseo-yo	I'm lost.	1.0
-travel	cafe-and-restaurant-01	아이스 아메리카노 한 잔 주세요.	아이스 아메리카노 한 잔 주세요.	a-i-seu a-me-ri-ka-no han jan ju-se-yo	One iced Americano, please.	1.0
-travel	cafe-and-restaurant-02	메뉴판 주세요.	메뉴판 주세요.	me-nyu-pan ju-se-yo	The menu, please.	1.0
-travel	cafe-and-restaurant-03	안 맵게 해 주세요.	안 맵게 해 주세요.	an maep-ge hae ju-se-yo	Not spicy, please.	1.0
-travel	cafe-and-restaurant-04	포장해 주세요.	포장해 주세요.	po-jang-hae ju-se-yo	To go, please.	1.0
-travel	cafe-and-restaurant-05	계산해 주세요.	계산해 주세요.	gye-san-hae ju-se-yo	The bill, please.	1.0
-travel	shopping-01	좀 깎아 주세요.	좀 깎아 주세요.	jom kka-kka ju-se-yo	Could you give me a discount? (at a market)	1.0
-travel	shopping-02	다른 색 있어요?	다른 색 있어요?	da-reun saek i-sseo-yo	Do you have another color?	1.0
-travel	shopping-03	그냥 구경하는 거예요.	그냥 구경하는 거예요.	geu-nyang gu-gyeong-ha-neun geo-ye-yo	I'm just looking.	1.0
-travel	shopping-04	봉투 주세요.	봉투 주세요.	bong-tu ju-se-yo	A bag, please.	1.0
-travel	at-the-hotel-01	와이파이 비밀번호가 뭐예요?	와이파이 비밀번호가 뭐예요?	wa-i-pa-i bi-mil-beon-ho-ga mwo-ye-yo	What's the Wi-Fi password?	1.0
-travel	at-the-hotel-02	체크아웃은 몇 시예요?	체크아웃은 몇 시예요?	che-keu-a-u-seun myeot si-ye-yo	What time is check-out?	1.0
-travel	at-the-hotel-03	수건 더 주세요.	수건 더 주세요.	su-geon deo ju-se-yo	More towels, please.	1.0
-travel	when-i-need-01	도와주세요!	도와주세요!	do-wa-ju-se-yo	Help me, please!	1.0
-travel	when-i-need-02	아파요.	아파요.	a-pa-yo	I'm sick. / It hurts.	1.0
-travel	when-i-need-03	병원 · 약국	병원 · 약국	byeong-won · yak-guk	hospital · pharmacy	1.0
-travel	when-i-need-04	휴대폰을 잃어버렸어요.	휴대폰을 잃어버렸어요.	hyu-dae-po-neul i-reo-beo-ryeo-sseo-yo	I lost my phone.	1.0
-travel	when-i-need-05f	일일구, 불, 응급. 일일이, 경찰.	119 (불·응급) · 112 (경찰)	il-il-gu · il-il-i	119 fire & ambulance · 112 police	1.0
-living	words-you-will-02	몇 분이세요?	몇 분이세요?	myeot bu-ni-se-yo	How many people?	1.0
-living	words-you-will-04	봉투 필요하세요?	봉투 필요하세요?	bong-tu pi-ryo-ha-se-yo	Do you need a bag?	1.0
-living	words-you-will-05	영수증 드릴까요?	영수증 드릴까요?	yeong-su-jeung deu-ril-kka-yo	Would you like a receipt?	1.0
-living	words-you-will-06	카드 꽂아 주세요.	카드 꽂아 주세요.	ka-deu kko-ja ju-se-yo	Please insert your card.	1.0
-living	words-you-will-07	잠시만 기다려 주세요.	잠시만 기다려 주세요.	jam-si-man gi-da-ryeo ju-se-yo	Please wait a moment.	1.0
-living	words-you-will-08	여기 있어요.	여기 있어요.	yeo-gi i-sseo-yo	Here you are.	1.0
-living	words-you-will-10	또 오세요!	또 오세요!	tto o-se-yo	Come again!	1.0
-living	phone-and-messages-01	여보세요?	여보세요?	yeo-bo-se-yo	Hello? (on the phone)	1.0
-living	phone-and-messages-02	전화번호가 뭐예요?	전화번호가 뭐예요?	jeon-hwa-beon-ho-ga mwo-ye-yo	What's your phone number?	1.0
-living	phone-and-messages-03	카톡 해요!	카톡 해요!	ka-tok hae-yo	Let's keep in touch on KakaoTalk!	1.0
-living	phone-and-messages-04	문자 보낼게요.	문자 보낼게요.	mun-ja bo-nael-ge-yo	I'll text you.	1.0
-living	at-the-doctor-01	머리가 아파요.	머리가 아파요.	meo-ri-ga a-pa-yo	I have a headache.	1.0
-living	at-the-doctor-02	배가 아파요.	배가 아파요.	bae-ga a-pa-yo	I have a stomachache.	1.0
-living	at-the-doctor-03	목이 아파요.	목이 아파요.	mo-gi a-pa-yo	I have a sore throat.	1.0
-living	at-the-doctor-04	열이 나요.	열이 나요.	yeo-ri na-yo	I have a fever.	1.0
-living	at-the-doctor-05	감기에 걸렸어요.	감기에 걸렸어요.	gam-gi-e geol-lyeo-sseo-yo	I caught a cold.	1.0
-living	at-the-doctor-06	약 주세요.	약 주세요.	yak ju-se-yo	Medicine, please.	1.0
-living	weather-01	날씨가 좋아요.	날씨가 좋아요.	nal-ssi-ga jo-a-yo	The weather is nice.	1.0
-living	weather-02f	더워요 · 추워요	더워요 · 추워요	deo-wo-yo · chu-wo-yo	It's hot · It's cold	0.9
-living	weather-03	비가 와요 · 눈이 와요	비가 와요 · 눈이 와요	bi-ga wa-yo · nu-ni wa-yo	It's raining · It's snowing	1.0
-words	numbers-for-money-01	일 이 삼 사 오	일 이 삼 사 오	il · i · sam · sa · o	1 · 2 · 3 · 4 · 5	1.0
-words	numbers-for-money-02	육 칠 팔 구 십	육 칠 팔 구 십	yuk · chil · pal · gu · sip	6 · 7 · 8 · 9 · 10	1.0
-words	numbers-for-money-03	백 · 천 · 만	백 · 천 · 만	baek · cheon · man	100 · 1,000 · 10,000	1.0
-words	numbers-for-counting-01	하나 둘 셋 넷 다섯	하나 둘 셋 넷 다섯	ha-na · dul · set · net · da-seot	1 · 2 · 3 · 4 · 5	1.0
-words	numbers-for-counting-02	여섯 일곱 여덟 아홉 열	여섯 일곱 여덟 아홉 열	yeo-seot · il-gop · yeo-deol · a-hop · yeol	6 · 7 · 8 · 9 · 10	1.0
-words	days-of-the-01	월요일 · 화요일 · 수요일	월요일 · 화요일 · 수요일	wo-ryo-il · hwa-yo-il · su-yo-il	Monday · Tuesday · Wednesday	1.0
-words	days-of-the-02	목요일 · 금요일	목요일 · 금요일	mo-gyo-il · geu-myo-il	Thursday · Friday	1.0
-words	days-of-the-03	토요일 · 일요일 (주일)	토요일 · 일요일 (주일)	to-yo-il · i-ryo-il (ju-il)	Saturday · Sunday (the Lord's Day)	1.0
-words	time-words-01	오늘 · 내일 · 어제	오늘 · 내일 · 어제	o-neul · nae-il · eo-je	today · tomorrow · yesterday	1.0
-words	time-words-02	아침 · 점심 · 저녁	아침 · 점심 · 저녁	a-chim · jeom-sim · jeo-nyeok	morning (breakfast) · lunch · evening (dinner)	1.0
-words	time-words-03	지금 · 나중에	지금 · 나중에	ji-geum · na-jung-e	now · later	1.0
-words	time-words-04f	한 시 · 두 시 · 세 시 반	한 시 · 두 시 · 세 시 반	han si · du si · se si ban	1 o'clock · 2 o'clock · 3:30	0.9
-words	people-and-family-01	엄마 · 아빠	엄마 · 아빠	eom-ma · a-ppa	mom · dad	1.0
-words	people-and-family-02	언니 · 오빠	언니 · 오빠	eon-ni · o-ppa	older sister (said by a girl) · older brother (said by a girl)	1.0
-words	people-and-family-03	누나 · 형	누나 · 형	nu-na · hyeong	older sister (said by a boy) · older brother (said by a boy)	1.0
-words	people-and-family-04	동생 · 친구	동생 · 친구	dong-saeng · chin-gu	younger brother or sister · friend	1.0
-words	people-and-family-05	선생님 · 목사님	선생님 · 목사님	seon-saeng-nim · mok-sa-nim	teacher · pastor	1.0
-words	people-and-family-06	집사님 · 권사님	집사님 · 권사님	jip-sa-nim · gwon-sa-nim	deacon/deaconess · senior deaconess (church titles)	1.0
-words	places-01	집 · 학교 · 교회	집 · 학교 · 교회	jip · hak-gyo · gyo-hoe	home · school · church	1.0
-words	places-02	식당 · 카페 · 편의점	식당 · 카페 · 편의점	sik-dang · ka-pe · pyeo-ni-jeom	restaurant · café · convenience store	1.0
-words	places-03	화장실 · 공원 · 바다	화장실 · 공원 · 바다	hwa-jang-sil · gong-won · ba-da	restroom · park · sea	1.0
-words	colors-01	빨간색 · 파란색 · 노란색	빨간색 · 파란색 · 노란색	ppal-gan-saek · pa-ran-saek · no-ran-saek	red · blue · yellow	1.0
-words	colors-02	하얀색 · 검은색 · 초록색	하얀색 · 검은색 · 초록색	ha-yan-saek · geo-meun-saek · cho-rok-saek	white · black · green	1.0
-words	describing-01	커요 · 작아요	커요 · 작아요	keo-yo · ja-ga-yo	It's big · It's small	1.0
-words	describing-02	예뻐요 · 멋있어요	예뻐요 · 멋있어요	ye-ppeo-yo · meo-si-sseo-yo	It's pretty · It's cool	1.0
-words	describing-03	많아요 · 적어요	많아요 · 적어요	ma-na-yo · jeo-geo-yo	There's a lot · There isn't much	1.0
-numbers	sino-01	십일 · 이십 · 삼십오	십일 · 이십 · 삼십오	si-bil · i-sip · sam-si-bo	11 · 20 · 35	1.0
-numbers	sino-02	백 · 천	백 · 천	baek · cheon	100 · 1,000	1.0
-numbers	sino-03	만 · 만 오천	만 · 만 오천	man · man o-cheon	10,000 · 15,000	1.0
-numbers	native-01	열하나 · 스물 · 서른다섯	열하나 · 스물 · 서른다섯	yeol-ha-na · seu-mul · seo-reun-da-seot	11 · 20 · 35	1.0
-numbers	counters-01	사과 두 개	사과 두 개	sa-gwa du gae	two apples (개)	1.0
-numbers	counters-02	세 명 · 두 분	세 명 · 두 분	se myeong · du bun	three people · two (respected) people (명 · 분)	1.0
-numbers	counters-03	스무 살	스무 살	seu-mu sal	twenty years old (살)	1.0
-numbers	counters-04	커피 한 잔	커피 한 잔	keo-pi han jan	a cup of coffee (잔)	1.0
-numbers	counters-05f	표 두 장	표 두 장	pyo du jang	two tickets (장)	0.9
-numbers	counters-06	성경 한 권	성경 한 권	seong-gyeong han gwon	one Bible (권)	1.0
-numbers	counters-07	한 번 더	한 번 더	han beon deo	one more time (번)	1.0
-numbers	say-01	세 시 이십 분	세 시 이십 분	se si i-sip bun	3:20	1.0
-numbers	say-02	아홉 시 반	아홉 시 반	a-hop si ban	9:30 (반 = half)	1.0
-numbers	say-03	열두 시 십오 분	열두 시 십오 분	yeol-du si si-bo bun	12:15	1.0
-numbers	say-04	천오백 원	천오백 원	cheo-no-baek won	₩1,500	1.0
-numbers	say-05	만 오천 원	만 오천 원	man o-cheon won	₩15,000	1.0
-numbers	say-06	삼만 이천 원	삼만 이천 원	sam-man i-cheon won	₩32,000	1.0
-numbers	say-07f	요한복음 삼 장 십육 절	요한복음 3장 16절	yo-han-bo-geum sam jang sim-nyuk jeol	John 3:16	1.0
-food	korean-dishes-01	비빔밥	비빔밥	bi-bim-bap	rice mixed with vegetables	1.0
-food	korean-dishes-02	김치찌개	김치찌개	gim-chi-jji-gae	kimchi stew	1.0
-food	korean-dishes-03	라면	라면	ra-myeon	instant noodles	1.0
-food	korean-dishes-04	치킨	치킨	chi-kin	Korean fried chicken	1.0
-food	korean-dishes-05f	삼겹살.	삼겹살	sam-gyeop-sal	grilled pork belly	1.0
-food	korean-dishes-06	냉면	냉면	naeng-myeon	cold noodles	1.0
-food	korean-dishes-07	떡	떡	tteok	rice cake	1.0
-food	korean-dishes-08	붕어빵	붕어빵	bung-eo-ppang	fish-shaped bun with sweet red beans	1.0
-food	korean-dishes-09	호떡	호떡	ho-tteok	sweet filled pancake	1.0
-food	korean-dishes-10	반찬	반찬	ban-chan	side dishes	1.0
-food	at-the-table-01	밥 · 국 · 고기 · 야채 · 과일	밥 · 국 · 고기 · 야채 · 과일	bap · guk · go-gi · ya-chae · gwa-il	rice · soup · meat · vegetables · fruit	1.0
-food	at-the-table-02	숟가락 · 젓가락	숟가락 · 젓가락	sut-ga-rak · jeot-ga-rak	spoon · chopsticks	1.0
-food	at-the-table-03	더 주세요.	더 주세요.	deo ju-se-yo	More, please.	1.0
-food	at-the-table-04	잘 먹겠습니다 · 잘 먹었습니다	잘 먹겠습니다 · 잘 먹었습니다	jal meok-get-seum-ni-da · jal meo-geot-seum-ni-da	Thanks for the food (before · after)	1.0
-food	taste-01	달아요 · 짜요 · 셔요	달아요 · 짜요 · 셔요	da-ra-yo · jja-yo · syeo-yo	sweet · salty · sour	1.0
-food	taste-02	매워요 · 싱거워요	매워요 · 싱거워요	mae-wo-yo · sing-geo-wo-yo	spicy · bland	1.0
-food	taste-03	뜨거워요 · 차가워요	뜨거워요 · 차가워요	tteu-geo-wo-yo · cha-ga-wo-yo	hot · cold (temperature)	1.0
-gospel	steps-02	우리는 모두 죄가 있어요.	우리는 모두 죄가 있어요.	u-ri-neun mo-du joe-ga i-sseo-yo	We all have sin.	1.0
-gospel	steps-03	예수님이 우리를 위해 십자가에서 죽으셨어요.	예수님이 우리를 위해 십자가에서 죽으셨어요.	ye-su-ni-mi u-ri-reul wi-hae sip-ja-ga-e-seo ju-geu-syeo-sseo-yo	Jesus died on the cross for us.	1.0
-gospel	steps-04	예수님은 다시 살아나셨어요.	예수님은 다시 살아나셨어요.	ye-su-ni-meun da-si sa-ra-na-syeo-sseo-yo	Jesus rose again.	1.0
-gospel	steps-05	예수님을 믿으면 새 생명을 얻어요.	예수님을 믿으면 새 생명을 얻어요.	ye-su-ni-meul mi-deu-myeon sae saeng-myeong-eul eo-deo-yo	If you believe in Jesus, you receive new life.	1.0
-gospel	kind-words-for-02	제가 기도해 드려도 될까요?	제가 기도해 드려도 될까요?	je-ga gi-do-hae deu-ryeo-do doel-kka-yo	May I pray for you?	1.0
-gospel	kind-words-for-03	예수님을 믿어 보세요.	예수님을 믿어 보세요.	ye-su-ni-meul mi-deo bo-se-yo	Please put your trust in Jesus.	1.0
-gospel	kind-words-for-04	교회에 같이 가요!	교회에 같이 가요!	gyo-hoe-e ga-chi ga-yo	Let's go to church together!	1.0
-gospel	kind-words-for-05	예수님 안에서 우리는 가족이에요.	예수님 안에서 우리는 가족이에요.	ye-su-nim a-ne-seo u-ri-neun ga-jo-gi-e-yo	In Jesus, we are family.	1.0
-gospel	kind-words-for-06	하나님이 당신에게 복 주시길 기도해요.	하나님이 당신에게 복 주시길 기도해요.	ha-na-ni-mi dang-si-ne-ge bok ju-si-gil gi-do-hae-yo	I pray that God will bless you.	1.0
-gospel	a-short-prayer-01b	하나님, 사랑합니다.	하나님, 사랑합니다.	ha-na-nim, sa-rang-ham-ni-da	God, I love You.	1.0
-gospel	a-short-prayer-02b	예수님, 저를 구원해 주셔서 감사합니다.	예수님, 저를 구원해 주셔서 감사합니다.	ye-su-nim, jeo-reul gu-won-hae ju-syeo-seo gam-sa-ham-ni-da	Jesus, thank You for saving me.	1.0
-gospel	a-short-prayer-03	제 친구에게 복을 주세요.	제 친구에게 복을 주세요.	je chin-gu-e-ge bo-geul ju-se-yo	Please bless my friend.	1.0
-gospel	a-short-prayer-04	예수님의 이름으로 기도합니다. 아멘.	예수님의 이름으로 기도합니다. 아멘.	ye-su-ni-me i-reu-meu-ro gi-do-ham-ni-da. a-men	I pray in Jesus' name. Amen.	1.0
-gospel	words-of-faith-01	은혜 · 믿음 · 소망 · 사랑	은혜 · 믿음 · 소망 · 사랑	eun-hye · mi-deum · so-mang · sa-rang	grace · faith · hope · love	1.0
-gospel	words-of-faith-02	구원 · 십자가 · 부활	구원 · 십자가 · 부활	gu-won · sip-ja-ga · bu-hwal	salvation · the cross · resurrection	1.0
-gospel	words-of-faith-03	성경 · 예배 · 천국	성경 · 예배 · 천국	seong-gyeong · ye-bae · cheon-guk	the Bible · worship service · heaven	1.0
-gospel	words-of-faith-04	성령 · 회개 · 감사	성령 · 회개 · 감사	seong-nyeong · hoe-gae · gam-sa	the Holy Spirit · repentance · thanksgiving	1.0
+section	id	korean_spoken	korean	romanization	english	speed	note
+hangul	read-01	엄마	엄마	eom-ma	mom	1.0	
+hangul	read-02	아빠	아빠	a-ppa	dad	1.0	
+hangul	read-03	커피	커피	keo-pi	coffee	1.0	
+hangul	read-04	바나나	바나나	ba-na-na	banana	1.0	
+hangul	read-05	김치	김치	gim-chi	kimchi	1.0	
+hangul	read-06	사랑	사랑	sa-rang	love	1.0	
+hangul	read-07	한국	한국	han-guk	Korea	1.0	
+hangul	read-08f	교회	교회	gyo-hoe	church	1.0	copy of u5/words-03, owner choice
+hangul	write-01	안녕하세요	안녕하세요	an-nyeong-ha-se-yo	Hello	1.0	
+hangul	write-02	감사합니다	감사합니다	gam-sa-ham-ni-da	Thank you	1.0	
+hangul	write-03	사랑해요	사랑해요	sa-rang-hae-yo	I love you	1.0	
+hangul	write-04	친구	친구	chin-gu	friend	1.0	
+hangul	write-05f	교회	교회	gyo-hoe	church	1.0	copy of u5/words-03, owner choice
+hangul	write-06	하나님	하나님	ha-na-nim	God	1.0	
+hangul	write-07	예수님	예수님	ye-su-nim	Jesus	1.0	
+hangul	write-08	맛있어요	맛있어요	ma-si-sseo-yo	It's delicious	1.0	
+hangul	write-09	한국어	한국어	han-gu-geo	the Korean language	1.0	
+hangul	write-10	또 만나요	또 만나요	tto man-na-yo	See you again	1.0	
+u1	words-01	안녕하세요	안녕하세요	an-nyeong-ha-se-yo	Hello	1.0	
+u1	words-02	감사합니다	감사합니다	gam-sa-ham-ni-da	Thank you	1.0	
+u1	words-03	네	네	ne	Yes	1.0	
+u1	words-04	아니요	아니요	a-ni-yo	No	1.0	
+u1	words-05	이름	이름	i-reum	name	1.0	
+u1	words-06	친구	친구	chin-gu	friend	1.0	
+u1	words-07	죄송합니다	죄송합니다	joe-song-ham-ni-da	I'm sorry	1.0	
+u1	words-08	괜찮아요	괜찮아요	gwaen-cha-na-yo	It's okay	1.0	
+u1	say-01	안녕하세요!	안녕하세요!	an-nyeong-ha-se-yo	Hello!	1.0	
+u1	say-02	저는 선교사예요.	저는 ___예요/이에요.	jeo-neun ___-ye-yo / ___-i-e-yo	I'm ___.	1.0	
+u1	say-03	이름이 뭐예요?	이름이 뭐예요?	i-reu-mi mwo-ye-yo	What's your name?	1.0	
+u1	say-04	만나서 반가워요.	만나서 반가워요.	man-na-seo ban-ga-wo-yo	Nice to meet you.	1.0	
+u1	say-05	안녕히 가세요.	안녕히 가세요.	an-nyeong-hi ga-se-yo	Goodbye! (to someone leaving)	1.0	
+u1	say-06	안녕히 계세요.	안녕히 계세요.	an-nyeong-hi gye-se-yo	Goodbye! (to someone staying)	1.0	
+u1	talk-01	안녕하세요! 저는 지우예요.	안녕하세요! 저는 지우예요.	an-nyeong-ha-se-yo! jeo-neun ji-u-ye-yo	Hello! I'm Jiwoo.	1.0	
+u1	talk-02	안녕하세요! 저는 선교사예요.	안녕하세요! 저는 ___예요/이에요.	an-nyeong-ha-se-yo! jeo-neun ___-ye-yo / ___-i-e-yo	Hello! I'm ___.	1.0	
+u1	talk-03	만나서 반가워요!	만나서 반가워요!	man-na-seo ban-ga-wo-yo	Nice to meet you!	1.0	
+u1	talk-04	저도 반가워요. 감사합니다!	저도 반가워요. 감사합니다!	jeo-do ban-ga-wo-yo. gam-sa-ham-ni-da	Nice to meet you too. Thank you!	1.0	
+u2	words-01	밥	밥	bap	rice / a meal	1.0	
+u2	words-02	물	물	mul	water	1.0	
+u2	words-03	김치	김치	gim-chi	kimchi	1.0	
+u2	words-04	김밥	김밥	gim-bap	gimbap (rice roll)	1.0	
+u2	words-05	떡볶이	떡볶이	tteok-bo-kki	spicy rice cakes	1.0	
+u2	words-06	불고기	불고기	bul-go-gi	Korean BBQ beef	1.0	
+u2	words-07	맛있어요	맛있어요	ma-si-sseo-yo	It's delicious	1.0	
+u2	words-08	매워요	매워요	mae-wo-yo	It's spicy	1.0	
+u2	say-01	잘 먹겠습니다!	잘 먹겠습니다!	jal meok-get-seum-ni-da	Thank you for the food! (before eating)	1.0	
+u2	say-02	잘 먹었습니다!	잘 먹었습니다!	jal meo-geot-seum-ni-da	Thank you, I enjoyed it! (after eating)	1.0	
+u2	say-03	정말 맛있어요!	정말 맛있어요!	jeong-mal ma-si-sseo-yo	It's really delicious!	1.0	
+u2	say-04	조금 매워요.	조금 매워요.	jo-geum mae-wo-yo	It's a little spicy.	1.0	
+u2	say-05	물 주세요.	물 주세요.	mul ju-se-yo	Water, please.	1.0	
+u2	say-06	배불러요!	배불러요!	bae-bul-leo-yo	I'm full!	1.0	
+u2	talk-01	많이 드세요!	많이 드세요!	ma-ni deu-se-yo	Please eat a lot! (Enjoy!)	1.0	
+u2	talk-02	잘 먹겠습니다!	잘 먹겠습니다!	jal meok-get-seum-ni-da	Thank you for the food!	1.0	
+u2	talk-03	맛있어요?	맛있어요?	ma-si-sseo-yo	Is it good?	1.0	
+u2	talk-04	네, 정말 맛있어요! 조금 매워요.	네, 정말 맛있어요! 조금 매워요.	ne, jeong-mal ma-si-sseo-yo! jo-geum mae-wo-yo	Yes, really good! A little spicy.	1.0	
+u3	words-01	가위	가위	ga-wi	scissors	1.0	
+u3	words-02	바위	바위	ba-wi	rock	1.0	
+u3	words-03	보	보	bo	paper	1.0	
+u3	words-04	놀이	놀이	no-ri	game, play	1.0	
+u3	words-05	하나, 둘, 셋	하나, 둘, 셋	ha-na, dul, set	one, two, three	1.0	
+u3	words-06	내 차례	내 차례	nae cha-rye	my turn	1.0	
+u3	words-07	이겼다!	이겼다!	i-gyeot-da	I won!	1.0	
+u3	words-08f	졌다!	졌다!	jyeot-da	I lost!	0.9	
+u3	say-01	가위, 바위, 보!	가위, 바위, 보!	ga-wi, ba-wi, bo	Rock, paper, scissors!	1.0	
+u3	say-02	같이 해요!	같이 해요!	ga-chi hae-yo	Let's do it together!	1.0	
+u3	say-03	내 차례예요.	내 차례예요.	nae cha-rye-ye-yo	It's my turn.	1.0	
+u3	say-04	잘했어요!	잘했어요!	jal-hae-sseo-yo	Good job!	1.0	
+u3	say-05	화이팅!	화이팅!	hwa-i-ting	You can do it! / Go, go!	1.0	
+u3	say-06	한 번 더!	한 번 더!	han beon deo	One more time!	1.0	
+u3	talk-01	같이 놀아요!	같이 놀아요!	ga-chi no-ra-yo	Let's play together!	1.0	
+u3	talk-02	좋아요! 가위, 바위, 보!	좋아요! 가위, 바위, 보!	jo-a-yo! ga-wi, ba-wi, bo	Okay! Rock, paper, scissors!	1.0	
+u3	talk-03	와, 이겼다! 내 차례예요.	와, 이겼다! 내 차례예요.	wa, i-gyeot-da! nae cha-rye-ye-yo	Wow, I won! It's my turn.	1.0	
+u3	talk-04	잘했어요! 화이팅!	잘했어요! 화이팅!	jal-hae-sseo-yo! hwa-i-ting	Good job! Go, go!	1.0	
+u4	words-01	이거	이거	i-geo	this	1.0	
+u4	words-02	저거	저거	jeo-geo	that	1.0	
+u4	words-03	화장실	화장실	hwa-jang-sil	restroom	1.0	
+u4	words-04	어디	어디	eo-di	where	1.0	
+u4	words-05	얼마	얼마	eol-ma	how much	1.0	
+u4	words-06	사진	사진	sa-jin	photo	1.0	
+u4	words-07	커피	커피	keo-pi	coffee	1.0	
+u4	words-08	카드	카드	ka-deu	card	1.0	
+u4	say-01	이거 뭐예요?	이거 뭐예요?	i-geo mwo-ye-yo	What is this?	1.0	
+u4	say-02	이거 얼마예요?	이거 얼마예요?	i-geo eol-ma-ye-yo	How much is this?	1.0	
+u4	say-03	이거 주세요.	이거 주세요.	i-geo ju-se-yo	This one, please.	1.0	
+u4	say-04	화장실 어디예요?	화장실 어디예요?	hwa-jang-sil eo-di-ye-yo	Where is the restroom?	1.0	
+u4	say-05	사진 찍어도 돼요?	사진 찍어도 돼요?	sa-jin jji-geo-do dwae-yo	May I take a photo?	1.0	
+u4	say-06	천천히 말해 주세요.	천천히 말해 주세요.	cheon-cheon-hi mal-hae ju-se-yo	Please speak slowly.	1.0	
+u4	talk-01	안녕하세요! 이거 얼마예요?	안녕하세요! 이거 얼마예요?	an-nyeong-ha-se-yo! i-geo eol-ma-ye-yo	Hello! How much is this?	1.0	
+u4	talk-02	호떡이에요. 이천 원이에요.	호떡이에요. 이천 원이에요.	ho-tteo-gi-e-yo. i-cheon wo-ni-e-yo	It's hotteok (sweet pancake). It's 2,000 won.	1.0	
+u4	talk-03	이거 주세요. 감사합니다!	이거 주세요. 감사합니다!	i-geo ju-se-yo. gam-sa-ham-ni-da	This one, please. Thank you!	1.0	
+u4	talk-04	맛있게 드세요!	맛있게 드세요!	ma-sit-ge deu-se-yo	Enjoy!	1.0	
+u5	words-01	하나님	하나님	ha-na-nim	God	1.0	
+u5	words-02	예수님	예수님	ye-su-nim	Jesus	1.0	
+u5	words-03	교회	교회	gyo-hoe	church	1.0	
+u5	words-04	기도	기도	gi-do	prayer	1.0	
+u5	words-05	찬양	찬양	cha-nyang	worship song	1.0	
+u5	words-06	사랑	사랑	sa-rang	love	1.0	
+u5	words-07	아멘	아멘	a-men	Amen	1.0	
+u5	words-08	할렐루야	할렐루야	hal-lel-lu-ya	Hallelujah	1.0	
+u5	say-01b	하나님은 당신을 사랑하십니다.	하나님은 당신을 사랑하십니다.	ha-na-ni-meun dang-si-neul sa-rang-ha-sim-ni-da	God loves you.	1.0	
+u5	say-02	예수님 사랑해요!	예수님 사랑해요!	ye-su-nim sa-rang-hae-yo	I love Jesus!	1.0	
+u5	say-03	축복합니다!	축복합니다!	chuk-bo-kam-ni-da	God bless you!	1.0	
+u5	say-04	기도할게요.	기도할게요.	gi-do-hal-ge-yo	I will pray for you.	1.0	
+u5	say-05	같이 기도해요.	같이 기도해요.	ga-chi gi-do-hae-yo	Let's pray together.	1.0	
+u5	say-06	은혜 받았어요!	은혜 받았어요!	eun-hye ba-da-sseo-yo	I was blessed! (It touched my heart.)	1.0	
+u5	talk-01	오늘 찬양 정말 좋았어요!	오늘 찬양 정말 좋았어요!	o-neul cha-nyang jeong-mal jo-a-sseo-yo	The worship today was so good!	1.0	
+u5	talk-02	네! 은혜 받았어요!	네! 은혜 받았어요!	ne! eun-hye ba-da-sseo-yo	Yes! I was blessed!	1.0	
+u5	talk-03b	같이 기도해요!	같이 기도해요!	ga-chi gi-do-hae-yo	Let's pray together!	1.0	
+u5	talk-04	네, 기도할게요. 축복합니다!	네, 기도할게요. 축복합니다!	ne, gi-do-hal-ge-yo. chuk-bo-kam-ni-da	Yes, let's pray. God bless you!	1.0	
+u6	words-01	좋아요	좋아요	jo-a-yo	good / I like it	1.0	
+u6	words-02	기뻐요	기뻐요	gi-ppeo-yo	I'm glad	1.0	
+u6	words-03	행복해요	행복해요	haeng-bo-kae-yo	I'm happy	1.0	
+u6	words-04	재밌어요	재밌어요	jae-mi-sseo-yo	It's fun	1.0	
+u6	words-05	피곤해요	피곤해요	pi-gon-hae-yo	I'm tired	1.0	
+u6	words-06	추워요	추워요	chu-wo-yo	I'm cold	1.0	
+u6	words-07	배고파요	배고파요	bae-go-pa-yo	I'm hungry	1.0	
+u6	words-08	최고예요!	최고예요!	choe-go-ye-yo	You're the best!	1.0	
+u6	say-01	기분이 어때요?	기분이 어때요?	gi-bu-ni eo-ttae-yo	How are you feeling?	1.0	
+u6	say-02	너무 행복해요!	너무 행복해요!	neo-mu haeng-bo-kae-yo	I'm so happy!	1.0	
+u6	say-03	정말 재밌어요!	정말 재밌어요!	jeong-mal jae-mi-sseo-yo	This is so fun!	1.0	
+u6	say-04	우리는 친구예요.	우리는 친구예요.	u-ri-neun chin-gu-ye-yo	We are friends.	1.0	
+u6	say-05	사랑해요!	사랑해요!	sa-rang-hae-yo	I love you!	1.0	
+u6	say-06	최고예요!	최고예요!	choe-go-ye-yo	You're the best!	1.0	
+u6	talk-01	기분이 어때요?	기분이 어때요?	gi-bu-ni eo-ttae-yo	How are you feeling?	1.0	
+u6	talk-02	조금 피곤해요. 그런데 너무 행복해요!	조금 피곤해요. 그런데 너무 행복해요!	jo-geum pi-gon-hae-yo. geu-reon-de neo-mu haeng-bo-kae-yo	A little tired. But I'm so happy!	1.0	
+u6	talk-03	우리는 친구예요!	우리는 친구예요!	u-ri-neun chin-gu-ye-yo	We are friends!	1.0	
+u6	talk-04	네! 최고예요! 사랑해요!	네! 최고예요! 사랑해요!	ne! choe-go-ye-yo! sa-rang-hae-yo	Yes! You're the best! Love you!	1.0	
+u7	words-01	고마워요	고마워요	go-ma-wo-yo	Thanks	1.0	
+u7	words-02	또	또	tto	again	1.0	
+u7	words-03	만나요	만나요	man-na-yo	let's meet	1.0	
+u7	words-04	보고 싶어요	보고 싶어요	bo-go si-peo-yo	I miss you	1.0	
+u7	words-05	기억	기억	gi-eok	memory	1.0	
+u7	words-06	한국	한국	han-guk	Korea	1.0	
+u7	words-07	미국	미국	mi-guk	America	1.0	
+u7	words-08	축복	축복	chuk-bok	blessing	1.0	
+u7	say-01	정말 고마워요!	정말 고마워요!	jeong-mal go-ma-wo-yo	Thank you so much!	1.0	
+u7	say-02	보고 싶을 거예요.	보고 싶을 거예요.	bo-go si-peul geo-ye-yo	I will miss you.	1.0	
+u7	say-03	잊지 않을게요.	잊지 않을게요.	it-ji a-neul-ge-yo	I won't forget you.	1.0	
+u7	say-04	또 만나요!	또 만나요!	tto man-na-yo	See you again!	1.0	
+u7	say-05	건강하세요.	건강하세요.	geon-gang-ha-se-yo	Stay healthy. (Take care.)	1.0	
+u7	say-06	하나님이 축복하실 거예요.	하나님이 축복하실 거예요.	ha-na-ni-mi chuk-bo-ka-sil geo-ye-yo	God will bless you.	1.0	
+u7	talk-01	벌써 가요? 보고 싶을 거예요.	벌써 가요? 보고 싶을 거예요.	beol-sseo ga-yo? bo-go si-peul geo-ye-yo	Leaving already? I will miss you.	1.0	
+u7	talk-02	저도요. 정말 고마워요!	저도요. 정말 고마워요!	jeo-do-yo. jeong-mal go-ma-wo-yo	Me too. Thank you so much!	1.0	
+u7	talk-03	건강하세요. 또 만나요!	건강하세요. 또 만나요!	geon-gang-ha-se-yo. tto man-na-yo	Take care. See you again!	1.0	
+u7	talk-04	잊지 않을게요. 축복합니다!	잊지 않을게요. 축복합니다!	it-ji a-neul-ge-yo. chuk-bo-kam-ni-da	I won't forget you. God bless you!	1.0	
+talk	d1-01	안녕하세요! 이름이 뭐예요?	안녕하세요! 이름이 뭐예요?	an-nyeong-ha-se-yo! i-reu-mi mwo-ye-yo	Hello! What's your name?	1.0	
+talk	d1-02	저는 선교사예요. 만나서 반가워요.	저는 ___예요/이에요. 만나서 반가워요.	jeo-neun ___-ye-yo / ___-i-e-yo. man-na-seo ban-ga-wo-yo	I'm ___. Nice to meet you.	1.0	
+talk	d1-03	저도 반가워요. 오늘 찬양 정말 좋았어요!	저도 반가워요. 오늘 찬양 정말 좋았어요!	jeo-do ban-ga-wo-yo. o-neul cha-nyang jeong-mal jo-a-sseo-yo	Nice to meet you too. The worship today was so good!	1.0	
+talk	d1-04	네! 은혜 받았어요!	네! 은혜 받았어요!	ne! eun-hye ba-da-sseo-yo	Yes! I was blessed!	1.0	
+talk	d1-05	기도 제목 있어요?	기도 제목 있어요?	gi-do je-mok i-sseo-yo	Do you have a prayer request?	1.0	
+talk	d1-06	네, 가족을 위해 기도해 주세요. 저도 기도할게요!	네, 가족을 위해 기도해 주세요. 저도 기도할게요!	ne, ga-jo-geul wi-hae gi-do-hae ju-se-yo. jeo-do gi-do-hal-ge-yo	Yes, please pray for my family. I will pray for you too!	1.0	
+talk	d2-01	어서 오세요!	어서 오세요!	eo-seo o-se-yo	Welcome! (come on in)	1.0	
+talk	d2-02	초대해 주셔서 감사합니다!	초대해 주셔서 감사합니다!	cho-dae-hae ju-syeo-seo gam-sa-ham-ni-da	Thank you for inviting me!	1.0	
+talk	d2-03	많이 드세요!	많이 드세요!	ma-ni deu-se-yo	Please eat a lot!	1.0	
+talk	d2-04	잘 먹겠습니다!	잘 먹겠습니다!	jal meok-get-seum-ni-da	Thank you for the food!	1.0	
+talk	d2-05	맛있어요?	맛있어요?	ma-si-sseo-yo	Is it good?	1.0	
+talk	d2-06	네, 정말 맛있어요! 조금 매워요.	네, 정말 맛있어요! 조금 매워요.	ne, jeong-mal ma-si-sseo-yo! jo-geum mae-wo-yo	Yes, really good! A little spicy.	1.0	
+talk	d2-07	물 여기 있어요.	물 여기 있어요.	mul yeo-gi i-sseo-yo	Here's some water.	1.0	
+talk	d2-08	고마워요! 배불러요. 잘 먹었습니다!	고마워요! 배불러요. 잘 먹었습니다!	go-ma-wo-yo! bae-bul-leo-yo. jal meo-geot-seum-ni-da	Thanks! I'm full. Thank you, I enjoyed it!	1.0	
+talk	d3-01	안녕하세요! 커피 두 잔 주세요.	안녕하세요! 커피 두 잔 주세요.	an-nyeong-ha-se-yo! keo-pi du jan ju-se-yo	Hello! Two coffees, please.	1.0	
+talk	d3-02	드시고 가세요? 포장이세요?	드시고 가세요? 포장이세요?	deu-si-go ga-se-yo? po-jang-i-se-yo	For here or to go?	1.0	
+talk	d3-03	포장해 주세요. 카드 돼요?	포장해 주세요. 카드 돼요?	po-jang-hae ju-se-yo. ka-deu dwae-yo	To go, please. Can I pay by card?	1.0	
+talk	d3-04	네, 돼요. 맛있게 드세요!	네, 돼요. 맛있게 드세요!	ne, dwae-yo. ma-sit-ge deu-se-yo	Yes, you can. Enjoy!	1.0	
+talk	d3-05	감사합니다! 지하철역이 어디예요?	감사합니다! 지하철역이 어디예요?	gam-sa-ham-ni-da! ji-ha-cheol-lyeo-gi eo-di-ye-yo	Thank you! Where is the subway station?	1.0	
+talk	d3-06	저기예요.	저기예요.	jeo-gi-ye-yo	It's over there.	1.0	
+talk	d4-01	벌써 가요? 보고 싶을 거예요.	벌써 가요? 보고 싶을 거예요.	beol-sseo ga-yo? bo-go si-peul geo-ye-yo	Leaving already? I will miss you.	1.0	
+talk	d4-02	저도 보고 싶을 거예요. 정말 고마워요!	저도 보고 싶을 거예요. 정말 고마워요!	jeo-do bo-go si-peul geo-ye-yo. jeong-mal go-ma-wo-yo	I will miss you too. Thank you so much!	1.0	
+talk	d4-03	미국에서도 건강하세요.	미국에서도 건강하세요.	mi-gu-ge-seo-do geon-gang-ha-se-yo	Stay healthy in America too.	1.0	
+talk	d4-04	네, 카톡 해요! 기도할게요.	네, 카톡 해요! 기도할게요.	ne, ka-tok hae-yo! gi-do-hal-ge-yo	Yes, let's keep in touch on KakaoTalk! I will pray for you.	1.0	
+talk	d4-05	우리도 기도할게요. 또 만나요!	우리도 기도할게요. 또 만나요!	u-ri-do gi-do-hal-ge-yo. tto man-na-yo	We will pray for you too. See you again!	1.0	
+talk	d4-06	잊지 않을게요. 축복합니다!	잊지 않을게요. 축복합니다!	it-ji a-neul-ge-yo. chuk-bo-kam-ni-da	I won't forget you. God bless you!	1.0	
+verses	verse-01f	우리가 사랑함은, 그가 먼저 우리를 사랑하셨음이라.	우리가 사랑함은 그가 먼저 우리를 사랑하셨음이라	u-ri-ga sa-rang-ha-meun geu-ga meon-jeo u-ri-reul sa-rang-ha-syeo-sseu-mi-ra	1 John 4:19 — “We love him, because he first loved us.”	0.9	
+verses	verse-02	여호와는 나의 목자시니 내가 부족함이 없으리로다	여호와는 나의 목자시니 내가 부족함이 없으리로다	yeo-ho-wa-neun na-e mok-ja-si-ni nae-ga bu-jo-ka-mi eop-seu-ri-ro-da	Psalm 23:1 — “The LORD is my shepherd; I shall not want.”	1.0	
+verses	verse-03	내게 능력 주시는 자 안에서 내가 모든 것을 할 수 있느니라	내게 능력 주시는 자 안에서 내가 모든 것을 할 수 있느니라	nae-ge neung-nyeok ju-si-neun ja a-ne-seo nae-ga mo-deun geo-seul hal su in-neu-ni-ra	Philippians 4:13 — “I can do all things through Christ which strengtheneth me.”	1.0	
+verses	verse-04	수고하고 무거운 짐진 자들아 다 내게로 오라 내가 너희를 쉬게 하리라	수고하고 무거운 짐진 자들아 다 내게로 오라 내가 너희를 쉬게 하리라	su-go-ha-go mu-geo-un jim-jin ja-deu-ra da nae-ge-ro o-ra nae-ga neo-hi-reul swi-ge ha-ri-ra	Matthew 11:28 — “Come unto me, all ye that labour and are heavy laden, and I will give you rest.”	1.0	
+verses	verse-05	하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 저를 믿는 자마다 멸망치 않고 영생을 얻게 하려 하심이니라	하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 저를 믿는 자마다 멸망치 않고 영생을 얻게 하려 하심이니라	ha-na-ni-mi se-sang-eul i-cheo-reom sa-rang-ha-sa dok-saeng-ja-reul ju-syeo-sseu-ni i-neun jeo-reul min-neun ja-ma-da myeol-mang-chi an-ko yeong-saeng-eul eot-ge ha-ryeo ha-si-mi-ni-ra	John 3:16 — “For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”	1.0	
+verses	verse-06f	너는 마음을 다하여 여호와를 의뢰하고, 네 명철을 의지하지 말라.	너는 마음을 다하여 여호와를 의뢰하고 네 명철을 의지하지 말라	neo-neun ma-eu-meul da-ha-yeo yeo-ho-wa-reul ui-roe-ha-go ne myeong-cheo-reul ui-ji-ha-ji mal-la	Proverbs 3:5 — “Trust in the LORD with all thine heart; and lean not unto thine own understanding.”	1.0	
+verses	verse-07	우리가 알거니와 하나님을 사랑하는 자 곧 그 뜻대로 부르심을 입은 자들에게는 모든 것이 합력하여 선을 이루느니라	우리가 알거니와 하나님을 사랑하는 자 곧 그 뜻대로 부르심을 입은 자들에게는 모든 것이 합력하여 선을 이루느니라	u-ri-ga al-geo-ni-wa ha-na-ni-meul sa-rang-ha-neun ja got geu tteut-dae-ro bu-reu-si-meul i-beun ja-deu-re-ge-neun mo-deun geo-si ham-nyeo-ka-yeo seo-neul i-ru-neu-ni-ra	Romans 8:28 — “And we know that all things work together for good to them that love God, to them who are the called according to his purpose.”	1.0	
+verses	verse-08f	나 여호와가 말하노라 너희를 향한 나의 생각은 내가 아나니 재앙이 아니라 곧 평안이요 너희 장래에 소망을 주려하는 생각이라	나 여호와가 말하노라 너희를 향한 나의 생각은 내가 아나니 재앙이 아니라 곧 평안이요 너희 장래에 소망을 주려하는 생각이라	na yeo-ho-wa-ga mal-ha-no-ra neo-hi-reul hyang-han na-e saeng-ga-geun nae-ga a-na-ni jae-ang-i a-ni-ra got pyeong-a-ni-yo neo-hi jang-nae-e so-mang-eul ju-ryeo-ha-neun saeng-ga-gi-ra	Jeremiah 29:11 — “For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.”	0.9	
+verses	verse-09	두려워 말라 내가 너와 함께 함이니라 놀라지 말라 나는 네 하나님이 됨이니라 내가 너를 굳세게 하리라 참으로 너를 도와 주리라 참으로 나의 의로운 오른손으로 너를 붙들리라	두려워 말라 내가 너와 함께 함이니라 놀라지 말라 나는 네 하나님이 됨이니라 내가 너를 굳세게 하리라 참으로 너를 도와 주리라 참으로 나의 의로운 오른손으로 너를 붙들리라	du-ryeo-wo mal-la nae-ga neo-wa ham-kke ha-mi-ni-ra nol-la-ji mal-la na-neun ne ha-na-ni-mi doe-mi-ni-ra nae-ga neo-reul gut-se-ge ha-ri-ra cha-meu-ro neo-reul do-wa ju-ri-ra cha-meu-ro na-e ui-ro-un o-reun-so-neu-ro neo-reul but-deul-li-ra	Isaiah 41:10 — “Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.”	1.0	
+verses	verse-10	내가 네게 명한 것이 아니냐 마음을 강하게 하고 담대히 하라 두려워 말며 놀라지 말라 네가 어디로 가든지 네 하나님 여호와가 너와 함께 하느니라 하시니라	내가 네게 명한 것이 아니냐 마음을 강하게 하고 담대히 하라 두려워 말며 놀라지 말라 네가 어디로 가든지 네 하나님 여호와가 너와 함께 하느니라 하시니라	nae-ga ne-ge myeong-han geo-si a-ni-nya ma-eu-meul gang-ha-ge ha-go dam-dae-hi ha-ra du-ryeo-wo mal-myeo nol-la-ji mal-la ne-ga eo-di-ro ga-deun-ji ne ha-na-nim yeo-ho-wa-ga neo-wa ham-kke ha-neu-ni-ra ha-si-ni-ra	Joshua 1:9 — “Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.”	1.0	
+ourweeks	nov15-01	처음 뵙겠습니다. 미국에서 왔어요.	처음 뵙겠습니다. 미국에서 왔어요.	cheo-eum boep-get-seum-ni-da. mi-gu-ge-seo wa-sseo-yo	Nice to meet you. I came from America.	1.0	
+ourweeks	nov15-02	함께 예배드릴 수 있어서 감사해요.	함께 예배드릴 수 있어서 감사해요.	ham-kke ye-bae-deu-ril su i-sseo-seo gam-sa-hae-yo	I'm thankful we could worship together.	1.0	
+ourweeks	nov16-01	영어 캠프에 온 걸 환영해요!	영어 캠프에 온 걸 환영해요!	yeong-eo kaem-peu-e on geol hwa-nyeong-hae-yo	Welcome to English Camp!	1.0	
+ourweeks	nov16-02	잘했어요! 한 번 더 해 볼까요?	잘했어요! 한 번 더 해 볼까요?	jal-hae-sseo-yo! han beon deo hae bol-kka-yo	Well done! Shall we try one more time?	1.0	
+ourweeks	nov21-01	무궁화 꽃이 피었습니다!	무궁화 꽃이 피었습니다!	mu-gung-hwa kko-chi pi-eot-seum-ni-da	“The rose of Sharon has bloomed!” (the Korean “Red Light, Green Light”)	1.0	
+ourweeks	nov21-02	달고나 성공했어요!	달고나 성공했어요!	dal-go-na seong-gong-hae-sseo-yo	I did it — my dalgona shape didn't break!	1.0	
+ourweeks	nov22-01	새생명축제에 오신 것을 환영합니다!	새생명축제에 오신 것을 환영합니다!	sae-saeng-myeong-chuk-je-e o-sin geo-seul hwa-nyeong-ham-ni-da	Welcome to the New Life Festival!	1.0	
+ourweeks	nov22-02	오늘 와 주셔서 정말 감사해요.	오늘 와 주셔서 정말 감사해요.	o-neul wa ju-syeo-seo jeong-mal gam-sa-hae-yo	Thank you so much for coming today.	1.0	
+ourweeks	nov24-01	수료를 축하해요!	수료를 축하해요!	su-ryo-reul chu-ka-hae-yo	Congratulations on finishing the camp!	1.0	
+ourweeks	nov24-02	같이 사진 찍어요!	같이 사진 찍어요!	ga-chi sa-jin jji-geo-yo	Let's take a picture together!	1.0	
+ourweeks	nov25-01	예수님이 당신을 사랑하십니다.	예수님이 당신을 사랑하십니다.	ye-su-ni-mi dang-si-neul sa-rang-ha-sim-ni-da	Jesus loves you.	1.0	
+ourweeks	nov25-02	함께 찬양해요.	함께 찬양해요.	ham-kke cha-nyang-hae-yo	Let's praise God together.	1.0	
+ourweeks	nov28-01	그동안 정말 고마웠어요.	그동안 정말 고마웠어요.	geu-dong-an jeong-mal go-ma-wo-sseo-yo	Thank you so much for everything.	1.0	
+ourweeks	nov28-02	서로 기도해요. 또 만나요!	서로 기도해요. 또 만나요!	seo-ro gi-do-hae-yo. tto man-na-yo	Let's pray for each other. See you again!	1.0	
+ourweeks	diary-01	저는 미국에서 한국에 왔어요.	저는 미국에서 한국에 왔어요.	jeo-neun mi-gu-ge-seo han-gu-ge wa-sseo-yo	I came to Korea from America.	1.0	
+ourweeks	diary-02	세움교회에서 좋은 친구들을 많이 만났어요.	세움교회에서 좋은 친구들을 많이 만났어요.	se-um-gyo-hoe-e-seo jo-eun chin-gu-deu-reul ma-ni man-na-sseo-yo	At Seum Church I met many good friends.	1.0	
+ourweeks	diary-03	주일에 같이 찬양하고 기도했어요.	주일에 같이 찬양하고 기도했어요.	ju-i-re ga-chi cha-nyang-ha-go gi-do-hae-sseo-yo	On Sunday we sang praise and prayed together.	1.0	
+ourweeks	diary-04	영어 캠프에서 아이들과 같이 놀았어요.	영어 캠프에서 아이들과 같이 놀았어요.	yeong-eo kaem-peu-e-seo a-i-deul-gwa ga-chi no-ra-sseo-yo	At the English camp I played with the children.	1.0	
+ourweeks	diary-05	가위바위보를 했어요. 정말 재밌었어요!	가위바위보를 했어요. 정말 재밌었어요!	ga-wi-ba-wi-bo-reul hae-sseo-yo. jeong-mal jae-mi-sseo-sseo-yo	We played rock-paper-scissors. It was really fun!	1.0	
+ourweeks	diary-06	교인 집에서 불고기와 김치를 먹었어요.	교인 집에서 불고기와 김치를 먹었어요.	gyo-in ji-be-seo bul-go-gi-wa gim-chi-reul meo-geo-sseo-yo	At a church member's home I ate bulgogi and kimchi.	1.0	
+ourweeks	diary-07	김치는 조금 매웠어요. 그래도 정말 맛있었어요!	김치는 조금 매웠어요. 그래도 정말 맛있었어요!	gim-chi-neun jo-geum mae-wo-sseo-yo. geu-rae-do jeong-mal ma-si-sseo-sseo-yo	The kimchi was a little spicy. But it was really good!	1.0	
+ourweeks	diary-08b	마지막 날에 공항에서 “또 만나요!” 하고 인사했어요.	마지막 날에 공항에서 “또 만나요!” 하고 인사했어요.	ma-ji-mak na-re gong-hang-e-seo “tto man-na-yo!” ha-go in-sa-hae-sseo-yo	On the last day, at the airport, we said “See you again!”	1.0	
+ourweeks	diary-09	한국 친구들이 정말 보고 싶을 거예요.	한국 친구들이 정말 보고 싶을 거예요.	han-guk chin-gu-deu-ri jeong-mal bo-go si-peul geo-ye-yo	I will really miss my Korean friends.	1.0	
+ourweeks	diary-10	하나님, 감사합니다!	하나님, 감사합니다!	ha-na-nim, gam-sa-ham-ni-da	Thank you, God!	1.0	
+sounds	vowel-01	아	아	a	ㅏ — as in “father”	1.0	
+sounds	vowel-02	어	어	eo	ㅓ — as in “up”	1.0	
+sounds	vowel-03	오	오	o	ㅗ — as in “go”	1.0	
+sounds	vowel-04	우	우	u	ㅜ — as in “moon”	1.0	
+sounds	vowel-05	으	으	eu	ㅡ — as in “good (lips flat)”	1.0	
+sounds	vowel-06	이	이	i	ㅣ — as in “see”	1.0	
+sounds	vowel-07	애	애	ae	ㅐ — as in “bed”	1.0	
+sounds	vowel-08	에	에	e	ㅔ — as in “bed”	1.0	
+sounds	vowel-09	야	야	ya	ㅑ — as in “yard”	1.0	
+sounds	vowel-10	여	여	yeo	ㅕ — as in “young”	1.0	
+sounds	vowel-11	요	요	yo	ㅛ — as in “yoga”	1.0	
+sounds	vowel-12	유	유	yu	ㅠ — as in “you”	1.0	
+sounds	cons-01	가	가	ga	ㄱ + ㅏ	1.0	
+sounds	cons-02	나	나	na	ㄴ + ㅏ	1.0	
+sounds	cons-03	다	다	da	ㄷ + ㅏ	1.0	
+sounds	cons-04	라	라	ra	ㄹ + ㅏ	1.0	
+sounds	cons-05	마	마	ma	ㅁ + ㅏ	1.0	
+sounds	cons-06	바	바	ba	ㅂ + ㅏ	1.0	
+sounds	cons-07	사	사	sa	ㅅ + ㅏ	1.0	
+sounds	cons-08	아	아	a	ㅇ + ㅏ	1.0	
+sounds	cons-09	자	자	ja	ㅈ + ㅏ	1.0	
+sounds	cons-10	차	차	cha	ㅊ + ㅏ	1.0	
+sounds	cons-11	카	카	ka	ㅋ + ㅏ	1.0	
+sounds	cons-12	타	타	ta	ㅌ + ㅏ	1.0	
+sounds	cons-13	파	파	pa	ㅍ + ㅏ	1.0	
+sounds	cons-14	하	하	ha	ㅎ + ㅏ	1.0	
+sounds	trio-01	기	기	gi	energy	1.0	
+sounds	trio-02	키	키	ki	height	1.0	
+sounds	trio-03	끼	끼	kki	a meal (한 끼)	1.0	
+sounds	trio-04	달	달	dal	moon	1.0	
+sounds	trio-05	탈	탈	tal	mask	1.0	
+sounds	trio-06	딸	딸	ttal	daughter	1.0	
+sounds	trio-07	불	불	bul	fire	1.0	
+sounds	trio-08	풀	풀	pul	grass	1.0	
+sounds	trio-09	뿔	뿔	ppul	horn	1.0	
+sounds	trio-10	자다	자다	ja-da	to sleep	1.0	
+sounds	trio-11	차다	차다	cha-da	to kick	1.0	
+sounds	trio-12	짜다	짜다	jja-da	salty	1.0	
+sounds	trio-13	사다	사다	sa-da	to buy	1.0	
+sounds	trio-14	싸다	싸다	ssa-da	cheap	1.0	
+sounds	final-01	책	책	chaek	book	1.0	
+sounds	final-02	부엌	부엌	bu-eok	kitchen	1.0	
+sounds	final-03	산	산	san	mountain	1.0	
+sounds	final-04	옷	옷	ot	clothes	1.0	
+sounds	final-05	꽃	꽃	kkot	flower	1.0	
+sounds	final-06	낮	낮	nat	daytime	1.0	
+sounds	final-07	물	물	mul	water	1.0	
+sounds	final-08	밤	밤	bam	night	1.0	
+sounds	final-09	밥	밥	bap	rice	1.0	
+sounds	final-10	앞	앞	ap	front	1.0	
+sounds	final-11	방	방	bang	room	1.0	
+sounds	rules-01	음악	음악 → [으막]	eu-mak	music	1.0	
+sounds	rules-02	한국어	한국어 → [한구거]	han-gu-geo	Korean language	1.0	
+sounds	rules-03	맛있어요	맛있어요 → [마시써요]	ma-si-sseo-yo	It's delicious	1.0	
+sounds	rules-04	감사합니다	감사합니다 → [감사함니다]	gam-sa-ham-ni-da	Thank you	1.0	
+sounds	rules-05	한국말	한국말 → [한궁말]	han-gung-mal	Korean language	1.0	
+sounds	rules-06	믿는	믿는 → [민는]	min-neun	believing	1.0	
+sounds	rules-07	설날	설날 → [설랄]	seol-lal	Korean New Year	1.0	
+sounds	rules-08	신라	신라 → [실라]	sil-la	Silla (old kingdom)	1.0	
+sounds	more-01	행복해요	행복해요 → [행보캐요]	haeng-bo-kae-yo	I'm happy	1.0	
+sounds	more-02	축하해요	축하해요 → [추카해요]	chu-ka-hae-yo	Congratulations	1.0	
+sounds	more-03	괜찮아요	괜찮아요 → [괜차나요]	gwaen-cha-na-yo	It's okay	1.0	
+sounds	more-04	좋아요	좋아요 → [조아요]	jo-a-yo	good / I like it	1.0	
+sounds	more-05	같이	같이 → [가치]	ga-chi	together	1.0	
+sounds	more-06	붙이면	붙이면 → [부치면]	bu-chi-myeon	if you add (it)	1.0	
+sounds	more-07	지하철역	지하철역 → [지하철력]	ji-ha-cheol-lyeok	subway station	1.0	
+sounds	more-08	서울역	서울역 → [서울력]	seo-ul-lyeok	Seoul Station	1.0	
+sounds	more-09	학교	학교 → [학꾜]	hak-gyo	school	1.0	
+sounds	more-10	떡볶이	떡볶이 → [떡뽀끼]	tteok-bo-kki	spicy rice cakes	1.0	
+patterns	p01-01	저는 미국 사람이에요.	저는 미국 사람이에요.	jeo-neun mi-guk sa-ra-mi-e-yo	I'm American.	1.0	
+patterns	p01-02	저는 학생이에요.	저는 학생이에요.	jeo-neun hak-saeng-i-e-yo	I'm a student.	1.0	
+patterns	p01-03	저는 엠마예요.	저는 엠마예요.	jeo-neun em-ma-ye-yo	I'm Emma.	1.0	
+patterns	p01-04	저는 선교사예요.	저는 선교사예요.	jeo-neun seon-gyo-sa-ye-yo	I'm a missionary.	1.0	
+patterns	p02-01	질문이 있어요.	질문이 있어요.	jil-mu-ni i-sseo-yo	I have a question.	1.0	
+patterns	p02-02	동생이 있어요.	동생이 있어요.	dong-saeng-i i-sseo-yo	I have a younger sibling.	1.0	
+patterns	p02-03	시간이 있어요.	시간이 있어요.	si-ga-ni i-sseo-yo	I have time.	1.0	
+patterns	p02-04	알레르기가 있어요.	알레르기가 있어요.	al-le-reu-gi-ga i-sseo-yo	I have an allergy.	1.0	
+patterns	p03-01	물 있어요?	물 있어요?	mul i-sseo-yo	Do you have water?	1.0	
+patterns	p03-02	와이파이 있어요?	와이파이 있어요?	wa-i-pa-i i-sseo-yo	Is there Wi-Fi?	1.0	
+patterns	p03-03	근처에 편의점 있어요?	근처에 편의점 있어요?	geun-cheo-e pyeo-ni-jeom i-sseo-yo	Is there a convenience store nearby?	1.0	
+patterns	p03-04	형제 있어요?	형제 있어요?	hyeong-je i-sseo-yo	Do you have brothers or sisters?	1.0	
+patterns	p04-01	물 주세요.	물 주세요.	mul ju-se-yo	Water, please.	1.0	
+patterns	p04-02	이거 하나 주세요.	이거 하나 주세요.	i-geo ha-na ju-se-yo	One of these, please.	1.0	
+patterns	p04-03	김밥 두 줄 주세요.	김밥 두 줄 주세요.	gim-bap du jul ju-se-yo	Two rolls of gimbap, please.	1.0	
+patterns	p04-04	영수증 주세요.	영수증 주세요.	yeong-su-jeung ju-se-yo	A receipt, please.	1.0	
+patterns	p05-01f	도와 주세요.	도와주세요.	do-wa-ju-se-yo	Please help me.	1.0	
+patterns	p05-02	천천히 말해 주세요.	천천히 말해 주세요.	cheon-cheon-hi mal-hae ju-se-yo	Please speak slowly.	1.0	
+patterns	p05-03	사진 찍어 주세요.	사진 찍어 주세요.	sa-jin jji-geo ju-se-yo	Please take a photo (of me / of us).	1.0	
+patterns	p05-04	여기 써 주세요.	여기 써 주세요.	yeo-gi sseo ju-se-yo	Please write it here.	1.0	
+patterns	p06-01	한국어를 배우고 싶어요.	한국어를 배우고 싶어요.	han-gu-geo-reul bae-u-go si-peo-yo	I want to learn Korean.	1.0	
+patterns	p06-02	김치찌개 먹고 싶어요.	김치찌개 먹고 싶어요.	gim-chi-jji-gae meok-go si-peo-yo	I want to eat kimchi stew.	1.0	
+patterns	p06-03	좀 쉬고 싶어요.	좀 쉬고 싶어요.	jom swi-go si-peo-yo	I want to rest a little.	1.0	
+patterns	p06-04	한국에 또 오고 싶어요.	한국에 또 오고 싶어요.	han-gu-ge tto o-go si-peo-yo	I want to come to Korea again.	1.0	
+patterns	p07-01	도움이 필요해요.	도움이 필요해요.	do-u-mi pi-ryo-hae-yo	I need help.	1.0	
+patterns	p07-02	시간이 필요해요.	시간이 필요해요.	si-ga-ni pi-ryo-hae-yo	I need time.	1.0	
+patterns	p07-03	약이 필요해요.	약이 필요해요.	ya-gi pi-ryo-hae-yo	I need medicine.	1.0	
+patterns	p07-04	충전기가 필요해요.	충전기가 필요해요.	chung-jeon-gi-ga pi-ryo-hae-yo	I need a charger.	1.0	
+patterns	p08-01	한국 음식을 좋아해요.	한국 음식을 좋아해요.	han-guk eum-si-geul jo-a-hae-yo	I like Korean food.	1.0	
+patterns	p08-02	노래를 좋아해요.	노래를 좋아해요.	no-rae-reul jo-a-hae-yo	I like singing.	1.0	
+patterns	p08-03	커피를 좋아해요.	커피를 좋아해요.	keo-pi-reul jo-a-hae-yo	I like coffee.	1.0	
+patterns	p08-04	아이들을 좋아해요.	아이들을 좋아해요.	a-i-deu-reul jo-a-hae-yo	I like children.	1.0	
+patterns	p09-01	들어가도 돼요?	들어가도 돼요?	deu-reo-ga-do dwae-yo	May I come in?	1.0	
+patterns	p09-02	여기 앉아도 돼요?	여기 앉아도 돼요?	yeo-gi an-ja-do dwae-yo	May I sit here?	1.0	
+patterns	p09-03	사진 찍어도 돼요?	사진 찍어도 돼요?	sa-jin jji-geo-do dwae-yo	May I take a photo?	1.0	
+patterns	p09-04	이거 먹어도 돼요?	이거 먹어도 돼요?	i-geo meo-geo-do dwae-yo	May I eat this?	1.0	
+patterns	p10-01	도와줄 수 있어요?	도와줄 수 있어요?	do-wa-jul su i-sseo-yo	Can you help me?	1.0	
+patterns	p10-02	사진 찍어 줄 수 있어요?	사진 찍어 줄 수 있어요?	sa-jin jji-geo jul su i-sseo-yo	Can you take a photo for me?	1.0	
+patterns	p10-03	다시 말해 줄 수 있어요?	다시 말해 줄 수 있어요?	da-si mal-hae jul su i-sseo-yo	Can you say it again?	1.0	
+patterns	p10-04	길 좀 알려 줄 수 있어요?	길 좀 알려 줄 수 있어요?	gil jom al-lyeo jul su i-sseo-yo	Can you show me the way?	1.0	
+patterns	p11-01	한국어 조금 할 수 있어요.	한국어 조금 할 수 있어요.	han-gu-geo jo-geum hal su i-sseo-yo	I can speak a little Korean.	1.0	
+patterns	p11-02	기타 칠 수 있어요.	기타 칠 수 있어요.	gi-ta chil su i-sseo-yo	I can play the guitar.	1.0	
+patterns	p11-03	매운 거 먹을 수 있어요.	매운 거 먹을 수 있어요.	mae-un geo meo-geul su i-sseo-yo	I can eat spicy food.	1.0	
+patterns	p11-04	내일 갈 수 있어요.	내일 갈 수 있어요.	nae-il gal su i-sseo-yo	I can go tomorrow.	1.0	
+patterns	p12-01	매운 거 못 먹어요.	매운 거 못 먹어요.	mae-un geo mon meo-geo-yo	I can't eat spicy food.	1.0	
+patterns	p12-02	수영 못 해요.	수영 못 해요.	su-yeong mo tae-yo	I can't swim.	1.0	
+patterns	p12-03	한국어 잘 못해요.	한국어 잘 못해요.	han-gu-geo jal mo-tae-yo	I don't speak Korean well.	1.0	
+patterns	p12-04	오늘은 못 가요.	오늘은 못 가요.	o-neu-reun mot ga-yo	I can't go today.	1.0	
+patterns	p13-01	안 매워요.	안 매워요.	an mae-wo-yo	It's not spicy.	1.0	
+patterns	p13-02	커피 안 마셔요.	커피 안 마셔요.	keo-pi an ma-syeo-yo	I don't drink coffee.	1.0	
+patterns	p13-03	안 피곤해요.	안 피곤해요.	an pi-gon-hae-yo	I'm not tired.	1.0	
+patterns	p13-04	괜찮아요, 안 추워요.	괜찮아요, 안 추워요.	gwaen-cha-na-yo, an chu-wo-yo	It's okay, I'm not cold.	1.0	
+patterns	p14-01	이제 가야 해요.	이제 가야 해요.	i-je ga-ya hae-yo	I have to go now.	1.0	
+patterns	p14-02	일찍 일어나야 해요.	일찍 일어나야 해요.	il-jjik i-reo-na-ya hae-yo	I have to get up early.	1.0	
+patterns	p14-03	짐을 싸야 해요.	짐을 싸야 해요.	ji-meul ssa-ya hae-yo	I have to pack.	1.0	
+patterns	p14-04	공항에 가야 해요.	공항에 가야 해요.	gong-hang-e ga-ya hae-yo	I have to go to the airport.	1.0	
+patterns	p15-01	토요일에 떠날 거예요.	토요일에 떠날 거예요.	to-yo-i-re tteo-nal geo-ye-yo	I'm leaving on Saturday.	1.0	
+patterns	p15-02	저녁에 비빔밥 먹을 거예요.	저녁에 비빔밥 먹을 거예요.	jeo-nyeo-ge bi-bim-bap meo-geul geo-ye-yo	I'm going to eat bibimbap tonight.	1.0	
+patterns	p15-03	친구를 위해 기도할 거예요.	친구를 위해 기도할 거예요.	chin-gu-reul wi-hae gi-do-hal geo-ye-yo	I'm going to pray for my friend.	1.0	
+patterns	p15-04	다시 올 거예요!	다시 올 거예요!	da-si ol geo-ye-yo	I'm going to come back!	1.0	
+patterns	p16-01	한국어 공부하고 있어요.	한국어 공부하고 있어요.	han-gu-geo gong-bu-ha-go i-sseo-yo	I'm studying Korean.	1.0	
+patterns	p16-02	지금 가고 있어요.	지금 가고 있어요.	ji-geum ga-go i-sseo-yo	I'm on my way.	1.0	
+patterns	p16-03	밥 먹고 있어요.	밥 먹고 있어요.	bap meok-go i-sseo-yo	I'm eating.	1.0	
+patterns	p16-04	기다리고 있어요.	기다리고 있어요.	gi-da-ri-go i-sseo-yo	I'm waiting.	1.0	
+patterns	p17-01	맛있게 먹었어요.	맛있게 먹었어요.	ma-sit-ge meo-geo-sseo-yo	I enjoyed the meal.	1.0	
+patterns	p17-02	정말 재밌었어요.	정말 재밌었어요.	jeong-mal jae-mi-sseo-sseo-yo	It was really fun.	1.0	
+patterns	p17-03	어제 교회에 갔어요.	어제 교회에 갔어요.	eo-je gyo-hoe-e ga-sseo-yo	I went to church yesterday.	1.0	
+patterns	p17-04	많이 배웠어요.	많이 배웠어요.	ma-ni bae-wo-sseo-yo	I learned a lot.	1.0	
+patterns	p18-01	김치 먹어 봤어요?	김치 먹어 봤어요?	gim-chi meo-geo bwa-sseo-yo	Have you ever eaten kimchi?	1.0	
+patterns	p18-02	미국에 가 봤어요?	미국에 가 봤어요?	mi-gu-ge ga bwa-sseo-yo	Have you ever been to America?	1.0	
+patterns	p18-03	한복 입어 봤어요?	한복 입어 봤어요?	han-bok i-beo bwa-sseo-yo	Have you ever worn a hanbok?	1.0	
+patterns	p18-04	네, 해 봤어요!	네, 해 봤어요!	ne, hae bwa-sseo-yo	Yes, I've tried it!	1.0	
+patterns	p19-01	같이 먹어요.	같이 먹어요.	ga-chi meo-geo-yo	Let's eat together.	1.0	
+patterns	p19-02	같이 가요.	같이 가요.	ga-chi ga-yo	Let's go together.	1.0	
+patterns	p19-03	같이 사진 찍어요.	같이 사진 찍어요.	ga-chi sa-jin jji-geo-yo	Let's take a photo together.	1.0	
+patterns	p19-04	같이 찬양해요.	같이 찬양해요.	ga-chi cha-nyang-hae-yo	Let's sing praise together.	1.0	
+patterns	p20-01	화장실이 어디예요?	화장실이 어디예요?	hwa-jang-si-ri eo-di-ye-yo	Where is the restroom?	1.0	
+patterns	p20-02	교회가 어디예요?	교회가 어디예요?	gyo-hoe-ga eo-di-ye-yo	Where is the church?	1.0	
+patterns	p20-03	동춘역이 어디예요?	동춘역이 어디예요?	dong-chun-nyeo-gi eo-di-ye-yo	Where is Dongchun Station?	1.0	
+patterns	p20-04	출구가 어디예요?	출구가 어디예요?	chul-gu-ga eo-di-ye-yo	Where is the exit?	1.0	
+patterns	p21-01	이게 뭐예요?	이게 뭐예요?	i-ge mwo-ye-yo	What is this?	1.0	
+patterns	p21-02	이름이 뭐예요?	이름이 뭐예요?	i-reu-mi mwo-ye-yo	What's your name?	1.0	
+patterns	p21-03	취미가 뭐예요?	취미가 뭐예요?	chwi-mi-ga mwo-ye-yo	What's your hobby?	1.0	
+patterns	p21-04	이거 한국어로 뭐예요?	이거 한국어로 뭐예요?	i-geo han-gu-geo-ro mwo-ye-yo	What is this in Korean?	1.0	
+patterns	p22-01	언제 와요?	언제 와요?	eon-je wa-yo	When are you coming?	1.0	
+patterns	p22-02	언제 떠나요?	언제 떠나요?	eon-je tteo-na-yo	When are you leaving?	1.0	
+patterns	p22-03	예배가 언제예요?	예배가 언제예요?	ye-bae-ga eon-je-ye-yo	When is the worship service?	1.0	
+patterns	p22-04	생일이 언제예요?	생일이 언제예요?	saeng-i-ri eon-je-ye-yo	When is your birthday?	1.0	
+patterns	p23-01	이거 얼마예요?	이거 얼마예요?	i-geo eol-ma-ye-yo	How much is this?	1.0	
+patterns	p23-02	전부 얼마예요?	전부 얼마예요?	jeon-bu eol-ma-ye-yo	How much is it altogether?	1.0	
+patterns	p23-03	커피 한 잔에 얼마예요?	커피 한 잔에 얼마예요?	keo-pi han ja-ne eol-ma-ye-yo	How much is one coffee?	1.0	
+patterns	p23-04	택시비 얼마예요?	택시비 얼마예요?	taek-si-bi eol-ma-ye-yo	What's the taxi fare?	1.0	
+patterns	p24-01	한국 어때요?	한국 어때요?	han-guk eo-ttae-yo	How do you like Korea?	1.0	
+patterns	p24-02	날씨 어때요?	날씨 어때요?	nal-ssi eo-ttae-yo	How's the weather?	1.0	
+patterns	p24-03	이거 어때요?	이거 어때요?	i-geo eo-ttae-yo	How about this one?	1.0	
+patterns	p24-04	내일 어때요?	내일 어때요?	nae-il eo-ttae-yo	How about tomorrow?	1.0	
+patterns	p25-01	비가 올 것 같아요.	비가 올 것 같아요.	bi-ga ol geot ga-ta-yo	I think it will rain.	1.0	
+patterns	p25-02	맛있을 것 같아요.	맛있을 것 같아요.	ma-si-sseul geot ga-ta-yo	It looks delicious.	1.0	
+patterns	p25-03	좋은 것 같아요.	좋은 것 같아요.	jo-eun geot ga-ta-yo	I think it's good.	1.0	
+patterns	p25-04	늦을 것 같아요.	늦을 것 같아요.	neu-jeul geot ga-ta-yo	I think I'll be late.	1.0	
+patterns	p26-01	와 줘서 고마워요.	와 줘서 고마워요.	wa jwo-seo go-ma-wo-yo	Thank you for coming.	1.0	
+patterns	p26-02	도와줘서 고마워요.	도와줘서 고마워요.	do-wa-jwo-seo go-ma-wo-yo	Thank you for helping me.	1.0	
+patterns	p26-03	기도해 줘서 고마워요.	기도해 줘서 고마워요.	gi-do-hae jwo-seo go-ma-wo-yo	Thank you for praying for me.	1.0	
+patterns	p26-04	초대해 줘서 고마워요.	초대해 줘서 고마워요.	cho-dae-hae jwo-seo go-ma-wo-yo	Thank you for inviting me.	1.0	
+patterns	p27-01	늦어서 미안해요.	늦어서 미안해요.	neu-jeo-seo mi-an-hae-yo	Sorry I'm late.	1.0	
+patterns	p27-02	기다리게 해서 미안해요.	기다리게 해서 미안해요.	gi-da-ri-ge hae-seo mi-an-hae-yo	Sorry to keep you waiting.	1.0	
+patterns	p27-03	못 가서 미안해요.	못 가서 미안해요.	mot ga-seo mi-an-hae-yo	Sorry I couldn't go.	1.0	
+patterns	p27-04	잊어버려서 미안해요.	잊어버려서 미안해요.	i-jeo-beo-ryeo-seo mi-an-hae-yo	Sorry I forgot.	1.0	
+patterns	p28-01	걱정하지 마세요.	걱정하지 마세요.	geok-jeong-ha-ji ma-se-yo	Don't worry.	1.0	
+patterns	p28-02	울지 마세요.	울지 마세요.	ul-ji ma-se-yo	Don't cry.	1.0	
+patterns	p28-03	잊지 마세요.	잊지 마세요.	it-ji ma-se-yo	Don't forget.	1.0	
+patterns	p28-04	뛰지 마세요.	뛰지 마세요.	ttwi-ji ma-se-yo	Don't run.	1.0	
+patterns	p29-01	피곤해서 쉬고 싶어요.	피곤해서 쉬고 싶어요.	pi-gon-hae-seo swi-go si-peo-yo	I'm tired, so I want to rest.	1.0	
+patterns	p29-02	배고파서 라면을 먹었어요.	배고파서 라면을 먹었어요.	bae-go-pa-seo ra-myeo-neul meo-geo-sseo-yo	I was hungry, so I ate ramyeon.	1.0	
+patterns	p29-03	기뻐서 노래했어요.	기뻐서 노래했어요.	gi-ppeo-seo no-rae-hae-sseo-yo	I was happy, so I sang.	1.0	
+patterns	p29-04	사랑해서 왔어요.	사랑해서 왔어요.	sa-rang-hae-seo wa-sseo-yo	I came because I love you.	1.0	
+patterns	p30-01	시간이 있으면 같이 가요.	시간이 있으면 같이 가요.	si-ga-ni i-sseu-myeon ga-chi ga-yo	If you have time, let's go together.	1.0	
+patterns	p30-02	비가 오면 안에서 놀아요.	비가 오면 안에서 놀아요.	bi-ga o-myeon a-ne-seo no-ra-yo	If it rains, let's play inside.	1.0	
+patterns	p30-03	한국에 오면 연락하세요.	한국에 오면 연락하세요.	han-gu-ge o-myeon yeol-la-ka-se-yo	If you come to Korea, contact me.	1.0	
+patterns	p30-04	한국에 다시 오면 세움교회에 꼭 들러요!	한국에 다시 오면 세움교회에 꼭 들러요!	han-gu-ge da-si o-myeon se-um-gyo-hoe-e kkok deul-leo-yo	If you come back to Korea, be sure to stop by Seum Church!	1.0	
+reading	story-01	오늘 한국 친구를 만났어요.	오늘 한국 친구를 만났어요.	o-neul han-guk chin-gu-reul man-na-sseo-yo	Today I met a Korean friend.	1.0	
+reading	story-02	우리는 같이 한국 식당에 갔어요.	우리는 같이 한국 식당에 갔어요.	u-ri-neun ga-chi han-guk sik-dang-e ga-sseo-yo	We went to a Korean restaurant together.	1.0	
+reading	story-03	저는 불고기를 먹고, 친구는 떡볶이를 먹었어요.	저는 불고기를 먹고, 친구는 떡볶이를 먹었어요.	jeo-neun bul-go-gi-reul meok-go, chin-gu-neun tteok-bo-kki-reul meo-geo-sseo-yo	I ate bulgogi, and my friend ate tteokbokki.	1.0	
+reading	story-04	떡볶이는 조금 매웠어요.	떡볶이는 조금 매웠어요.	tteok-bo-kki-neun jo-geum mae-wo-sseo-yo	The tteokbokki was a little spicy.	1.0	
+reading	story-05	그래서 물을 많이 마셨어요.	그래서 물을 많이 마셨어요.	geu-rae-seo mu-reul ma-ni ma-syeo-sseo-yo	So we drank a lot of water.	1.0	
+reading	story-06	그다음에 카페에서 커피를 마셨어요.	그다음에 카페에서 커피를 마셨어요.	geu-da-eu-me ka-pe-e-seo keo-pi-reul ma-syeo-sseo-yo	Then we had coffee at a café.	1.0	
+reading	story-07	우리는 가위바위보도 했어요. 제가 이겼어요!	우리는 가위바위보도 했어요. 제가 이겼어요!	u-ri-neun ga-wi-ba-wi-bo-do hae-sseo-yo. je-ga i-gyeo-sseo-yo	We played rock-paper-scissors too. I won!	1.0	
+reading	story-08	헤어질 때 “또 만나요!” 하고 인사했어요.	헤어질 때 “또 만나요!” 하고 인사했어요.	he-eo-jil ttae “tto man-na-yo!” ha-go in-sa-hae-sseo-yo	When we said goodbye, we said “See you again!”	1.0	
+reading	story-09	집에서 친구를 위해 기도했어요.	집에서 친구를 위해 기도했어요.	ji-be-seo chin-gu-reul wi-hae gi-do-hae-sseo-yo	At home I prayed for my friend.	1.0	
+reading	story-10	정말 행복한 하루였어요!	정말 행복한 하루였어요!	jeong-mal haeng-bo-kan ha-ru-yeo-sseo-yo	It was a really happy day!	1.0	
+everyday	morning-01	좋은 아침이에요!	좋은 아침이에요!	jo-eun a-chi-mi-e-yo	Good morning!	1.0	
+everyday	morning-02	안녕히 주무셨어요?	안녕히 주무셨어요?	an-nyeong-hi ju-mu-syeo-sseo-yo	Did you sleep well? (polite morning greeting)	1.0	
+everyday	morning-03	잘 잤어요?	잘 잤어요?	jal ja-sseo-yo	Did you sleep well? (to a friend)	1.0	
+everyday	morning-04	아침 먹었어요?	아침 먹었어요?	a-chim meo-geo-sseo-yo	Did you have breakfast?	1.0	
+everyday	day-01	밥 먹었어요?	밥 먹었어요?	bap meo-geo-sseo-yo	Have you eaten? (a caring Korean “How are you?”)	1.0	
+everyday	day-02	좋은 하루 보내세요!	좋은 하루 보내세요!	jo-eun ha-ru bo-nae-se-yo	Have a good day!	1.0	
+everyday	day-03	오랜만이에요!	오랜만이에요!	o-raen-ma-ni-e-yo	Long time no see!	1.0	
+everyday	day-04	잘 지냈어요?	잘 지냈어요?	jal ji-nae-sseo-yo	How have you been?	1.0	
+everyday	evening-and-night-02	오늘 수고하셨습니다.	오늘 수고하셨습니다.	o-neul su-go-ha-syeot-seum-ni-da	Thank you for your hard work today.	1.0	
+everyday	evening-and-night-03	안녕히 주무세요.	안녕히 주무세요.	an-nyeong-hi ju-mu-se-yo	Good night. (polite)	1.0	
+everyday	evening-and-night-04	잘 자요!	잘 자요!	jal ja-yo	Sleep well! (to a friend)	1.0	
+everyday	evening-and-night-05	좋은 꿈 꾸세요.	좋은 꿈 꾸세요.	jo-eun kkum kku-se-yo	Sweet dreams.	1.0	
+everyday	coming-and-going-01	다녀오겠습니다.	다녀오겠습니다.	da-nyeo-o-get-seum-ni-da	I'm heading out (and I'll be back).	1.0	
+everyday	coming-and-going-02	다녀왔습니다.	다녀왔습니다.	da-nyeo-wat-seum-ni-da	I'm back!	1.0	
+everyday	coming-and-going-04	조심히 가세요.	조심히 가세요.	jo-sim-hi ga-se-yo	Get home safely.	1.0	
+everyday	being-polite-01	저기요.	저기요.	jeo-gi-yo	Excuse me. (to get attention)	1.0	
+everyday	being-polite-02	잠깐만요.	잠깐만요.	jam-kkan-man-yo	Just a moment, please.	1.0	
+everyday	being-polite-03	실례합니다.	실례합니다.	sil-lye-ham-ni-da	Excuse me. (I'm sorry to bother you)	1.0	
+everyday	being-polite-04	천만에요.	천만에요.	cheon-ma-ne-yo	You're welcome.	1.0	
+everyday	being-polite-05	괜찮아요?	괜찮아요?	gwaen-cha-na-yo	Are you okay?	1.0	
+everyday	being-polite-06	수고하셨습니다.	수고하셨습니다.	su-go-ha-syeot-seum-ni-da	Thank you for your hard work. (end of a job; safest with friends and co-workers)	1.0	
+everyday	when-i-don-01	다시 한 번 말해 주세요.	다시 한 번 말해 주세요.	da-si han beon mal-hae ju-se-yo	Please say it one more time.	1.0	
+everyday	when-i-don-02	한국어 조금 해요.	한국어 조금 해요.	han-gu-geo jo-geum hae-yo	I speak a little Korean.	1.0	
+everyday	when-i-don-03	영어 할 수 있어요?	영어 할 수 있어요?	yeong-eo hal su i-sseo-yo	Can you speak English?	1.0	
+everyday	when-i-don-04	알겠어요.	알겠어요.	al-ge-sseo-yo	I understand. / Got it.	1.0	
+everyday	when-i-don-05	잘 모르겠어요.	잘 모르겠어요.	jal mo-reu-ge-sseo-yo	I'm not sure. / I don't know.	1.0	
+everyday	when-i-don-06	이건 한국어로 뭐예요?	이건 한국어로 뭐예요?	i-geon han-gu-geo-ro mwo-ye-yo	How do you say this in Korean?	1.0	
+everyday	with-friends-01	진짜요?	진짜요?	jin-jja-yo	Really?	1.0	
+everyday	with-friends-02	대박!	대박!	dae-bak	Awesome! / No way!	1.0	
+everyday	with-friends-03	좋아요!	좋아요!	jo-a-yo	Sounds good! / I like it!	1.0	
+everyday	with-friends-04	같이 가요!	같이 가요!	ga-chi ga-yo	Let's go together!	1.0	
+everyday	with-friends-05	사진 같이 찍어요!	사진 같이 찍어요!	sa-jin ga-chi jji-geo-yo	Let's take a photo together!	1.0	
+travel	at-the-airport-01	인천공항	인천공항	in-cheon-gong-hang	Incheon Airport	1.0	
+travel	at-the-airport-02	출국장이 어디예요?	출국장이 어디예요?	chul-guk-jang-i eo-di-ye-yo	Where is the departure area?	1.0	
+travel	at-the-airport-03	이거 기내에 가지고 타도 돼요?	이거 기내에 가지고 타도 돼요?	i-geo gi-nae-e ga-ji-go ta-do dwae-yo	Can I take this on the plane?	1.0	
+travel	at-the-airport-04	비행기가 몇 시예요?	비행기가 몇 시예요?	bi-haeng-gi-ga myeot si-ye-yo	What time is the flight?	1.0	
+travel	in-a-taxi-01	여기로 가 주세요.	여기로 가 주세요.	yeo-gi-ro ga ju-se-yo	Please take me here. (show the address)	1.0	
+travel	in-a-taxi-02	얼마나 걸려요?	얼마나 걸려요?	eol-ma-na geol-lyeo-yo	How long does it take?	1.0	
+travel	in-a-taxi-03	여기서 세워 주세요.	여기서 세워 주세요.	yeo-gi-seo se-wo ju-se-yo	Please stop here.	1.0	
+travel	in-a-taxi-04	카드 돼요?	카드 돼요?	ka-deu dwae-yo	Can I pay by card?	1.0	
+travel	subway-and-bus-01	지하철역이 어디예요?	지하철역이 어디예요?	ji-ha-cheol-lyeo-gi eo-di-ye-yo	Where is the subway station?	1.0	
+travel	subway-and-bus-02	이 버스 송도 가요?	이 버스 송도 가요?	i beo-seu song-do ga-yo	Does this bus go to Songdo?	1.0	
+travel	subway-and-bus-03	어디서 내려요?	어디서 내려요?	eo-di-seo nae-ryeo-yo	Where do I get off?	1.0	
+travel	subway-and-bus-04	몇 번 출구예요?	몇 번 출구예요?	myeot beon chul-gu-ye-yo	Which exit number is it?	1.0	
+travel	directions-01	오른쪽 · 왼쪽 · 직진	오른쪽 · 왼쪽 · 직진	o-reun-jok · oen-jok · jik-jin	right · left · straight ahead	1.0	
+travel	directions-02	여기 · 저기	여기 · 저기	yeo-gi · jeo-gi	here · over there	1.0	
+travel	directions-03	가까워요? 멀어요?	가까워요? 멀어요?	ga-kka-wo-yo? meo-reo-yo	Is it near? Is it far?	1.0	
+travel	directions-04	길을 잃었어요.	길을 잃었어요.	gi-reul i-reo-sseo-yo	I'm lost.	1.0	
+travel	cafe-and-restaurant-01	아이스 아메리카노 한 잔 주세요.	아이스 아메리카노 한 잔 주세요.	a-i-seu a-me-ri-ka-no han jan ju-se-yo	One iced Americano, please.	1.0	
+travel	cafe-and-restaurant-02	메뉴판 주세요.	메뉴판 주세요.	me-nyu-pan ju-se-yo	The menu, please.	1.0	
+travel	cafe-and-restaurant-03	안 맵게 해 주세요.	안 맵게 해 주세요.	an maep-ge hae ju-se-yo	Not spicy, please.	1.0	
+travel	cafe-and-restaurant-04	포장해 주세요.	포장해 주세요.	po-jang-hae ju-se-yo	To go, please.	1.0	
+travel	cafe-and-restaurant-05	계산해 주세요.	계산해 주세요.	gye-san-hae ju-se-yo	The bill, please.	1.0	
+travel	shopping-01	좀 깎아 주세요.	좀 깎아 주세요.	jom kka-kka ju-se-yo	Could you give me a discount? (at a market)	1.0	
+travel	shopping-02	다른 색 있어요?	다른 색 있어요?	da-reun saek i-sseo-yo	Do you have another color?	1.0	
+travel	shopping-03	그냥 구경하는 거예요.	그냥 구경하는 거예요.	geu-nyang gu-gyeong-ha-neun geo-ye-yo	I'm just looking.	1.0	
+travel	shopping-04	봉투 주세요.	봉투 주세요.	bong-tu ju-se-yo	A bag, please.	1.0	
+travel	at-the-hotel-01	와이파이 비밀번호가 뭐예요?	와이파이 비밀번호가 뭐예요?	wa-i-pa-i bi-mil-beon-ho-ga mwo-ye-yo	What's the Wi-Fi password?	1.0	
+travel	at-the-hotel-02	체크아웃은 몇 시예요?	체크아웃은 몇 시예요?	che-keu-a-u-seun myeot si-ye-yo	What time is check-out?	1.0	
+travel	at-the-hotel-03	수건 더 주세요.	수건 더 주세요.	su-geon deo ju-se-yo	More towels, please.	1.0	
+travel	when-i-need-01	도와주세요!	도와주세요!	do-wa-ju-se-yo	Help me, please!	1.0	
+travel	when-i-need-02	아파요.	아파요.	a-pa-yo	I'm sick. / It hurts.	1.0	
+travel	when-i-need-03	병원 · 약국	병원 · 약국	byeong-won · yak-guk	hospital · pharmacy	1.0	
+travel	when-i-need-04	휴대폰을 잃어버렸어요.	휴대폰을 잃어버렸어요.	hyu-dae-po-neul i-reo-beo-ryeo-sseo-yo	I lost my phone.	1.0	
+travel	when-i-need-05f	일일구, 불, 응급. 일일이, 경찰.	119 (불·응급) · 112 (경찰)	il-il-gu · il-il-i	119 fire & ambulance · 112 police	1.0	
+living	words-you-will-02	몇 분이세요?	몇 분이세요?	myeot bu-ni-se-yo	How many people?	1.0	
+living	words-you-will-04	봉투 필요하세요?	봉투 필요하세요?	bong-tu pi-ryo-ha-se-yo	Do you need a bag?	1.0	
+living	words-you-will-05	영수증 드릴까요?	영수증 드릴까요?	yeong-su-jeung deu-ril-kka-yo	Would you like a receipt?	1.0	
+living	words-you-will-06	카드 꽂아 주세요.	카드 꽂아 주세요.	ka-deu kko-ja ju-se-yo	Please insert your card.	1.0	
+living	words-you-will-07	잠시만 기다려 주세요.	잠시만 기다려 주세요.	jam-si-man gi-da-ryeo ju-se-yo	Please wait a moment.	1.0	
+living	words-you-will-08	여기 있어요.	여기 있어요.	yeo-gi i-sseo-yo	Here you are.	1.0	
+living	words-you-will-10	또 오세요!	또 오세요!	tto o-se-yo	Come again!	1.0	
+living	phone-and-messages-01	여보세요?	여보세요?	yeo-bo-se-yo	Hello? (on the phone)	1.0	
+living	phone-and-messages-02	전화번호가 뭐예요?	전화번호가 뭐예요?	jeon-hwa-beon-ho-ga mwo-ye-yo	What's your phone number?	1.0	
+living	phone-and-messages-03	카톡 해요!	카톡 해요!	ka-tok hae-yo	Let's keep in touch on KakaoTalk!	1.0	
+living	phone-and-messages-04	문자 보낼게요.	문자 보낼게요.	mun-ja bo-nael-ge-yo	I'll text you.	1.0	
+living	at-the-doctor-01	머리가 아파요.	머리가 아파요.	meo-ri-ga a-pa-yo	I have a headache.	1.0	
+living	at-the-doctor-02	배가 아파요.	배가 아파요.	bae-ga a-pa-yo	I have a stomachache.	1.0	
+living	at-the-doctor-03	목이 아파요.	목이 아파요.	mo-gi a-pa-yo	I have a sore throat.	1.0	
+living	at-the-doctor-04	열이 나요.	열이 나요.	yeo-ri na-yo	I have a fever.	1.0	
+living	at-the-doctor-05	감기에 걸렸어요.	감기에 걸렸어요.	gam-gi-e geol-lyeo-sseo-yo	I caught a cold.	1.0	
+living	at-the-doctor-06	약 주세요.	약 주세요.	yak ju-se-yo	Medicine, please.	1.0	
+living	weather-01	날씨가 좋아요.	날씨가 좋아요.	nal-ssi-ga jo-a-yo	The weather is nice.	1.0	
+living	weather-02f	더워요 · 추워요	더워요 · 추워요	deo-wo-yo · chu-wo-yo	It's hot · It's cold	0.9	
+living	weather-03	비가 와요 · 눈이 와요	비가 와요 · 눈이 와요	bi-ga wa-yo · nu-ni wa-yo	It's raining · It's snowing	1.0	
+words	numbers-for-money-01	일 이 삼 사 오	일 이 삼 사 오	il · i · sam · sa · o	1 · 2 · 3 · 4 · 5	1.0	
+words	numbers-for-money-02	육 칠 팔 구 십	육 칠 팔 구 십	yuk · chil · pal · gu · sip	6 · 7 · 8 · 9 · 10	1.0	
+words	numbers-for-money-03	백 · 천 · 만	백 · 천 · 만	baek · cheon · man	100 · 1,000 · 10,000	1.0	
+words	numbers-for-counting-01	하나 둘 셋 넷 다섯	하나 둘 셋 넷 다섯	ha-na · dul · set · net · da-seot	1 · 2 · 3 · 4 · 5	1.0	
+words	numbers-for-counting-02	여섯 일곱 여덟 아홉 열	여섯 일곱 여덟 아홉 열	yeo-seot · il-gop · yeo-deol · a-hop · yeol	6 · 7 · 8 · 9 · 10	1.0	
+words	days-of-the-01	월요일 · 화요일 · 수요일	월요일 · 화요일 · 수요일	wo-ryo-il · hwa-yo-il · su-yo-il	Monday · Tuesday · Wednesday	1.0	
+words	days-of-the-02	목요일 · 금요일	목요일 · 금요일	mo-gyo-il · geu-myo-il	Thursday · Friday	1.0	
+words	days-of-the-03	토요일 · 일요일 (주일)	토요일 · 일요일 (주일)	to-yo-il · i-ryo-il (ju-il)	Saturday · Sunday (the Lord's Day)	1.0	
+words	time-words-01	오늘 · 내일 · 어제	오늘 · 내일 · 어제	o-neul · nae-il · eo-je	today · tomorrow · yesterday	1.0	
+words	time-words-02	아침 · 점심 · 저녁	아침 · 점심 · 저녁	a-chim · jeom-sim · jeo-nyeok	morning (breakfast) · lunch · evening (dinner)	1.0	
+words	time-words-03	지금 · 나중에	지금 · 나중에	ji-geum · na-jung-e	now · later	1.0	
+words	time-words-04f	한 시 · 두 시 · 세 시 반	한 시 · 두 시 · 세 시 반	han si · du si · se si ban	1 o'clock · 2 o'clock · 3:30	0.9	
+words	people-and-family-01	엄마 · 아빠	엄마 · 아빠	eom-ma · a-ppa	mom · dad	1.0	
+words	people-and-family-02	언니 · 오빠	언니 · 오빠	eon-ni · o-ppa	older sister (said by a girl) · older brother (said by a girl)	1.0	
+words	people-and-family-03	누나 · 형	누나 · 형	nu-na · hyeong	older sister (said by a boy) · older brother (said by a boy)	1.0	
+words	people-and-family-04	동생 · 친구	동생 · 친구	dong-saeng · chin-gu	younger brother or sister · friend	1.0	
+words	people-and-family-05	선생님 · 목사님	선생님 · 목사님	seon-saeng-nim · mok-sa-nim	teacher · pastor	1.0	
+words	people-and-family-06	집사님 · 권사님	집사님 · 권사님	jip-sa-nim · gwon-sa-nim	deacon/deaconess · senior deaconess (church titles)	1.0	
+words	places-01	집 · 학교 · 교회	집 · 학교 · 교회	jip · hak-gyo · gyo-hoe	home · school · church	1.0	
+words	places-02	식당 · 카페 · 편의점	식당 · 카페 · 편의점	sik-dang · ka-pe · pyeo-ni-jeom	restaurant · café · convenience store	1.0	
+words	places-03	화장실 · 공원 · 바다	화장실 · 공원 · 바다	hwa-jang-sil · gong-won · ba-da	restroom · park · sea	1.0	
+words	colors-01	빨간색 · 파란색 · 노란색	빨간색 · 파란색 · 노란색	ppal-gan-saek · pa-ran-saek · no-ran-saek	red · blue · yellow	1.0	
+words	colors-02	하얀색 · 검은색 · 초록색	하얀색 · 검은색 · 초록색	ha-yan-saek · geo-meun-saek · cho-rok-saek	white · black · green	1.0	
+words	describing-01	커요 · 작아요	커요 · 작아요	keo-yo · ja-ga-yo	It's big · It's small	1.0	
+words	describing-02	예뻐요 · 멋있어요	예뻐요 · 멋있어요	ye-ppeo-yo · meo-si-sseo-yo	It's pretty · It's cool	1.0	
+words	describing-03	많아요 · 적어요	많아요 · 적어요	ma-na-yo · jeo-geo-yo	There's a lot · There isn't much	1.0	
+numbers	sino-01	십일 · 이십 · 삼십오	십일 · 이십 · 삼십오	si-bil · i-sip · sam-si-bo	11 · 20 · 35	1.0	
+numbers	sino-02	백 · 천	백 · 천	baek · cheon	100 · 1,000	1.0	
+numbers	sino-03	만 · 만 오천	만 · 만 오천	man · man o-cheon	10,000 · 15,000	1.0	
+numbers	native-01	열하나 · 스물 · 서른다섯	열하나 · 스물 · 서른다섯	yeol-ha-na · seu-mul · seo-reun-da-seot	11 · 20 · 35	1.0	
+numbers	counters-01	사과 두 개	사과 두 개	sa-gwa du gae	two apples (개)	1.0	
+numbers	counters-02	세 명 · 두 분	세 명 · 두 분	se myeong · du bun	three people · two (respected) people (명 · 분)	1.0	
+numbers	counters-03	스무 살	스무 살	seu-mu sal	twenty years old (살)	1.0	
+numbers	counters-04	커피 한 잔	커피 한 잔	keo-pi han jan	a cup of coffee (잔)	1.0	
+numbers	counters-05f	표 두 장	표 두 장	pyo du jang	two tickets (장)	0.9	
+numbers	counters-06	성경 한 권	성경 한 권	seong-gyeong han gwon	one Bible (권)	1.0	
+numbers	counters-07	한 번 더	한 번 더	han beon deo	one more time (번)	1.0	
+numbers	say-01	세 시 이십 분	세 시 이십 분	se si i-sip bun	3:20	1.0	
+numbers	say-02	아홉 시 반	아홉 시 반	a-hop si ban	9:30 (반 = half)	1.0	
+numbers	say-03	열두 시 십오 분	열두 시 십오 분	yeol-du si si-bo bun	12:15	1.0	
+numbers	say-04	천오백 원	천오백 원	cheo-no-baek won	₩1,500	1.0	
+numbers	say-05	만 오천 원	만 오천 원	man o-cheon won	₩15,000	1.0	
+numbers	say-06	삼만 이천 원	삼만 이천 원	sam-man i-cheon won	₩32,000	1.0	
+numbers	say-07f	요한복음 삼 장 십육 절	요한복음 3장 16절	yo-han-bo-geum sam jang sim-nyuk jeol	John 3:16	1.0	
+food	korean-dishes-01	비빔밥	비빔밥	bi-bim-bap	rice mixed with vegetables	1.0	
+food	korean-dishes-02	김치찌개	김치찌개	gim-chi-jji-gae	kimchi stew	1.0	
+food	korean-dishes-03	라면	라면	ra-myeon	instant noodles	1.0	
+food	korean-dishes-04	치킨	치킨	chi-kin	Korean fried chicken	1.0	
+food	korean-dishes-05f	삼겹살.	삼겹살	sam-gyeop-sal	grilled pork belly	1.0	
+food	korean-dishes-06	냉면	냉면	naeng-myeon	cold noodles	1.0	
+food	korean-dishes-07	떡	떡	tteok	rice cake	1.0	
+food	korean-dishes-08	붕어빵	붕어빵	bung-eo-ppang	fish-shaped bun with sweet red beans	1.0	
+food	korean-dishes-09	호떡	호떡	ho-tteok	sweet filled pancake	1.0	
+food	korean-dishes-10	반찬	반찬	ban-chan	side dishes	1.0	
+food	at-the-table-01	밥 · 국 · 고기 · 야채 · 과일	밥 · 국 · 고기 · 야채 · 과일	bap · guk · go-gi · ya-chae · gwa-il	rice · soup · meat · vegetables · fruit	1.0	
+food	at-the-table-02	숟가락 · 젓가락	숟가락 · 젓가락	sut-ga-rak · jeot-ga-rak	spoon · chopsticks	1.0	
+food	at-the-table-03	더 주세요.	더 주세요.	deo ju-se-yo	More, please.	1.0	
+food	at-the-table-04	잘 먹겠습니다 · 잘 먹었습니다	잘 먹겠습니다 · 잘 먹었습니다	jal meok-get-seum-ni-da · jal meo-geot-seum-ni-da	Thanks for the food (before · after)	1.0	
+food	taste-01	달아요 · 짜요 · 셔요	달아요 · 짜요 · 셔요	da-ra-yo · jja-yo · syeo-yo	sweet · salty · sour	1.0	
+food	taste-02	매워요 · 싱거워요	매워요 · 싱거워요	mae-wo-yo · sing-geo-wo-yo	spicy · bland	1.0	
+food	taste-03	뜨거워요 · 차가워요	뜨거워요 · 차가워요	tteu-geo-wo-yo · cha-ga-wo-yo	hot · cold (temperature)	1.0	
+gospel	steps-02	우리는 모두 죄가 있어요.	우리는 모두 죄가 있어요.	u-ri-neun mo-du joe-ga i-sseo-yo	We all have sin.	1.0	
+gospel	steps-03	예수님이 우리를 위해 십자가에서 죽으셨어요.	예수님이 우리를 위해 십자가에서 죽으셨어요.	ye-su-ni-mi u-ri-reul wi-hae sip-ja-ga-e-seo ju-geu-syeo-sseo-yo	Jesus died on the cross for us.	1.0	
+gospel	steps-04	예수님은 다시 살아나셨어요.	예수님은 다시 살아나셨어요.	ye-su-ni-meun da-si sa-ra-na-syeo-sseo-yo	Jesus rose again.	1.0	
+gospel	steps-05	예수님을 믿으면 새 생명을 얻어요.	예수님을 믿으면 새 생명을 얻어요.	ye-su-ni-meul mi-deu-myeon sae saeng-myeong-eul eo-deo-yo	If you believe in Jesus, you receive new life.	1.0	
+gospel	kind-words-for-02	제가 기도해 드려도 될까요?	제가 기도해 드려도 될까요?	je-ga gi-do-hae deu-ryeo-do doel-kka-yo	May I pray for you?	1.0	
+gospel	kind-words-for-03	예수님을 믿어 보세요.	예수님을 믿어 보세요.	ye-su-ni-meul mi-deo bo-se-yo	Please put your trust in Jesus.	1.0	
+gospel	kind-words-for-04	교회에 같이 가요!	교회에 같이 가요!	gyo-hoe-e ga-chi ga-yo	Let's go to church together!	1.0	
+gospel	kind-words-for-05	예수님 안에서 우리는 가족이에요.	예수님 안에서 우리는 가족이에요.	ye-su-nim a-ne-seo u-ri-neun ga-jo-gi-e-yo	In Jesus, we are family.	1.0	
+gospel	kind-words-for-06	하나님이 당신에게 복 주시길 기도해요.	하나님이 당신에게 복 주시길 기도해요.	ha-na-ni-mi dang-si-ne-ge bok ju-si-gil gi-do-hae-yo	I pray that God will bless you.	1.0	
+gospel	a-short-prayer-01b	하나님, 사랑합니다.	하나님, 사랑합니다.	ha-na-nim, sa-rang-ham-ni-da	God, I love You.	1.0	
+gospel	a-short-prayer-02b	예수님, 저를 구원해 주셔서 감사합니다.	예수님, 저를 구원해 주셔서 감사합니다.	ye-su-nim, jeo-reul gu-won-hae ju-syeo-seo gam-sa-ham-ni-da	Jesus, thank You for saving me.	1.0	
+gospel	a-short-prayer-03	제 친구에게 복을 주세요.	제 친구에게 복을 주세요.	je chin-gu-e-ge bo-geul ju-se-yo	Please bless my friend.	1.0	
+gospel	a-short-prayer-04	예수님의 이름으로 기도합니다. 아멘.	예수님의 이름으로 기도합니다. 아멘.	ye-su-ni-me i-reu-meu-ro gi-do-ham-ni-da. a-men	I pray in Jesus' name. Amen.	1.0	
+gospel	words-of-faith-01	은혜 · 믿음 · 소망 · 사랑	은혜 · 믿음 · 소망 · 사랑	eun-hye · mi-deum · so-mang · sa-rang	grace · faith · hope · love	1.0	
+gospel	words-of-faith-02	구원 · 십자가 · 부활	구원 · 십자가 · 부활	gu-won · sip-ja-ga · bu-hwal	salvation · the cross · resurrection	1.0	
+gospel	words-of-faith-03	성경 · 예배 · 천국	성경 · 예배 · 천국	seong-gyeong · ye-bae · cheon-guk	the Bible · worship service · heaven	1.0	
+gospel	words-of-faith-04	성령 · 회개 · 감사	성령 · 회개 · 감사	seong-nyeong · hoe-gae · gam-sa	the Holy Spirit · repentance · thanksgiving	1.0	
